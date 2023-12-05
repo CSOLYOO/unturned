@@ -28,8 +28,8 @@ Firerate 40
 Action Pump
 
 Player_Damage 150
-Zombie_Damage 150
-Animal_Damage 150
+Zombie_Damage 1500
+Animal_Damage 1500
 Barricade_Damage 50
 Structure_Damage 50
 Vehicle_Damage 100
