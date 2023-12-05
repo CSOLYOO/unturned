@@ -41,7 +41,7 @@ Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 Instakill_Headshots True
 
-Zombie_Damage 99
+Zombie_Damage 115
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
