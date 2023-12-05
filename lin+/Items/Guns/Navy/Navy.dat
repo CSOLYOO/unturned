@@ -2,7 +2,7 @@ GUID 8706619a590c4b1c9f97603e0e341631
 Type Gun
 Rarity Uncommon
 Useable Gun
-Slot Secondary
+Slot Any
 ID 27167
 
 Size_X 3
@@ -30,7 +30,7 @@ Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 
-Zombie_Damage 115
+Zombie_Damage 200
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
