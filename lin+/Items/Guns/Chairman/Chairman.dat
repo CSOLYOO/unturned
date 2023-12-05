@@ -30,14 +30,14 @@ Player_Arm_Multiplier 0.7
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.2
 
-Zombie_Damage 40
-Zombie_Leg_Multiplier 0.7
-Zombie_Arm_Multiplier 0.7
+Zombie_Damage 99
+Zombie_Leg_Multiplier 0.8
+Zombie_Arm_Multiplier 0.8
 Zombie_Spine_Multiplier 0.8
 Zombie_Skull_Multiplier 1.2
 
-Animal_Damage 40
-Animal_Leg_Multiplier 0.7
+Animal_Damage 99
+Animal_Leg_Multiplier 0.8
 Animal_Spine_Multiplier 0.8
 Animal_Skull_Multiplier 1.2
 
