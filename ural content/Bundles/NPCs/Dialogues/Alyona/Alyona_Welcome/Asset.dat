@@ -1,0 +1,25 @@
+GUID e29a51dcbf9b45bbbb7a0788e1147af7
+
+Type Dialogue
+ID 14299
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Alyona_Vendor_Completed
+Response_0_Dialogue 14292
+Response_0_Vendor 14293
+
+
+// Supply origin?
+// Alyona_Supply
+Response_1_Dialogue 14290
+Response_1_Rewards 1
+
+// Can_Sell_To_Alyona
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 14294
+Response_1_Reward_0_Value True

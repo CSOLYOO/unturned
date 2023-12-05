@@ -1,0 +1,22 @@
+GUID fc8aafedb76147a184d784a5d29ee790
+
+Type Animal
+ID 62902	
+
+Speed_Run 4
+Speed_Walk 2
+
+Behaviour Offense
+
+Health 470
+Regen 0.6
+Damage 14
+
+Reward_ID 62912
+Reward_XP 190
+Reward_Min 1
+Reward_Max 1
+
+Roars 3
+
+Exclude_From_Master_Bundle

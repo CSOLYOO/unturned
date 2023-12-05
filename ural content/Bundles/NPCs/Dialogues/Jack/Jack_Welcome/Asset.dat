@@ -1,0 +1,25 @@
+GUID 12ca1e5d2c884016a42a24ac4b658e14
+
+Type Dialogue
+ID 11389
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Jack_Vendor_Completed
+Response_0_Dialogue 11382
+Response_0_Vendor 11383
+
+
+// Supply origin?
+// Jack_Supply
+Response_1_Dialogue 11380
+Response_1_Rewards 1
+
+// Can_Sell_To_Jack
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11384
+Response_1_Reward_0_Value True

@@ -1,0 +1,39 @@
+GUID 14dc8dbb9edc4cb6a9d6b7c364e0d1bb
+Type Dialogue
+ID 11289
+
+Messages 1
+Message_0_Pages 1
+
+
+Responses 4
+
+// I'd like to trade
+// Eduard_Vendor_Completed
+Response_0_Dialogue 11282
+Response_0_Vendor 11283
+
+// Supply origin?
+// Eduard_Supply
+Response_1_Dialogue 11280
+Response_1_Rewards 1
+
+// Can_Sell_To_Eduard
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11284
+Response_1_Reward_0_Value True
+
+//Response_3_Dialogue XX
+//Response_3_Quest 98
+//Response_3_Messages 1
+//Response_3_Message_0 0
+//Response_3_Rewards 1
+//Response_3_Reward_0_Type Quest
+//Response_3_Reward_0_ID 99
+
+// Prequest
+//Message_0_Conditions 1
+//Message_0_Condition_1_Type Quest
+//Message_0_Condition_1_Logic Equal
+//Message_0_Condition_1_ID 99
+//Message_0_Condition_1_Status None

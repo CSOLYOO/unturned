@@ -1,0 +1,28 @@
+GUID 899b94427b344f8693fb2934a7f5c954
+Type Hat
+Rarity Epic
+Useable Clothing
+ID 35481
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.6
+
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 35481
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle

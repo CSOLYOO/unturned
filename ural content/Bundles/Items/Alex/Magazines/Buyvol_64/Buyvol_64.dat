@@ -1,0 +1,29 @@
+GUID 7325dbb3d2724e32978c38e1b23c93f7
+Type Magazine
+Rarity Rare
+ID 24458
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Amount 64
+Count_Min 37
+Count_Max 64
+
+Calibers 1
+Caliber_0 446
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 24458
+Blueprint_1_Build 30
+
+Exclude_From_Master_Bundle

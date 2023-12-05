@@ -1,0 +1,26 @@
+GUID 7eba89e0514646e9a0d06dc6f16bee49
+Type Barrel
+Rarity Epic
+ID 24393
+
+Size_X 1
+Size_Y 1
+Size_Z 0.125
+
+Calibers 1
+Caliber_0 414
+
+
+Braked
+
+Silenced 
+Volume 0.3
+
+Quality_Min 90
+Quality_Max 100
+
+Ballistic_Drop 1.1
+
+Paintable
+
+Exclude_From_Master_Bundle

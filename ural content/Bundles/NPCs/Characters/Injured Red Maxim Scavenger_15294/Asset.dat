@@ -1,0 +1,18 @@
+﻿// Made in NPC Maker by BowieD
+GUID 8876444f6dec42a9a9e75b8235c56a11
+ID 15294
+Type NPC
+Shirt 873
+Pants 874
+Vest 875
+Primary 269
+Secondary 23001
+Tertiary 15
+Equipped Tertiary
+Face 16
+Beard 0
+Hair 0
+Color_Skin #D8D3CB
+Color_Hair #000000
+Pose Asleep
+Dialogue 11789

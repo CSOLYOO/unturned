@@ -1,0 +1,27 @@
+GUID 9c5b33098d80420e8ebbb9694ccbe872
+
+
+Type Dialogue
+ID 11969
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Kirill_Completed
+Response_0_Dialogue 11962
+Response_0_Vendor 11963
+
+
+// Supply origin?
+// Kirill_Supply
+Response_1_Dialogue 11960
+Response_1_Rewards 1
+
+// Can_Sell_To_Kirill
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11964
+Response_1_Reward_0_Value True
+

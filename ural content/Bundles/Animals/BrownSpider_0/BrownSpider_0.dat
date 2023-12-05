@@ -1,0 +1,20 @@
+GUID 1011a27b49f448e29f2e7f349a938e33
+
+Type Animal
+ID 7005
+
+Speed_Run 8
+Speed_Walk 4
+
+Behaviour Offense
+
+Health 90
+Regen 0.4
+Damage 21
+
+Roars 0
+
+Reward_ID 50002
+Reward_XP 50
+Reward_Min 1
+Reward_Max 8

@@ -1,0 +1,25 @@
+GUID da73c91ba0f14b068d64812b95ec0f43
+
+Type Dialogue
+ID 11829
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Hunter_Completed
+Response_0_Dialogue 11822
+Response_0_Vendor 11823
+
+
+// Supply origin?
+// Hunter_Supply
+Response_1_Dialogue 11820
+Response_1_Rewards 1
+
+// Can_Sell_To_Hunter
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11824
+Response_1_Reward_0_Value True

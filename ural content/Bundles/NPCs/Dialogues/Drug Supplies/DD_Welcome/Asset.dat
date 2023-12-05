@@ -1,0 +1,28 @@
+GUID 4ad1831adf7b47e4a0b23f6b5bd9d916
+
+Type Dialogue
+ID 50044
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Shady2_Vendor_Completed
+Response_0_Dialogue 50045
+Response_0_Vendor 50046
+Response_0_Conditions 1
+Response_0_Condition_0_Type Flag_Bool
+Response_0_Condition_0_ID 6115
+Response_0_Condition_0_Value True
+Response_0_Condition_0_Logic Equal
+
+// Supply origin?
+// Shady2_Supply
+Response_1_Dialogue 50047
+Response_1_Rewards 1
+// Can_Sell_To_Shady2
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 6115
+Response_1_Reward_0_Value True

@@ -1,0 +1,26 @@
+GUID 3baa64f7d8f44b00958f8955440fed72
+
+
+Type Dialogue
+ID 11789
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Red_Scav_Vendor_Completed
+Response_0_Dialogue 11782
+Response_0_Vendor 11783
+
+
+// Supply origin?
+// Red_Scav_Supply
+Response_1_Dialogue 11780
+Response_1_Rewards 1
+
+// Can_Sell_To_Red_Scav
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11784
+Response_1_Reward_0_Value True

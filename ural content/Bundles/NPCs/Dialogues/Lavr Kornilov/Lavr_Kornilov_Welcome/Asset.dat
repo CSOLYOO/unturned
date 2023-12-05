@@ -1,0 +1,26 @@
+GUID 5e07273cdccd4b7ba352e2ae90731047
+
+
+Type Dialogue
+ID 12079
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Lavr_Completed
+Response_0_Dialogue 12072
+Response_0_Vendor 12073
+
+
+// Supply origin?
+// Lavr_Supply
+Response_1_Dialogue 12070
+Response_1_Rewards 1
+
+// Can_Sell_To_Lavr
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 12074
+Response_1_Reward_0_Value True

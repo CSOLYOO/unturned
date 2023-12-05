@@ -1,0 +1,27 @@
+GUID 27573a5c19324392921367352086e431
+
+
+
+Type Dialogue
+ID 12099
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Shadow_Completed
+Response_0_Dialogue 12092
+Response_0_Vendor 12093
+
+
+// Supply origin?
+// Shadow_Supply
+Response_1_Dialogue 12090
+Response_1_Rewards 1
+
+// Can_Sell_To_Shadow
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 12094
+Response_1_Reward_0_Value True

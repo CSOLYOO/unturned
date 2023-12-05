@@ -1,0 +1,20 @@
+GUID 5ee3d830589a466681ce848c8f6d6ddd
+
+Type Spawn
+ID 50003
+
+Roots 2
+Root_0_Spawn_ID 330
+Root_0_Weight 4
+Root_1_Spawn_ID 513
+Root_1_Weight 10
+
+Tables 4
+Table_0_Asset_ID 7006
+Table_0_Weight 15
+Table_1_Asset_ID 7007
+Table_1_Weight 15
+Table_2_Asset_ID 7004
+Table_2_Weight 7
+Table_3_Asset_ID 7005
+Table_3_Weight 7

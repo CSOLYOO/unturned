@@ -1,0 +1,26 @@
+GUID 8aceaae44b3644cfbc2dff32eaefa95e
+
+
+Type Dialogue
+ID 11799
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Makar_Completed
+Response_0_Dialogue 11792
+Response_0_Vendor 11793
+
+
+// Supply origin?
+// Makar_Supply
+Response_1_Dialogue 11790
+Response_1_Rewards 1
+
+// Can_Sell_To_Makar
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11794
+Response_1_Reward_0_Value True

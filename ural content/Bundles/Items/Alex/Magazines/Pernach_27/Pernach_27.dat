@@ -1,0 +1,29 @@
+GUID 3d6c65d3c4ae48e9ac7e026d717fc597
+Type Magazine
+Rarity Epic
+ID 24454
+
+Size_X 1
+Size_Y 2
+Size_Z 0.2
+
+Amount 27
+Count_Min 18
+Count_Max 27
+
+Calibers 1
+Caliber_0 445
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 44
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 24454
+Blueprint_1_Build 30
+
+Exclude_From_Master_Bundle

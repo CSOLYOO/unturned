@@ -1,0 +1,43 @@
+GUID ac0e0412d0634a01860565534fcc1257
+Type Magazine
+Rarity Legendary
+ID 24317
+
+Size_X 1
+Size_Y 2
+Size_Z 0.25
+
+Amount 20
+Count_Min 7
+Count_Max 20
+
+Calibers 1
+Caliber_0 406
+
+Tracer 48
+
+Blueprints 5
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 119
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 24367
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 24317
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 24399
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 24467
+Blueprint_4_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,26 @@
+GUID b4e1563a14524a4e9d941c77da58888a
+
+
+Type Dialogue
+ID 11589
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Stan_Vendor_Completed
+Response_0_Dialogue 11582
+Response_0_Vendor 11583
+
+
+// Supply origin?
+// Stan_Supply
+Response_1_Dialogue 11580
+Response_1_Rewards 1
+
+// Can_Sell_To_Stan
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11584
+Response_1_Reward_0_Value True

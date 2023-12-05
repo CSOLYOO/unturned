@@ -1,0 +1,15 @@
+GUID 78890aec91dc4403973d7aa8b59de4b2
+
+Type Medium
+ID 38481
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 45
+Rubble_Effect 64
+
+LOD Mesh
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle

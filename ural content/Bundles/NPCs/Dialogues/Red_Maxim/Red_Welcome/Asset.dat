@@ -1,0 +1,26 @@
+GUID 1c5bfaa6fbe9480ab793f0137bcdefff
+
+
+Type Dialogue
+ID 11689
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Red_Vendor_Completed
+Response_0_Dialogue 11682
+Response_0_Vendor 11683
+
+
+// Supply origin?
+// Red_Supply
+Response_1_Dialogue 11680
+Response_1_Rewards 1
+
+// Can_Sell_To_Red
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11684
+Response_1_Reward_0_Value True

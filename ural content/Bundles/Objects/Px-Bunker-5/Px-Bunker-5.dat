@@ -1,0 +1,10 @@
+GUID 809722252de24e5bae882ef77b5a1ebd
+
+Type Large
+ID 49001
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Exclude_From_Master_Bundle

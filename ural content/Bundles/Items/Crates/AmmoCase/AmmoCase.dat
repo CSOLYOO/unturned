@@ -1,0 +1,25 @@
+GUID 23a814cb958b4886b1fa5e33d1204164
+
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 34102
+
+Size_X 2
+Size_Y 2
+Size_Z 0.74
+
+Locked
+
+Health 200
+Range 3.84
+Radius 0.5
+Offset 0.64
+
+Storage_X 8
+Storage_Y 8
+
+Explosion 28
+
+Exclude_From_Master_Bundle

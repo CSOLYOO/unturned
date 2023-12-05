@@ -1,0 +1,21 @@
+GUID c9d3e6799dc8498dacb0a25fe56e940f
+Type Sight
+Rarity Rare
+ID 24517
+
+Size_X 2
+Size_Y 1
+Size_Z 0.1
+
+Holographic
+
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 24505
+Blueprint_0_State_Transfer
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle

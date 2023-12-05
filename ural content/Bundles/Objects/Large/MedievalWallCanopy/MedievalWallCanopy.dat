@@ -1,0 +1,10 @@
+GUID 7f6d67d1dc6d41ccae2525de9c9ec60f
+
+Type Large
+ID 39510
+
+LOD Mesh
+LOD_Center_Z -0.5
+LOD_Size_Z -1
+
+Exclude_From_Master_Bundle

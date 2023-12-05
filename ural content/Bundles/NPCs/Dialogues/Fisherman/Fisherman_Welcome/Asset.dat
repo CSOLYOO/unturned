@@ -1,0 +1,26 @@
+GUID dfc7c2df25a9459687bdaa8f659fe77d
+
+
+Type Dialogue
+ID 11819
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Fisherman_Completed
+Response_0_Dialogue 11812
+Response_0_Vendor 11813
+
+
+// Supply origin?
+// Fisherman_Supply
+Response_1_Dialogue 11810
+Response_1_Rewards 1
+
+// Can_Sell_To_Fisherman
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11814
+Response_1_Reward_0_Value True

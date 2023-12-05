@@ -1,0 +1,29 @@
+GUID 325e1f82fff947eb975c8e0eccc37ea3
+
+Type Barricade
+Useable Barricade
+Build Note
+Rarity Epic
+ID 50003
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 50
+Range 4
+Offset 0.025
+
+Explosion 58
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 66
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 69
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 50002
+Blueprint_0_Supply_2_Amount 64
+Blueprint_0_Build 27

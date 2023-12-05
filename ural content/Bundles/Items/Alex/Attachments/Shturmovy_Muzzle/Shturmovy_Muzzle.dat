@@ -1,0 +1,23 @@
+GUID defbee342a6f444e94a13ac3a59850ec
+Type Barrel
+Rarity Epic
+ID 24554
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 414
+
+Braked
+
+Recoil_X 0.8
+Recoil_Y 0.6
+Ballistic_Drop 0.9
+
+Paintable
+
+Blueprints 0
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,25 @@
+GUID 52c7fad4a1d34e36b3fa3e88395667f8
+
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 34103
+
+Size_X 4
+Size_Y 2
+Size_Z 0.7
+
+Locked
+
+Health 200
+Range 3.8
+Radius 0.5
+Offset 1.01
+
+Storage_X 6
+Storage_Y 18
+
+Explosion 28
+
+Exclude_From_Master_Bundle

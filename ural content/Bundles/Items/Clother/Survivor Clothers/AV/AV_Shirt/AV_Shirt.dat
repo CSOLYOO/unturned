@@ -1,0 +1,28 @@
+GUID 1295c8c4720746f084d5cb7177a99201
+
+
+Type Shirt
+Rarity Uncommon
+Useable Clothing
+ID 35020
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 5
+Height 3
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 30062
+Blueprint_0_Product 64
+Blueprint_0_Products 2
+Blueprint_0_Build 27
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 64
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 27

@@ -1,0 +1,26 @@
+GUID 122df974663443a3a197501d15569169
+
+
+Type Dialogue
+ID 12069
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Mic_Completed
+Response_0_Dialogue 12062
+Response_0_Vendor 12063
+
+
+// Supply origin?
+// Mic_Supply
+Response_1_Dialogue 12060
+Response_1_Rewards 1
+
+// Can_Sell_To_Mic
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 12064
+Response_1_Reward_0_Value True

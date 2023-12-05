@@ -1,0 +1,24 @@
+GUID 7bcd3bc73c364ad1891a3d2b0bd13041
+
+Type Dialogue
+ID 11299
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Doctor Johannes_Vendor_Completed
+Response_0_Dialogue 11292
+Response_0_Vendor 11293
+
+
+// Supply origin?
+// Doctor Johannes_Supply
+Response_1_Dialogue 11290
+Response_1_Rewards 1
+// Can_Sell_To_Doctor Johannes
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11294
+Response_1_Reward_0_Value True

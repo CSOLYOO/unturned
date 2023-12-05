@@ -1,0 +1,13 @@
+GUID d827c6dad8a8456f956142c4c28f9b9e
+Type Fuel
+Rarity Rare
+Useable Fuel
+ID 24550
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Fuel 1500
+
+Exclude_From_Master_Bundle

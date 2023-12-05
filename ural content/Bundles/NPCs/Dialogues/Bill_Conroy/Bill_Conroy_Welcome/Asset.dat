@@ -1,0 +1,26 @@
+GUID 40904e9f6a2a4020b918fcb7faa9b73b
+
+
+Type Dialogue
+ID 11859
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Bill_Conroy_Completed
+Response_0_Dialogue 11852
+Response_0_Vendor 11853
+
+
+// Supply origin?
+// Bill_Conroy_Supply
+Response_1_Dialogue 11850
+Response_1_Rewards 1
+
+// Can_Sell_To_Bill_Conroy
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11854
+Response_1_Reward_0_Value True

@@ -1,0 +1,31 @@
+GUID a611599b6a084a42a7dc6f2146fd34ef
+Type Magazine
+Rarity Legendary
+ID 24378
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 150
+Count_Min 38
+Count_Max 149
+
+Calibers 1
+Caliber_0 418
+
+Tracer 48
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1193
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 24378
+Blueprint_1_Build 30
+
+Paintable
+
+Exclude_From_Master_Bundle

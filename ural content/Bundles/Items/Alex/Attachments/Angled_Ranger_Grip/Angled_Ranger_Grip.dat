@@ -1,0 +1,17 @@
+GUID 328a67f4595b405c8c7aef925f9e6b13
+Type Grip
+Rarity Legendary
+ID 24571
+
+Size_X 2
+Size_Y 1
+Size_Z 0.2
+
+Recoil_X 0.2
+Recoil_Y 0.7
+
+Spread 0.4
+Sway 0.4
+Shake 0.4
+
+Exclude_From_Master_Bundle

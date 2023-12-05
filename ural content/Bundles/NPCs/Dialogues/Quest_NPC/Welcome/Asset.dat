@@ -1,0 +1,77 @@
+GUID 74c5667aa63b4ce0b20829c1427c6fd0
+
+
+Type Dialogue
+ID 13801
+
+Messages 4
+
+//Invitation
+Message_0_Pages 1
+Message_0_Responses 2
+Message_0_Response_0 0
+Message_0_Response_1 3
+Message_0_Conditions 1
+Message_0_Condition_0_Type Quest
+Message_0_Condition_0_Logic Equal
+Message_0_Condition_0_ID 13802
+Message_0_Condition_0_Status None
+
+//Prompt finish quest
+Message_1_Pages 1
+Message_1_Responses 2
+Message_1_Response_0 2
+Message_1_Response_1 3
+Message_1_Conditions 1
+Message_1_Condition_0_Type Quest
+Message_1_Condition_0_Logic Equal
+Message_1_Condition_0_ID 13802
+Message_1_Condition_0_Status Active
+
+//Quest complete?
+Message_2_Pages 1
+Message_2_Responses 2
+Message_2_Response_0 1
+Message_2_Response_1 3
+Message_2_Conditions 1
+Message_2_Condition_0_Type Quest
+Message_2_Condition_0_ID 13802
+Message_2_Condition_0_Logic Equal
+Message_2_Condition_0_Status Ready
+
+//nothing to do
+Message_3_Pages 1
+Message_3_Responses 1
+Message_3_Response_0 3
+Message_3_Conditions 1
+Message_3_Condition_0_Type Quest
+Message_3_Condition_0_ID 13802
+Message_3_Condition_0_Logic Equal
+Message_3_Condition_0_Status Completed
+
+
+Responses 4
+
+//Quest accepted
+Response_0_Dialogue 13801
+Response_0_Quest 13802
+Response_0_Messages 1
+Response_0_Message_0 0
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 13802
+
+//finish the quest
+Response_1_Dialogue 13804
+Response_1_Quest 13802
+Response_1_Messages 1
+Response_1_Message_0 2
+Response_1_Conditions 1
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_ID 13802
+Response_1_Condition_0_Status Ready
+Response_1_Condition_0_Reset
+
+
+

@@ -1,0 +1,15 @@
+GUID 913dc8e66ba44edd90b1ce90f99ac98a
+
+Type Small
+ID 64856
+
+LOD Mesh
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 45
+Rubble_Effect 35
+
+Asset_Bundle_Version 2
+
+Exclude_From_Master_Bundle

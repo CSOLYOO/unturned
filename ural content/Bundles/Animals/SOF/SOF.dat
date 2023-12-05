@@ -1,0 +1,20 @@
+GUID ce764da9d1514af5afa646399b5ed2b2
+Type Animal
+ID 59702
+
+Speed_Run 6
+Speed_Walk 2
+
+Behaviour Offense
+
+Health 9000
+Regen 1
+Damage 45
+
+Reward_ID 5003
+Reward_XP 40
+
+Panics 2
+Roars 2
+
+Exclude_From_Master_Bundle

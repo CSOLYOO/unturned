@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+CRC: 2362591627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 858f27d76bb05bc4c41211e68a58e3e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f7ab97adc6ff9a5084ab5f05ca1aa55
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/UralMountain(ByRorik)/ZaryaPack_ByRorik/Animations.prefab
+- Assets/UralMountain(ByRorik)/ZaryaPack_ByRorik/Item.prefab
+- Assets/UralMountain(ByRorik)/ZaryaPack_ByRorik/Backpack.prefab
+- Assets/UralMountain(ByRorik)/Cathedral_ByRorik/Skybox.prefab
+- Assets/UralMountain(ByRorik)/Cathedral_ByRorik/Nav.prefab
+- Assets/UralMountain(ByRorik)/Cathedral_ByRorik/Object.prefab
+Dependencies: []

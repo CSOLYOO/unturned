@@ -1,0 +1,22 @@
+GUID 16a721950c1f476da0cf1e590012e7e8
+
+Type Animal
+ID 62901
+
+Speed_Run 8
+Speed_Walk 3
+
+Behaviour Offense
+
+Health 230
+Regen 0.4
+Damage 13
+
+Reward_ID 62911
+Reward_XP 120
+Reward_Min 1
+Reward_Max 2
+
+Roars 3
+
+Exclude_From_Master_Bundle

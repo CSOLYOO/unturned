@@ -1,0 +1,26 @@
+GUID 1061129f2be14aa790a1953b115eed92
+
+
+Type Dialogue
+ID 11849
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Lizard_Queen_Completed
+Response_0_Dialogue 11842
+Response_0_Vendor 11843
+
+
+// Supply origin?
+// Lizard_Queen_Supply
+Response_1_Dialogue 11840
+Response_1_Rewards 1
+
+// Can_Sell_To_Lizard_Queen
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11844
+Response_1_Reward_0_Value True

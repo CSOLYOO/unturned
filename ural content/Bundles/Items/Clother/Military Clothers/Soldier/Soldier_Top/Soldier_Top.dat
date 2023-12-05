@@ -1,0 +1,28 @@
+GUID b5fafbe158564f43ab4b3a7ef2dcfd4c
+
+
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 35013
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 6
+Height 4
+
+Armor 0.85
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 30033
+Blueprint_0_Product 64
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 64
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32

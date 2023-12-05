@@ -1,0 +1,24 @@
+GUID b06d34f6d4aa42f2abb68aff64b2bcdd
+
+Type Animal
+ID 21212
+
+Speed_Run 8
+Speed_Walk 3
+
+Horizontal_Attack_Range 3.0
+Horizontal_Vehicle_Attack_Range 5.0
+Vertical_Attack_Range 2.5
+
+Behaviour Offense
+
+Health 45000
+Regen 0.2
+Damage 14
+
+Reward_ID 50002
+Reward_XP 5230
+Reward_Min 15
+Reward_Max 24
+
+Roars 7

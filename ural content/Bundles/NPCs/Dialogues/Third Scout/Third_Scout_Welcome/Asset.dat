@@ -1,0 +1,26 @@
+GUID 8c2cd8da7f6b410c965d27a16ebd6863
+
+
+Type Dialogue
+ID 11839
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Third_Scout_Completed
+Response_0_Dialogue 11832
+Response_0_Vendor 11833
+
+
+// Supply origin?
+// Third_Scout_Supply
+Response_1_Dialogue 11830
+Response_1_Rewards 1
+
+// Can_Sell_To_Third_Scout
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11834
+Response_1_Reward_0_Value True

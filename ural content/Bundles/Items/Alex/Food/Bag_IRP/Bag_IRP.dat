@@ -1,0 +1,17 @@
+GUID 94e004385fef4fcab3a54b1533821f82
+Type Food
+Rarity Epic
+Useable Consumeable
+ID 24495
+
+Size_X 1
+Size_Y 2
+Size_Z 0.5
+
+Quality_Min 85
+Quality_Max 100
+
+Food 100
+Water 100
+
+Exclude_From_Master_Bundle

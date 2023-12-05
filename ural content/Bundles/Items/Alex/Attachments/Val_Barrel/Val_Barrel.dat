@@ -1,0 +1,17 @@
+GUID 53365424dc79459baad3a3daf61bc760
+Type Barrel
+ID 24390
+
+Size_X 2
+Size_Y 1
+Size_Z 1
+
+Silenced
+Volume 0.3
+
+Ballistic_Drop 1
+
+Calibers 1
+Caliber_0 406
+
+Exclude_From_Master_Bundle

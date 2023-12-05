@@ -1,0 +1,26 @@
+GUID 072e2829c8e4436b876cf34924a593ef
+
+
+Type Dialogue
+ID 11489
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Mikhail_Vendor_Completed
+Response_0_Dialogue 11482
+Response_0_Vendor 11483
+
+
+// Supply origin?
+// Mikhail_Supply
+Response_1_Dialogue 11480
+Response_1_Rewards 1
+
+// Can_Sell_To_Mikhail
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11484
+Response_1_Reward_0_Value True

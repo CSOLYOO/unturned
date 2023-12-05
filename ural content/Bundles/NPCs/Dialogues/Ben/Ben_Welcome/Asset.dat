@@ -1,0 +1,25 @@
+GUID e66b5228c189446b9fed0732e8569010
+
+Type Dialogue
+ID 12269
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Ben_Completed
+Response_0_Dialogue 12262
+Response_0_Vendor 12263
+
+
+// Supply origin?
+// Ben_Supply
+Response_1_Dialogue 12260
+Response_1_Rewards 1
+
+// Can_Sell_To_Ben
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 12264
+Response_1_Reward_0_Value True

@@ -1,0 +1,29 @@
+GUID 95306fa18877448282692decb267f682
+Type Magazine
+Rarity Legendary
+ID 24392
+
+Size_X 1
+Size_Y 1
+Size_Z 0.225
+
+Amount 3
+
+Calibers 1
+Caliber_0 435
+
+Range 10
+Player_Damage 60
+Zombie_Damage 1000
+Animal_Damage 1000
+Barricade_Damage 60
+Structure_Damage 60
+Vehicle_Damage 40
+Resource_Damage 70
+Object_Damage 70
+Explosion 34
+Explosive
+
+Delete_Empty
+
+Exclude_From_Master_Bundle

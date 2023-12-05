@@ -1,0 +1,17 @@
+GUID b7395904bb1d4b4d9114adc407151af1
+Type Grip
+Rarity Rare
+ID 24570
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Recoil_X 2
+Recoil_Y 1
+
+Spread 0.6
+Sway 0.6
+Shake 0.6
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,15 @@
+GUID a8b44e8dcf6c462e9a26b5faa11a281e
+
+Type Water
+Useable Consumeable
+Rarity Epic
+ID 50002
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Virus 25
+Food 5
+Water 5
+Vision 60

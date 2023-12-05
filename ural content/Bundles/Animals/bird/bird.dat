@@ -1,0 +1,14 @@
+GUID e8cf1cd4bcd74dfba6d7e46cb2b9c684
+Type Animal
+ID 20001
+
+Speed_Run 20
+Speed_Walk 20
+
+Behaviour Offense
+
+Health 1000
+Regen 0.2
+Damage 100
+ 
+Exclude_From_Master_Bundle

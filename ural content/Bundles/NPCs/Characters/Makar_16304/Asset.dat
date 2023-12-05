@@ -1,0 +1,17 @@
+﻿// Made in NPC Maker by BowieD
+GUID b026d2f5f704472ba824d8edfd4147ea
+ID 16304
+Type NPC
+Shirt 211
+Pants 518
+Vest 803
+Primary 490
+Secondary 141
+Equipped Secondary
+Face 8
+Beard 11
+Hair 22
+Color_Skin #C78652
+Color_Hair #0F0B09
+Pose Stand
+Dialogue 11799

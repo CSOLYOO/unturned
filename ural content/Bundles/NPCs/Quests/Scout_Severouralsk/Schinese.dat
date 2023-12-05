@@ -1,0 +1,4 @@
+Name Keeping the undead at bay
+Description <color=epic>Governor Eduard</color> wants you to clear Severouralsk of some of the worst undead.
+
+Condition_0 Bake {0}/{1} {2}

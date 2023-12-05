@@ -1,0 +1,25 @@
+GUID dedb2b0e89f1404382a677fc9d0800f4
+
+Type Dialogue
+ID 11979
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Dmitri_Kusnetsov_Completed
+Response_0_Dialogue 11972
+Response_0_Vendor 11973
+
+
+// Supply origin?
+// Dmitri_Kusnetsov_Supply
+Response_1_Dialogue 11970
+Response_1_Rewards 1
+
+// Can_Sell_To_Dmitri_Kusnetsov
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 11974
+Response_1_Reward_0_Value True

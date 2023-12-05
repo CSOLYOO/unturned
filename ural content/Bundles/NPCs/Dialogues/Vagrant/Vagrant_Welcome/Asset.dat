@@ -1,0 +1,25 @@
+GUID f98e020e90154a1dbb893383d2329252
+
+Type Dialogue
+ID 12389
+
+Messages 1
+Message_0_Pages 1
+
+Responses 3
+
+// I'd like to trade
+// Vagrant_Vendor_Completed
+Response_0_Dialogue 12382
+Response_0_Vendor 12383
+
+
+// Supply origin?
+// Vagrant_Supply
+Response_1_Dialogue 12380
+Response_1_Rewards 1
+
+// Can_Sell_To_Vagrant
+Response_1_Reward_0_Type Flag_Bool
+Response_1_Reward_0_ID 12384
+Response_1_Reward_0_Value True

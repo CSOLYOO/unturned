@@ -1,0 +1,67 @@
+"Metadata"
+{
+	"GUID" "687d90733ba548fd99b6062889d3de9d"
+	"Type" "SDG.Unturned.LevelAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"Weather_Types"
+	[
+		{
+			// Urals Storm
+			"Asset" "251bf1b9c9a34a239316ee65f78ce279"
+			"Min_Frequency" "2.6"
+			"Max_Frequency" "5.9"
+			"Min_Duration" "0.1"
+			"Max_Duration" "0.2"
+		}
+		{
+			// Default Rain
+			"Asset" "d73923f4416c43dfa5bc8b6234cf0257"
+			"Min_Frequency" "1,6"
+			"Max_Frequency" "4.9"
+			"Min_Duration" "0.1"
+			"Max_Duration" "0.3"
+		}
+		{
+			// Default Snow
+			"Asset" "903577da2ecd4f5784b2f7aed8c300c1"
+			"Min_Frequency" "1.0"
+			"Max_Frequency" "2.9"
+			"Min_Duration" "0.2"
+			"Max_Duration" "0.7"
+		}
+		{
+			// Gentle Snow
+			"Asset" "22a2d4cf2d0341e08bee3d9557b78d23"
+			"Min_Frequency" "0.6"
+			"Max_Frequency" "1.2"
+			"Min_Duration" "0.2"
+			"Max_Duration" "0.6"
+		}
+		{
+			// Default Heavy Rain
+			"Asset" "6c850687bdb947a689fa8de8a8d99afb"
+			"Min_Frequency" "2.6"
+			"Max_Frequency" "5.9"
+			"Min_Duration" "0.1"
+			"Max_Duration" "0.2"
+		}
+		{
+			// Light Fog
+			"Asset" "828335392ffb4692b5b6fd74e8e2226b"
+			"Min_Frequency" "0.5"
+			"Max_Frequency" "0.9"
+			"Min_Duration" "0.1"
+			"Max_Duration" "0.4"
+		}
+		{
+			// Heavy Fog
+			"Asset" "c325223d565b414084283b873dc73d23"
+			"Min_Frequency" "0.5"
+			"Max_Frequency" "0.9"
+			"Min_Duration" "0.1"
+			"Max_Duration" "0.4"
+		}
+	]
+}

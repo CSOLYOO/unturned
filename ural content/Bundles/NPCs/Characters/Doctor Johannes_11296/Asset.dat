@@ -1,0 +1,17 @@
+﻿// Made in NPC Maker by BowieD
+GUID dd1c0cb39dc24b60b3e20ad717150ba1
+ID 11296
+Type NPC
+Shirt 731
+Pants 312
+Mask 570
+Glasses 730
+Tertiary 269
+Equipped Tertiary
+Face 3
+Beard 2
+Hair 3
+Color_Skin #C78652
+Color_Hair #0F0B09
+Pose Sit
+Dialogue 11299

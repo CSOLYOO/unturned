@@ -1,0 +1,30 @@
+GUID 694243d117884f35b73e99d382ce8fc0
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 35519
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.9
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 35519
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
+
+Proof_Water
+Proof_Radiation

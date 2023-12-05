@@ -1,0 +1,26 @@
+GUID 1160bb6de26b4b2c89fff369d31f8c74
+
+Type Animal
+ID 62904
+
+Speed_Run 12
+Speed_Walk 7
+
+Asset_Bundle_Version 2
+
+Behaviour Offense
+
+Health 550
+Regen 0.2
+Damage 60
+
+Reward_ID 0
+Reward_XP 355
+Reward_Min 3
+Reward_Max 4
+
+Roars 3
+
+Panics 0
+
+Exclude_From_Master_Bundle

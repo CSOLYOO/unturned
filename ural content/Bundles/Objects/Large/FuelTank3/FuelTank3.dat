@@ -1,0 +1,11 @@
+GUID e970466764224426bec538056deb5658
+
+Type Large
+ID 10144
+
+Interactability Fuel
+Interactability_Reset 5000
+Interactability_Resource 20000
+
+Asset_Bundle_Version 2
+Exclude_From_Master_Bundle
