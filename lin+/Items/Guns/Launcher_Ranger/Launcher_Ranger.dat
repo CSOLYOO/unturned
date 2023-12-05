@@ -26,8 +26,8 @@ Firerate 50
 Action Rocket
 
 Player_Damage 140
-Zombie_Damage 140
-Animal_Damage 140
+Zombie_Damage 900
+Animal_Damage 900
 Barricade_Damage 50
 Structure_Damage 50
 Vehicle_Damage 100
