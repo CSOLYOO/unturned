@@ -16,9 +16,11 @@ Caliber_0 8
 
 Pellets 4
 
-Ballistic_Damage_Multiplier 1.7
+Ballistic_Damage_Multiplier 2.5
 
 Spread 0.8
+Recoil_X 0.9
+Recoil_Y 0.9
 
 Tracer 48
 
