@@ -3,7 +3,7 @@ GUID 9d8b6ac86f784456943a55b66ddde776
 Type Supply
 ID 63500
 
-Blueprints 76
+Blueprints 129
 
 //low cal civ 民小 不删
 
@@ -1019,6 +1019,711 @@ Blueprint_75_Products 4
 Blueprint_75_Level 1
 Blueprint_75_Skill Craft
 Blueprint_75_Build 27
+
+//rangr-lite 5.45 40发
+
+Blueprint_76_Type Gear
+Blueprint_76_Supplies 2
+Blueprint_76_Supply_0_ID 49101
+Blueprint_76_Supply_0_Amount 3
+Blueprint_76_Supply_1_ID 255
+Blueprint_76_Supply_1_Amount 2
+Blueprint_76_Tool 76
+Blueprint_76_Product 16415
+Blueprint_76_Products 2
+Blueprint_76_Level 1
+Blueprint_76_Skill Craft
+Blueprint_76_Build 27
+
+Blueprint_77_Type Gear
+Blueprint_77_Supplies 2
+Blueprint_77_Supply_0_ID 49101
+Blueprint_77_Supply_0_Amount 3
+Blueprint_77_Supply_1_ID 256
+Blueprint_77_Supply_1_Amount 2
+Blueprint_77_Tool 76
+Blueprint_77_Product 16415
+Blueprint_77_Products 2
+Blueprint_77_Level 1
+Blueprint_77_Skill Craft
+Blueprint_77_Build 27
+
+Blueprint_78_Type Gear
+Blueprint_78_Supplies 2
+Blueprint_78_Supply_0_ID 49101
+Blueprint_78_Supply_0_Amount 3
+Blueprint_78_Supply_1_ID 257
+Blueprint_78_Supply_1_Amount 2
+Blueprint_78_Tool 76
+Blueprint_78_Product 16415
+Blueprint_78_Products 2
+Blueprint_78_Level 1
+Blueprint_78_Skill Craft
+Blueprint_78_Build 27
+
+Blueprint_79_Type Gear
+Blueprint_79_Supplies 2
+Blueprint_79_Supply_0_ID 49101
+Blueprint_79_Supply_0_Amount 3
+Blueprint_79_Supply_1_ID 258
+Blueprint_79_Supply_1_Amount 2
+Blueprint_79_Tool 76
+Blueprint_79_Product 16415
+Blueprint_79_Products 2
+Blueprint_79_Level 1
+Blueprint_79_Skill Craft
+Blueprint_79_Build 27
+
+Blueprint_80_Type Gear
+Blueprint_80_Supplies 2
+Blueprint_80_Supply_0_ID 49101
+Blueprint_80_Supply_0_Amount 3
+Blueprint_80_Supply_1_ID 259
+Blueprint_80_Supply_1_Amount 2
+Blueprint_80_Tool 76
+Blueprint_80_Product 16415
+Blueprint_80_Products 2
+Blueprint_80_Level 1
+Blueprint_80_Skill Craft
+Blueprint_80_Build 27
+
+Blueprint_81_Type Gear
+Blueprint_81_Supplies 2
+Blueprint_81_Supply_0_ID 49101
+Blueprint_81_Supply_0_Amount 3
+Blueprint_81_Supply_1_ID 260
+Blueprint_81_Supply_1_Amount 2
+Blueprint_81_Tool 76
+Blueprint_81_Product 16415
+Blueprint_81_Products 2
+Blueprint_81_Level 1
+Blueprint_81_Skill Craft
+Blueprint_81_Build 27
+
+Blueprint_82_Type Gear
+Blueprint_82_Supplies 2
+Blueprint_82_Supply_0_ID 49101
+Blueprint_82_Supply_0_Amount 6
+Blueprint_82_Supply_1_ID 73
+Blueprint_82_Supply_1_Amount 1
+Blueprint_82_Tool 76
+Blueprint_82_Product 16415
+Blueprint_82_Products 4
+Blueprint_82_Level 1
+Blueprint_82_Skill Craft
+Blueprint_82_Build 27
+
+// Rangr 7.62x39 40发
+
+Blueprint_83_Type Gear
+Blueprint_83_Supplies 2
+Blueprint_83_Supply_0_ID 49101
+Blueprint_83_Supply_0_Amount 3
+Blueprint_83_Supply_1_ID 255
+Blueprint_83_Supply_1_Amount 4
+Blueprint_83_Tool 76
+Blueprint_83_Product 16374
+Blueprint_83_Products 2
+Blueprint_83_Level 1
+Blueprint_83_Skill Craft
+Blueprint_83_Build 27
+
+Blueprint_84_Type Gear
+Blueprint_84_Supplies 2
+Blueprint_84_Supply_0_ID 49101
+Blueprint_84_Supply_0_Amount 3
+Blueprint_84_Supply_1_ID 256
+Blueprint_84_Supply_1_Amount 4
+Blueprint_84_Tool 76
+Blueprint_84_Product 16374
+Blueprint_84_Products 2
+Blueprint_84_Level 1
+Blueprint_84_Skill Craft
+Blueprint_84_Build 27
+
+Blueprint_85_Type Gear
+Blueprint_85_Supplies 2
+Blueprint_85_Supply_0_ID 49101
+Blueprint_85_Supply_0_Amount 3
+Blueprint_85_Supply_1_ID 257
+Blueprint_85_Supply_1_Amount 4
+Blueprint_85_Tool 76
+Blueprint_85_Product 16374
+Blueprint_85_Products 2
+Blueprint_85_Level 1
+Blueprint_85_Skill Craft
+Blueprint_85_Build 27
+
+Blueprint_86_Type Gear
+Blueprint_86_Supplies 2
+Blueprint_86_Supply_0_ID 49101
+Blueprint_86_Supply_0_Amount 3
+Blueprint_86_Supply_1_ID 258
+Blueprint_86_Supply_1_Amount 4
+Blueprint_86_Tool 76
+Blueprint_86_Product 16374
+Blueprint_86_Products 2
+Blueprint_86_Level 1
+Blueprint_86_Skill Craft
+Blueprint_86_Build 27
+
+Blueprint_87_Type Gear
+Blueprint_87_Supplies 2
+Blueprint_87_Supply_0_ID 49101
+Blueprint_87_Supply_0_Amount 3
+Blueprint_87_Supply_1_ID 259
+Blueprint_87_Supply_1_Amount 4
+Blueprint_87_Tool 76
+Blueprint_87_Product 16374
+Blueprint_87_Products 2
+Blueprint_87_Level 1
+Blueprint_87_Skill Craft
+Blueprint_87_Build 27
+
+Blueprint_88_Type Gear
+Blueprint_88_Supplies 2
+Blueprint_88_Supply_0_ID 49101
+Blueprint_88_Supply_0_Amount 3
+Blueprint_88_Supply_1_ID 260
+Blueprint_88_Supply_1_Amount 4
+Blueprint_88_Tool 76
+Blueprint_88_Product 16374
+Blueprint_88_Products 2
+Blueprint_88_Level 1
+Blueprint_88_Skill Craft
+Blueprint_88_Build 27
+
+Blueprint_89_Type Gear
+Blueprint_89_Supplies 2
+Blueprint_89_Supply_0_ID 49101
+Blueprint_89_Supply_0_Amount 6
+Blueprint_89_Supply_1_ID 73
+Blueprint_89_Supply_1_Amount 3
+Blueprint_89_Tool 76
+Blueprint_89_Product 16374
+Blueprint_89_Products 4
+Blueprint_89_Level 1
+Blueprint_89_Skill Craft
+Blueprint_89_Build 27
+
+Blueprint_90_Type Gear
+Blueprint_90_Supplies 2
+Blueprint_90_Supply_0_ID 49101
+Blueprint_90_Supply_0_Amount 6
+Blueprint_90_Supply_1_ID 73
+Blueprint_90_Supply_1_Amount 3
+Blueprint_90_Tool 76
+Blueprint_90_Product 16372
+Blueprint_90_Products 1
+Blueprint_90_Level 1
+Blueprint_90_Skill Craft
+Blueprint_90_Build 27
+
+// Rangr-SubSonic 9x39 20发
+
+Blueprint_91_Type Gear
+Blueprint_91_Supplies 2
+Blueprint_91_Supply_0_ID 49101
+Blueprint_91_Supply_0_Amount 2
+Blueprint_91_Supply_1_ID 73
+Blueprint_91_Supply_1_Amount 1
+Blueprint_91_Tool 76
+Blueprint_91_Product 16378
+Blueprint_91_Products 1
+Blueprint_91_Level 1
+Blueprint_91_Skill Craft
+Blueprint_91_Build 27
+
+// PLINK22 .22LR 40发
+
+Blueprint_92_Type Gear
+Blueprint_92_Supplies 2
+Blueprint_92_Supply_0_ID 49101
+Blueprint_92_Supply_0_Amount 1
+Blueprint_92_Supply_1_ID 255
+Blueprint_92_Supply_1_Amount 2
+Blueprint_92_Tool 76
+Blueprint_92_Product 16381
+Blueprint_92_Products 2
+Blueprint_92_Level 1
+Blueprint_92_Skill Craft
+Blueprint_92_Build 27
+
+Blueprint_93_Type Gear
+Blueprint_93_Supplies 2
+Blueprint_93_Supply_0_ID 49101
+Blueprint_93_Supply_0_Amount 1
+Blueprint_93_Supply_1_ID 256
+Blueprint_93_Supply_1_Amount 2
+Blueprint_93_Tool 76
+Blueprint_93_Product 16381
+Blueprint_93_Products 2
+Blueprint_93_Level 1
+Blueprint_93_Skill Craft
+Blueprint_93_Build 27
+
+Blueprint_94_Type Gear
+Blueprint_94_Supplies 2
+Blueprint_94_Supply_0_ID 49101
+Blueprint_94_Supply_0_Amount 1
+Blueprint_94_Supply_1_ID 257
+Blueprint_94_Supply_1_Amount 2
+Blueprint_94_Tool 76
+Blueprint_94_Product 16381
+Blueprint_94_Products 2
+Blueprint_94_Level 1
+Blueprint_94_Skill Craft
+Blueprint_94_Build 27
+
+Blueprint_95_Type Gear
+Blueprint_95_Supplies 2
+Blueprint_95_Supply_0_ID 49101
+Blueprint_95_Supply_0_Amount 1
+Blueprint_95_Supply_1_ID 258
+Blueprint_95_Supply_1_Amount 2
+Blueprint_95_Tool 76
+Blueprint_95_Product 16381
+Blueprint_95_Products 2
+Blueprint_95_Level 1
+Blueprint_95_Skill Craft
+Blueprint_95_Build 27
+
+Blueprint_96_Type Gear
+Blueprint_96_Supplies 2
+Blueprint_96_Supply_0_ID 49101
+Blueprint_96_Supply_0_Amount 1
+Blueprint_96_Supply_1_ID 259
+Blueprint_96_Supply_1_Amount 2
+Blueprint_96_Tool 76
+Blueprint_96_Product 16381
+Blueprint_96_Products 2
+Blueprint_96_Level 1
+Blueprint_96_Skill Craft
+Blueprint_96_Build 27
+
+Blueprint_97_Type Gear
+Blueprint_97_Supplies 2
+Blueprint_97_Supply_0_ID 49101
+Blueprint_97_Supply_0_Amount 1
+Blueprint_97_Supply_1_ID 260
+Blueprint_97_Supply_1_Amount 2
+Blueprint_97_Tool 76
+Blueprint_97_Product 16381
+Blueprint_97_Products 2
+Blueprint_97_Level 1
+Blueprint_97_Skill Craft
+Blueprint_97_Build 27
+
+Blueprint_98_Type Gear
+Blueprint_98_Supplies 2
+Blueprint_98_Supply_0_ID 49101
+Blueprint_98_Supply_0_Amount 4
+Blueprint_98_Supply_1_ID 73
+Blueprint_98_Supply_1_Amount 1
+Blueprint_98_Tool 76
+Blueprint_98_Product 16381
+Blueprint_98_Products 8
+Blueprint_98_Level 1
+Blueprint_98_Skill Craft
+Blueprint_98_Build 27
+
+Blueprint_99_Type Gear
+Blueprint_99_Supplies 2
+Blueprint_99_Supply_0_ID 49102
+Blueprint_99_Supply_0_Amount 1
+Blueprint_99_Supply_1_ID 73
+Blueprint_99_Supply_1_Amount 2
+Blueprint_99_Tool 76
+Blueprint_99_Product 16381
+Blueprint_99_Products 20
+Blueprint_99_Level 1
+Blueprint_99_Skill Craft
+Blueprint_99_Build 27
+
+//Troop .30-06 20发
+
+Blueprint_100_Type Gear
+Blueprint_100_Supplies 2
+Blueprint_100_Supply_0_ID 49101
+Blueprint_100_Supply_0_Amount 2
+Blueprint_100_Supply_1_ID 255
+Blueprint_100_Supply_1_Amount 4
+Blueprint_100_Tool 76
+Blueprint_100_Product 16389
+Blueprint_100_Products 1
+Blueprint_100_Level 1
+Blueprint_100_Skill Craft
+Blueprint_100_Build 27
+
+Blueprint_101_Type Gear
+Blueprint_101_Supplies 2
+Blueprint_101_Supply_0_ID 49101
+Blueprint_101_Supply_0_Amount 2
+Blueprint_101_Supply_1_ID 256
+Blueprint_101_Supply_1_Amount 4
+Blueprint_101_Tool 76
+Blueprint_101_Product 16389
+Blueprint_101_Products 1
+Blueprint_101_Level 1
+Blueprint_101_Skill Craft
+Blueprint_101_Build 27
+
+Blueprint_102_Type Gear
+Blueprint_102_Supplies 2
+Blueprint_102_Supply_0_ID 49101
+Blueprint_102_Supply_0_Amount 2
+Blueprint_102_Supply_1_ID 257
+Blueprint_102_Supply_1_Amount 4
+Blueprint_102_Tool 76
+Blueprint_102_Product 16389
+Blueprint_102_Products 1
+Blueprint_102_Level 1
+Blueprint_102_Skill Craft
+Blueprint_102_Build 27
+
+Blueprint_103_Type Gear
+Blueprint_103_Supplies 2
+Blueprint_103_Supply_0_ID 49101
+Blueprint_103_Supply_0_Amount 2
+Blueprint_103_Supply_1_ID 258
+Blueprint_103_Supply_1_Amount 4
+Blueprint_103_Tool 76
+Blueprint_103_Product 16389
+Blueprint_103_Products 1
+Blueprint_103_Level 1
+Blueprint_103_Skill Craft
+Blueprint_103_Build 27
+
+Blueprint_104_Type Gear
+Blueprint_104_Supplies 2
+Blueprint_104_Supply_0_ID 49101
+Blueprint_104_Supply_0_Amount 2
+Blueprint_104_Supply_1_ID 259
+Blueprint_104_Supply_1_Amount 4
+Blueprint_104_Tool 76
+Blueprint_104_Product 16389
+Blueprint_104_Products 1
+Blueprint_104_Level 1
+Blueprint_104_Skill Craft
+Blueprint_104_Build 27
+
+Blueprint_105_Type Gear
+Blueprint_105_Supplies 2
+Blueprint_105_Supply_0_ID 49101
+Blueprint_105_Supply_0_Amount 2
+Blueprint_105_Supply_1_ID 260
+Blueprint_105_Supply_1_Amount 4
+Blueprint_105_Tool 76
+Blueprint_105_Product 16389
+Blueprint_105_Products 1
+Blueprint_105_Level 1
+Blueprint_105_Skill Craft
+Blueprint_105_Build 27
+
+Blueprint_106_Type Gear
+Blueprint_106_Supplies 2
+Blueprint_106_Supply_0_ID 49101
+Blueprint_106_Supply_0_Amount 8
+Blueprint_106_Supply_1_ID 73
+Blueprint_106_Supply_1_Amount 1
+Blueprint_106_Tool 76
+Blueprint_106_Product 16389
+Blueprint_106_Products 4
+Blueprint_106_Level 1
+Blueprint_106_Skill Craft
+Blueprint_106_Build 27
+
+Blueprint_107_Type Gear
+Blueprint_107_Supplies 2
+Blueprint_107_Supply_0_ID 49102
+Blueprint_107_Supply_0_Amount 2
+Blueprint_107_Supply_1_ID 73
+Blueprint_107_Supply_1_Amount 2
+Blueprint_107_Tool 76
+Blueprint_107_Product 16389
+Blueprint_107_Products 10
+Blueprint_107_Level 1
+Blueprint_107_Skill Craft
+Blueprint_107_Build 27
+
+//Troop-Lite .30 Carbine 40发
+Blueprint_108_Type Gear
+Blueprint_108_Supplies 2
+Blueprint_108_Supply_0_ID 49101
+Blueprint_108_Supply_0_Amount 3
+Blueprint_108_Supply_1_ID 255
+Blueprint_108_Supply_1_Amount 2
+Blueprint_108_Tool 76
+Blueprint_108_Product 16418
+Blueprint_108_Products 2
+Blueprint_108_Level 1
+Blueprint_108_Skill Craft
+Blueprint_108_Build 27
+
+Blueprint_109_Type Gear
+Blueprint_109_Supplies 2
+Blueprint_109_Supply_0_ID 49101
+Blueprint_109_Supply_0_Amount 3
+Blueprint_109_Supply_1_ID 256
+Blueprint_109_Supply_1_Amount 2
+Blueprint_109_Tool 76
+Blueprint_109_Product 16418
+Blueprint_109_Products 2
+Blueprint_109_Level 1
+Blueprint_109_Skill Craft
+Blueprint_109_Build 27
+
+Blueprint_110_Type Gear
+Blueprint_110_Supplies 2
+Blueprint_110_Supply_0_ID 49101
+Blueprint_110_Supply_0_Amount 3
+Blueprint_110_Supply_1_ID 257
+Blueprint_110_Supply_1_Amount 2
+Blueprint_110_Tool 76
+Blueprint_110_Product 16418
+Blueprint_110_Products 2
+Blueprint_110_Level 1
+Blueprint_110_Skill Craft
+Blueprint_110_Build 27
+
+Blueprint_111_Type Gear
+Blueprint_111_Supplies 2
+Blueprint_111_Supply_0_ID 49101
+Blueprint_111_Supply_0_Amount 3
+Blueprint_111_Supply_1_ID 258
+Blueprint_111_Supply_1_Amount 2
+Blueprint_111_Tool 76
+Blueprint_111_Product 16418
+Blueprint_111_Products 2
+Blueprint_111_Level 1
+Blueprint_111_Skill Craft
+Blueprint_111_Build 27
+
+Blueprint_112_Type Gear
+Blueprint_112_Supplies 2
+Blueprint_112_Supply_0_ID 49101
+Blueprint_112_Supply_0_Amount 3
+Blueprint_112_Supply_1_ID 259
+Blueprint_112_Supply_1_Amount 2
+Blueprint_112_Tool 76
+Blueprint_112_Product 16418
+Blueprint_112_Products 2
+Blueprint_112_Level 1
+Blueprint_112_Skill Craft
+Blueprint_112_Build 27
+
+Blueprint_113_Type Gear
+Blueprint_113_Supplies 2
+Blueprint_113_Supply_0_ID 49101
+Blueprint_113_Supply_0_Amount 3
+Blueprint_113_Supply_1_ID 260
+Blueprint_113_Supply_1_Amount 2
+Blueprint_113_Tool 76
+Blueprint_113_Product 16418
+Blueprint_113_Products 2
+Blueprint_113_Level 1
+Blueprint_113_Skill Craft
+Blueprint_113_Build 27
+
+Blueprint_114_Type Gear
+Blueprint_114_Supplies 2
+Blueprint_114_Supply_0_ID 49101
+Blueprint_114_Supply_0_Amount 6
+Blueprint_114_Supply_1_ID 73
+Blueprint_114_Supply_1_Amount 1
+Blueprint_114_Tool 76
+Blueprint_114_Product 16418
+Blueprint_114_Products 4
+Blueprint_114_Level 1
+Blueprint_114_Skill Craft
+Blueprint_114_Build 27
+
+//G-MAX 4.6x30mm 40发
+
+Blueprint_115_Type Gear
+Blueprint_115_Supplies 2
+Blueprint_115_Supply_0_ID 49101
+Blueprint_115_Supply_0_Amount 3
+Blueprint_115_Supply_1_ID 255
+Blueprint_115_Supply_1_Amount 2
+Blueprint_115_Tool 76
+Blueprint_115_Product 16383
+Blueprint_115_Products 2
+Blueprint_115_Level 1
+Blueprint_115_Skill Craft
+Blueprint_115_Build 27
+
+Blueprint_116_Type Gear
+Blueprint_116_Supplies 2
+Blueprint_116_Supply_0_ID 49101
+Blueprint_116_Supply_0_Amount 3
+Blueprint_116_Supply_1_ID 256
+Blueprint_116_Supply_1_Amount 2
+Blueprint_116_Tool 76
+Blueprint_116_Product 16383
+Blueprint_116_Products 2
+Blueprint_116_Level 1
+Blueprint_116_Skill Craft
+Blueprint_116_Build 27
+
+Blueprint_117_Type Gear
+Blueprint_117_Supplies 2
+Blueprint_117_Supply_0_ID 49101
+Blueprint_117_Supply_0_Amount 3
+Blueprint_117_Supply_1_ID 257
+Blueprint_117_Supply_1_Amount 2
+Blueprint_117_Tool 76
+Blueprint_117_Product 16383
+Blueprint_117_Products 2
+Blueprint_117_Level 1
+Blueprint_117_Skill Craft
+Blueprint_117_Build 27
+
+Blueprint_118_Type Gear
+Blueprint_118_Supplies 2
+Blueprint_118_Supply_0_ID 49101
+Blueprint_118_Supply_0_Amount 3
+Blueprint_118_Supply_1_ID 258
+Blueprint_118_Supply_1_Amount 2
+Blueprint_118_Tool 76
+Blueprint_118_Product 16383
+Blueprint_118_Products 2
+Blueprint_118_Level 1
+Blueprint_118_Skill Craft
+Blueprint_118_Build 27
+
+Blueprint_119_Type Gear
+Blueprint_119_Supplies 2
+Blueprint_119_Supply_0_ID 49101
+Blueprint_119_Supply_0_Amount 3
+Blueprint_119_Supply_1_ID 259
+Blueprint_119_Supply_1_Amount 2
+Blueprint_119_Tool 76
+Blueprint_119_Product 16383
+Blueprint_119_Products 2
+Blueprint_119_Level 1
+Blueprint_119_Skill Craft
+Blueprint_119_Build 27
+
+Blueprint_120_Type Gear
+Blueprint_120_Supplies 2
+Blueprint_120_Supply_0_ID 49101
+Blueprint_120_Supply_0_Amount 3
+Blueprint_120_Supply_1_ID 260
+Blueprint_120_Supply_1_Amount 2
+Blueprint_120_Tool 76
+Blueprint_120_Product 16383
+Blueprint_120_Products 2
+Blueprint_120_Level 1
+Blueprint_120_Skill Craft
+Blueprint_120_Build 27
+
+Blueprint_121_Type Gear
+Blueprint_121_Supplies 2
+Blueprint_121_Supply_0_ID 49101
+Blueprint_121_Supply_0_Amount 6
+Blueprint_121_Supply_1_ID 73
+Blueprint_121_Supply_1_Amount 1
+Blueprint_121_Tool 76
+Blueprint_121_Product 16383
+Blueprint_121_Products 4
+Blueprint_121_Level 1
+Blueprint_121_Skill Craft
+Blueprint_121_Build 27
+
+// P-RND 5.7x28 50发
+
+Blueprint_122_Type Gear
+Blueprint_122_Supplies 2
+Blueprint_122_Supply_0_ID 49101
+Blueprint_122_Supply_0_Amount 3
+Blueprint_122_Supply_1_ID 255
+Blueprint_122_Supply_1_Amount 2
+Blueprint_122_Tool 76
+Blueprint_122_Product 16382
+Blueprint_122_Products 2
+Blueprint_122_Level 1
+Blueprint_122_Skill Craft
+Blueprint_122_Build 27
+
+Blueprint_123_Type Gear
+Blueprint_123_Supplies 2
+Blueprint_123_Supply_0_ID 49101
+Blueprint_123_Supply_0_Amount 3
+Blueprint_123_Supply_1_ID 256
+Blueprint_123_Supply_1_Amount 2
+Blueprint_123_Tool 76
+Blueprint_123_Product 16382
+Blueprint_123_Products 2
+Blueprint_123_Level 1
+Blueprint_123_Skill Craft
+Blueprint_123_Build 27
+
+Blueprint_124_Type Gear
+Blueprint_124_Supplies 2
+Blueprint_124_Supply_0_ID 49101
+Blueprint_124_Supply_0_Amount 3
+Blueprint_124_Supply_1_ID 257
+Blueprint_124_Supply_1_Amount 2
+Blueprint_124_Tool 76
+Blueprint_124_Product 16382
+Blueprint_124_Products 2
+Blueprint_124_Level 1
+Blueprint_124_Skill Craft
+Blueprint_124_Build 27
+
+Blueprint_125_Type Gear
+Blueprint_125_Supplies 2
+Blueprint_125_Supply_0_ID 49101
+Blueprint_125_Supply_0_Amount 3
+Blueprint_125_Supply_1_ID 258
+Blueprint_125_Supply_1_Amount 2
+Blueprint_125_Tool 76
+Blueprint_125_Product 16382
+Blueprint_125_Products 2
+Blueprint_125_Level 1
+Blueprint_125_Skill Craft
+Blueprint_125_Build 27
+
+Blueprint_126_Type Gear
+Blueprint_126_Supplies 2
+Blueprint_126_Supply_0_ID 49101
+Blueprint_126_Supply_0_Amount 3
+Blueprint_126_Supply_1_ID 259
+Blueprint_126_Supply_1_Amount 2
+Blueprint_126_Tool 76
+Blueprint_126_Product 16382
+Blueprint_126_Products 2
+Blueprint_126_Level 1
+Blueprint_126_Skill Craft
+Blueprint_126_Build 27
+
+Blueprint_127_Type Gear
+Blueprint_127_Supplies 2
+Blueprint_127_Supply_0_ID 49101
+Blueprint_127_Supply_0_Amount 3
+Blueprint_127_Supply_1_ID 260
+Blueprint_127_Supply_1_Amount 2
+Blueprint_127_Tool 76
+Blueprint_127_Product 16382
+Blueprint_127_Products 2
+Blueprint_127_Level 1
+Blueprint_127_Skill Craft
+Blueprint_127_Build 27
+
+Blueprint_128_Type Gear
+Blueprint_128_Supplies 2
+Blueprint_128_Supply_0_ID 49101
+Blueprint_128_Supply_0_Amount 6
+Blueprint_128_Supply_1_ID 73
+Blueprint_128_Supply_1_Amount 1
+Blueprint_128_Tool 76
+Blueprint_128_Product 16382
+Blueprint_128_Products 4
+Blueprint_128_Level 1
+Blueprint_128_Skill Craft
+Blueprint_128_Build 27
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
