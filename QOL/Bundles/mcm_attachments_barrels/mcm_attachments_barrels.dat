@@ -29,7 +29,7 @@ Blueprint_1_Supply_0_Amount 2
 Blueprint_1_Supply_1_ID 72
 Blueprint_1_Supply_1_Amount 1
 Blueprint_1_Tool 76
-Blueprint_1_Product 150
+Blueprint_1_Product 16312
 Blueprint_1_Products 1
 Blueprint_1_Level 2
 Blueprint_1_Skill Craft
@@ -48,7 +48,7 @@ Blueprint_2_Supply_2_Amount 2
 Blueprint_2_Supply_3_ID 65
 Blueprint_2_Supply_3_Amount 1
 Blueprint_2_Tool 76
-Blueprint_2_Product 7
+Blueprint_2_Product 16313
 Blueprint_2_Products 1
 Blueprint_2_Level 3
 Blueprint_2_Skill Craft
@@ -78,7 +78,7 @@ Blueprint_4_Supply_0_Amount 2
 Blueprint_4_Supply_1_ID 72
 Blueprint_4_Supply_1_Amount 1
 Blueprint_4_Tool 76
-Blueprint_4_Product 1190
+Blueprint_4_Product 16314
 Blueprint_4_Products 1
 Blueprint_4_Level 2
 Blueprint_4_Skill Craft
@@ -97,7 +97,7 @@ Blueprint_5_Supply_2_Amount 2
 Blueprint_5_Supply_3_ID 65
 Blueprint_5_Supply_3_Amount 1
 Blueprint_5_Tool 76
-Blueprint_5_Product 144
+Blueprint_5_Product 16315
 Blueprint_5_Products 1
 Blueprint_5_Level 3
 Blueprint_5_Skill Craft
