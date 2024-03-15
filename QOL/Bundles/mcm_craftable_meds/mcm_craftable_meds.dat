@@ -1,0 +1,293 @@
+GUID 85e9a0b99856421fb18d115a8f62e402
+
+Type Supply
+ID 65134
+
+Blueprints 16
+
+//vitamins
+
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 115
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 270
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 74
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 72
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 138
+Blueprint_0_Product 391
+Blueprint_0_Products 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Cook
+Blueprint_0_Build 27
+
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 115
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 273
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 74
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 72
+Blueprint_1_Supply_3_Amount 1
+Blueprint_1_Tool 138
+Blueprint_1_Product 391
+Blueprint_1_Products 1
+Blueprint_1_Level 1
+Blueprint_1_Skill Cook
+Blueprint_1_Build 27
+
+//cough syrup
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 4
+Blueprint_2_Supply_0_ID 115
+Blueprint_2_Supply_0_Amount 4
+Blueprint_2_Supply_1_ID 275
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 70
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Supply_3_ID 72
+Blueprint_2_Supply_3_Amount 1
+Blueprint_2_Product 404
+Blueprint_2_Products 1
+Blueprint_2_Level 1
+Blueprint_2_Skill Cook
+Blueprint_2_Build 27
+
+//purfication tabs
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 4
+Blueprint_3_Supply_0_ID 115
+Blueprint_3_Supply_0_Amount 6
+Blueprint_3_Supply_1_ID 275
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_2_ID 74
+Blueprint_3_Supply_2_Amount 1
+Blueprint_3_Supply_3_ID 72
+Blueprint_3_Supply_3_Amount 1
+Blueprint_3_Tool 138
+Blueprint_3_Product 392
+Blueprint_3_Products 1
+Blueprint_3_Level 2
+Blueprint_3_Skill Cook
+Blueprint_3_Build 27
+
+//antibiotics
+
+Blueprint_4_Type Supply
+Blueprint_4_Supplies 5
+Blueprint_4_Supply_0_ID 115
+Blueprint_4_Supply_0_Amount 7
+Blueprint_4_Supply_1_ID 270
+Blueprint_4_Supply_1_Amount 3
+Blueprint_4_Supply_2_ID 275
+Blueprint_4_Supply_2_Amount 1
+Blueprint_4_Supply_3_ID 74
+Blueprint_4_Supply_3_Amount 1
+Blueprint_4_Supply_4_ID 72
+Blueprint_4_Supply_4_Amount 1
+Blueprint_4_Tool 138
+Blueprint_4_Product 389
+Blueprint_4_Products 1
+Blueprint_4_Level 3
+Blueprint_4_Skill Cook
+Blueprint_4_Build 27
+
+Blueprint_5_Type Supply
+Blueprint_5_Supplies 5
+Blueprint_5_Supply_0_ID 115
+Blueprint_5_Supply_0_Amount 7
+Blueprint_5_Supply_1_ID 273
+Blueprint_5_Supply_1_Amount 3
+Blueprint_5_Supply_2_ID 275
+Blueprint_5_Supply_2_Amount 1
+Blueprint_5_Supply_3_ID 74
+Blueprint_5_Supply_3_Amount 1
+Blueprint_5_Supply_4_ID 72
+Blueprint_5_Supply_4_Amount 1
+Blueprint_5_Tool 138
+Blueprint_5_Product 389
+Blueprint_5_Products 1
+Blueprint_5_Level 3
+Blueprint_5_Skill Cook
+Blueprint_5_Build 27
+
+Blueprint_6_Type Supply
+Blueprint_6_Supplies 4
+Blueprint_6_Supply_0_ID 115
+Blueprint_6_Supply_0_Amount 7
+Blueprint_6_Supply_1_ID 275
+Blueprint_6_Supply_1_Amount 7
+Blueprint_6_Supply_2_ID 74
+Blueprint_6_Supply_2_Amount 1
+Blueprint_6_Supply_3_ID 72
+Blueprint_6_Supply_3_Amount 1
+Blueprint_6_Tool 138
+Blueprint_6_Product 389
+Blueprint_6_Products 1
+Blueprint_6_Level 3
+Blueprint_6_Skill Cook
+Blueprint_6_Build 27
+
+//painkillers
+
+Blueprint_7_Type Supply
+Blueprint_7_Supplies 4
+Blueprint_7_Supply_0_ID 270
+Blueprint_7_Supply_0_Amount 2
+Blueprint_7_Supply_1_ID 275
+Blueprint_7_Supply_1_Amount 1
+Blueprint_7_Supply_2_ID 74
+Blueprint_7_Supply_2_Amount 1
+Blueprint_7_Supply_3_ID 72
+Blueprint_7_Supply_3_Amount 1
+Blueprint_7_Tool 138
+Blueprint_7_Product 390
+Blueprint_7_Products 1
+Blueprint_7_Level 2
+Blueprint_7_Skill Cook
+Blueprint_7_Build 27
+
+Blueprint_8_Type Supply
+Blueprint_8_Supplies 4
+Blueprint_8_Supply_0_ID 273
+Blueprint_8_Supply_0_Amount 2
+Blueprint_8_Supply_1_ID 275
+Blueprint_8_Supply_1_Amount 1
+Blueprint_8_Supply_2_ID 74
+Blueprint_8_Supply_2_Amount 1
+Blueprint_8_Supply_3_ID 72
+Blueprint_8_Supply_3_Amount 1
+Blueprint_8_Tool 138
+Blueprint_8_Product 390
+Blueprint_8_Products 1
+Blueprint_8_Level 2
+Blueprint_8_Skill Cook
+Blueprint_8_Build 27
+
+Blueprint_9_Type Supply
+Blueprint_9_Supplies 3
+Blueprint_9_Supply_0_ID 275
+Blueprint_9_Supply_0_Amount 5
+Blueprint_9_Supply_1_ID 74
+Blueprint_9_Supply_1_Amount 1
+Blueprint_9_Supply_2_ID 72
+Blueprint_9_Supply_2_Amount 1
+Blueprint_9_Tool 138
+Blueprint_9_Product 390
+Blueprint_9_Products 1
+Blueprint_9_Level 2
+Blueprint_9_Skill Cook
+Blueprint_9_Build 27
+
+//adrenaline
+
+Blueprint_10_Type Supply
+Blueprint_10_Supplies 4
+Blueprint_10_Supply_0_ID 93
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Supply_1_ID 70
+Blueprint_10_Supply_1_Amount 1
+Blueprint_10_Supply_2_ID 74
+Blueprint_10_Supply_2_Amount 1
+Blueprint_10_Supply_3_ID 72
+Blueprint_10_Supply_3_Amount 1
+Blueprint_10_Product 387
+Blueprint_10_Products 1
+Blueprint_10_Build 27
+
+Blueprint_11_Type Supply
+Blueprint_11_Supplies 5
+Blueprint_11_Supply_0_ID 86
+Blueprint_11_Supply_0_Amount 2
+Blueprint_11_Supply_1_ID 14
+Blueprint_11_Supply_1_Amount 1
+Blueprint_11_Supply_2_ID 70
+Blueprint_11_Supply_2_Amount 1
+Blueprint_11_Supply_3_ID 74
+Blueprint_11_Supply_3_Amount 1
+Blueprint_11_Supply_4_ID 72
+Blueprint_11_Supply_4_Amount 1
+Blueprint_11_Product 387
+Blueprint_11_Products 1
+Blueprint_11_Build 27
+
+Blueprint_12_Type Supply
+Blueprint_12_Supplies 4
+Blueprint_12_Supply_0_ID 271
+Blueprint_12_Supply_0_Amount 2
+Blueprint_12_Supply_1_ID 70
+Blueprint_12_Supply_1_Amount 1
+Blueprint_12_Supply_2_ID 74
+Blueprint_12_Supply_2_Amount 1
+Blueprint_12_Supply_3_ID 72
+Blueprint_12_Supply_3_Amount 1
+Blueprint_12_Product 387
+Blueprint_12_Products 1
+Blueprint_12_Build 27
+
+//morphine
+
+Blueprint_13_Type Supply
+Blueprint_13_Supplies 5
+Blueprint_13_Supply_0_ID 115
+Blueprint_13_Supply_0_Amount 2
+Blueprint_13_Supply_1_ID 390
+Blueprint_13_Supply_1_Amount 1
+Blueprint_13_Supply_2_ID 70
+Blueprint_13_Supply_2_Amount 1
+Blueprint_13_Supply_3_ID 74
+Blueprint_13_Supply_3_Amount 1
+Blueprint_13_Supply_4_ID 72
+Blueprint_13_Supply_4_Amount 1
+Blueprint_13_Product 388
+Blueprint_13_Products 1
+Blueprint_13_Build 27
+
+//medkit
+
+Blueprint_14_Type Supply
+Blueprint_14_Supplies 5
+Blueprint_14_Supply_0_ID 394
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Supply_1_ID 390
+Blueprint_14_Supply_1_Amount 1
+Blueprint_14_Supply_2_ID 96
+Blueprint_14_Supply_2_Amount 1
+Blueprint_14_Supply_3_ID 66
+Blueprint_14_Supply_3_Amount 4
+Blueprint_14_Supply_4_ID 69
+Blueprint_14_Supply_4_Amount 1
+Blueprint_14_Product 15
+Blueprint_14_Products 1
+Blueprint_14_Level 3
+Blueprint_14_Skill Craft
+Blueprint_14_Build 27
+
+//suturekit
+
+Blueprint_15_Type Supply
+Blueprint_15_Supplies 5
+Blueprint_15_Supply_0_ID 394
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Supply_1_ID 95
+Blueprint_15_Supply_1_Amount 1
+Blueprint_15_Supply_2_ID 66
+Blueprint_15_Supply_2_Amount 4
+Blueprint_15_Supply_3_ID 69
+Blueprint_15_Supply_3_Amount 1
+Blueprint_15_Product 403
+Blueprint_15_Products 1
+Blueprint_15_Level 2
+Blueprint_15_Skill Craft
+Blueprint_15_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

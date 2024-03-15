@@ -1,0 +1,127 @@
+GUID 05a51cbd7ecf439e8c9b22e5b71c6501
+
+Type Supply
+ID 65122
+
+Blueprints 7
+
+//gasmask
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 1271
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 66
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 70
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 69
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Product 1270
+Blueprint_0_Products 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+//raws
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 4
+Blueprint_1_Supply_0_ID 332
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 362
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 69
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Supply_3_ID 75
+Blueprint_1_Supply_3_Amount 2
+Blueprint_1_Tool 76
+Blueprint_1_Product 73
+Blueprint_1_Products 1
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+//fishing rod
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 285
+Blueprint_2_Supply_0_Amount 4
+Blueprint_2_Supply_1_ID 67
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 65
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Tool 76
+Blueprint_2_Product 503
+Blueprint_2_Products 1
+Blueprint_2_Level 2
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+//detonator
+
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 6
+Blueprint_3_Supply_0_ID 68
+Blueprint_3_Supply_0_Amount 4
+Blueprint_3_Supply_1_ID 67
+Blueprint_3_Supply_1_Amount 2
+Blueprint_3_Supply_2_ID 65
+Blueprint_3_Supply_2_Amount 2
+Blueprint_3_Supply_3_ID 285
+Blueprint_3_Supply_3_Amount 2
+Blueprint_3_Supply_4_ID 1176
+Blueprint_3_Supply_4_Amount 2
+Blueprint_3_Supply_5_ID 73
+Blueprint_3_Supply_5_Amount 2
+Blueprint_3_Tool 76
+Blueprint_3_Product 1240
+Blueprint_3_Products 1
+Blueprint_3_Level 3
+Blueprint_3_Skill Craft
+Blueprint_3_Build 27
+
+//compound bow
+
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 2
+Blueprint_4_Supply_0_ID 285
+Blueprint_4_Supply_0_Amount 7
+Blueprint_4_Supply_1_ID 65
+Blueprint_4_Supply_1_Amount 1
+Blueprint_4_Tool 76
+Blueprint_4_Product 357
+Blueprint_4_Products 1
+Blueprint_4_Level 2
+Blueprint_4_Skill Craft
+Blueprint_4_Build 27
+
+//chemicalz
+
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 270
+Blueprint_5_Supply_0_Amount 10
+Blueprint_5_Product 75
+Blueprint_5_Products 1
+Blueprint_5_Level 1
+Blueprint_5_Skill Cook
+Blueprint_5_Build 27
+
+Blueprint_6_Type Tool
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 273
+Blueprint_6_Supply_0_Amount 10
+Blueprint_6_Product 75
+Blueprint_6_Products 1
+Blueprint_6_Level 1
+Blueprint_6_Skill Cook
+Blueprint_6_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

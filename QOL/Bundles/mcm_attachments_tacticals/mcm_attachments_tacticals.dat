@@ -1,0 +1,69 @@
+GUID 557ba2e8e9824f90b3e2b456bfa0f5a2
+
+Type Supply
+ID 65130
+
+Blueprints 3
+
+//laser
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 285
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 72
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 259
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 276
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Product 151
+Blueprint_0_Products 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+//tac light
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 285
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 72
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Supply_2_ID 276
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Tool 76
+Blueprint_1_Product 152
+Blueprint_1_Products 1
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+//rangefinder
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 6
+Blueprint_2_Supply_0_ID 151
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 1176
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 72
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Supply_3_ID 67
+Blueprint_2_Supply_3_Amount 2
+Blueprint_2_Supply_4_ID 276
+Blueprint_2_Supply_4_Amount 1
+Blueprint_2_Supply_5_ID 256
+Blueprint_2_Supply_5_Amount 1
+Blueprint_2_Tool 76
+Blueprint_2_Product 1008
+Blueprint_2_Products 1
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

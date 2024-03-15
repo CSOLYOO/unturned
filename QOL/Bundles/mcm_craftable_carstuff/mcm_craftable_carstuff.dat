@@ -1,0 +1,109 @@
+GUID 234f2a6063df4883ab773e3203e872b2
+
+Type Supply
+ID 65120
+
+Blueprints 6
+
+//battery
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 75
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 14
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 68
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 285
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Product 1450
+Blueprint_0_Products 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+//gascan
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 68
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 3
+Blueprint_1_Tool 76
+Blueprint_1_Product 28
+Blueprint_1_Products 1
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+//carjack
+
+Blueprint_2_Type Tool
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 68
+Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Supply_1_ID 67
+Blueprint_2_Supply_1_Amount 2
+Blueprint_2_Supply_2_ID 285
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Tool 76
+Blueprint_2_Product 277
+Blueprint_2_Products 1
+Blueprint_2_Level 2
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+//blowtorch
+
+Blueprint_3_Type Tool
+Blueprint_3_Supplies 4
+Blueprint_3_Supply_0_ID 72
+Blueprint_3_Supply_0_Amount 2
+Blueprint_3_Supply_1_ID 67
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Supply_2_ID 285
+Blueprint_3_Supply_2_Amount 1
+Blueprint_3_Supply_3_ID 75
+Blueprint_3_Supply_3_Amount 1
+Blueprint_3_Product 76
+Blueprint_3_Products 1
+Blueprint_3_Level 2
+Blueprint_3_Skill Craft
+Blueprint_3_Build 27
+
+//socketwrench
+
+Blueprint_4_Type Tool
+Blueprint_4_Supplies 2
+Blueprint_4_Supply_0_ID 285
+Blueprint_4_Supply_0_Amount 2
+Blueprint_4_Supply_1_ID 72
+Blueprint_4_Supply_1_Amount 1
+Blueprint_4_Tool 76
+Blueprint_4_Product 1507
+Blueprint_4_Products 1
+Blueprint_4_Level 2
+Blueprint_4_Skill Craft
+Blueprint_4_Build 27
+
+//tire
+
+Blueprint_5_Type Tool
+Blueprint_5_Supplies 2
+Blueprint_5_Supply_0_ID 285
+Blueprint_5_Supply_0_Amount 6
+Blueprint_5_Supply_1_ID 68
+Blueprint_5_Supply_1_Amount 2
+Blueprint_5_Tool 76
+Blueprint_5_Product 1451
+Blueprint_5_Products 1
+Blueprint_5_Level 2
+Blueprint_5_Skill Craft
+Blueprint_5_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

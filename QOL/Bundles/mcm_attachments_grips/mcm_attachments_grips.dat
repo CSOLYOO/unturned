@@ -1,0 +1,55 @@
+GUID 044dc5f221a2415a85743270a9566548
+
+Type Supply
+ID 65126
+
+Blueprints 3
+
+//vert grip
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 285
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 72
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Product 8
+Blueprint_0_Products 1
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+//horiz grip
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 285
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Tool 76
+Blueprint_1_Product 145
+Blueprint_1_Products 1
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+//bipod
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 285
+Blueprint_2_Supply_0_Amount 4
+Blueprint_2_Supply_1_ID 72
+Blueprint_2_Supply_1_Amount 2
+Blueprint_2_Tool 76
+Blueprint_2_Product 143
+Blueprint_2_Products 1
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

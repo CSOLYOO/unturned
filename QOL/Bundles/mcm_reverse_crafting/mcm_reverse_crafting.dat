@@ -1,0 +1,423 @@
+GUID f151cdd6004046eebf717af7877f115a
+
+Type Supply
+ID 65118
+
+Blueprints 25
+
+//cagelight
+
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1222
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Outputs 2
+Blueprint_0_Output_0_ID 65
+Blueprint_0_Output_0_Amount 3
+Blueprint_0_Output_1_ID 285
+Blueprint_0_Output_1_Amount 4
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+//lamp
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 1255
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 76
+Blueprint_1_Outputs 2
+Blueprint_1_Output_0_ID 1222
+Blueprint_1_Output_0_Amount 1
+Blueprint_1_Output_1_ID 285
+Blueprint_1_Output_1_Amount 2
+Blueprint_1_Level 3
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+//spotlight
+
+Blueprint_2_Type Utilities
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 459
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 76
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 65
+Blueprint_2_Output_0_Amount 2
+Blueprint_2_Output_1_ID 285
+Blueprint_2_Output_1_Amount 5
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+//generator
+
+Blueprint_3_Type Utilities
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 458
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Tool 76
+Blueprint_3_Outputs 3
+Blueprint_3_Output_0_ID 68
+Blueprint_3_Output_0_Amount 4
+Blueprint_3_Output_1_ID 285
+Blueprint_3_Output_1_Amount 4
+Blueprint_3_Output_2_ID 28
+Blueprint_3_Output_2_Amount 1
+Blueprint_3_Level 2
+Blueprint_3_Skill Craft
+Blueprint_3_Build 27
+
+//big generator
+
+Blueprint_4_Type Utilities
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 1230
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Tool 76
+Blueprint_4_Outputs 1
+Blueprint_4_Output_0_ID 458
+Blueprint_4_Output_0_Amount 7
+Blueprint_4_Level 3
+Blueprint_4_Skill Craft
+Blueprint_4_Build 27
+
+//oxygenator
+
+Blueprint_5_Type Utilities
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 1261
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Tool 76
+Blueprint_5_Outputs 3
+Blueprint_5_Output_0_ID 68
+Blueprint_5_Output_0_Amount 5
+Blueprint_5_Output_1_ID 285
+Blueprint_5_Output_1_Amount 5
+Blueprint_5_Output_2_ID 1178
+Blueprint_5_Output_2_Amount 1
+Blueprint_5_Level 2
+Blueprint_5_Skill Craft
+Blueprint_5_Build 27
+
+//sz generator
+
+Blueprint_6_Type Utilities
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 1050
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Tool 76
+Blueprint_6_Outputs 3
+Blueprint_6_Output_0_ID 68
+Blueprint_6_Output_0_Amount 6
+Blueprint_6_Output_1_ID 285
+Blueprint_6_Output_1_Amount 6
+Blueprint_6_Output_2_ID 269
+Blueprint_6_Output_2_Amount 1
+Blueprint_6_Level 3
+Blueprint_6_Skill Craft
+Blueprint_6_Build 27
+
+//makeshift nade
+
+Blueprint_7_Type Tool
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 1242
+Blueprint_7_Supply_0_Amount 1
+Blueprint_7_Outputs 3
+Blueprint_7_Output_0_ID 72
+Blueprint_7_Output_0_Amount 1
+Blueprint_7_Output_1_ID 71
+Blueprint_7_Output_1_Amount 1
+Blueprint_7_Output_2_ID 73
+Blueprint_7_Output_2_Amount 1
+Blueprint_7_Level 1
+Blueprint_7_Skill Craft
+Blueprint_7_Build 27
+
+//gluenade
+
+Blueprint_8_Type Tool
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 1100
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Outputs 4
+Blueprint_8_Output_0_ID 70
+Blueprint_8_Output_0_Amount 1
+Blueprint_8_Output_1_ID 65
+Blueprint_8_Output_1_Amount 1
+Blueprint_8_Output_2_ID 73
+Blueprint_8_Output_2_Amount 1
+Blueprint_8_Output_3_ID 254
+Blueprint_8_Output_3_Amount 1
+Blueprint_8_Level 2
+Blueprint_8_Skill Craft
+Blueprint_8_Build 27
+
+//impact nade
+
+Blueprint_9_Type Tool
+Blueprint_9_Supplies 1
+Blueprint_9_Supply_0_ID 1520
+Blueprint_9_Supply_0_Amount 1
+Blueprint_9_Outputs 4
+Blueprint_9_Output_0_ID 70
+Blueprint_9_Output_0_Amount 1
+Blueprint_9_Output_1_ID 65
+Blueprint_9_Output_1_Amount 1
+Blueprint_9_Output_2_ID 73
+Blueprint_9_Output_2_Amount 1
+Blueprint_9_Output_3_ID 254
+Blueprint_9_Output_3_Amount 1
+Blueprint_9_Level 2
+Blueprint_9_Skill Craft
+Blueprint_9_Build 27
+
+Blueprint_10_Type Tool
+Blueprint_10_Supplies 1
+Blueprint_10_Supply_0_ID 1520
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Outputs 1
+Blueprint_10_Output_0_ID 1100
+Blueprint_10_Output_0_Amount 1
+Blueprint_10_Level 2
+Blueprint_10_Skill Craft
+Blueprint_10_Build 27
+
+Blueprint_11_Type Tool
+Blueprint_11_Supplies 1
+Blueprint_11_Supply_0_ID 1100
+Blueprint_11_Supply_0_Amount 1
+Blueprint_11_Outputs 1
+Blueprint_11_Output_0_ID 1520
+Blueprint_11_Output_0_Amount 1
+Blueprint_11_Level 2
+Blueprint_11_Skill Craft
+Blueprint_11_Build 27
+
+//c4
+
+Blueprint_12_Type Tool
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 1241
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Outputs 3
+Blueprint_12_Output_0_ID 65
+Blueprint_12_Output_0_Amount 1
+Blueprint_12_Output_1_ID 73
+Blueprint_12_Output_1_Amount 1
+Blueprint_12_Output_2_ID 1100
+Blueprint_12_Output_2_Amount 1
+Blueprint_12_Level 2
+Blueprint_12_Skill Craft
+Blueprint_12_Build 27
+
+//claymore
+
+Blueprint_13_Type Tool
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 1102
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Outputs 4
+Blueprint_13_Output_0_ID 67
+Blueprint_13_Output_0_Amount 3
+Blueprint_13_Output_1_ID 65
+Blueprint_13_Output_1_Amount 2
+Blueprint_13_Output_2_ID 73
+Blueprint_13_Output_2_Amount 1
+Blueprint_13_Output_3_ID 1242
+Blueprint_13_Output_3_Amount 1
+Blueprint_13_Level 1
+Blueprint_13_Skill Craft
+Blueprint_13_Build 27
+
+//landmine
+
+Blueprint_14_Type Tool
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 1101
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Outputs 4
+Blueprint_14_Output_0_ID 72
+Blueprint_14_Output_0_Amount 1
+Blueprint_14_Output_1_ID 71
+Blueprint_14_Output_1_Amount 2
+Blueprint_14_Output_2_ID 73
+Blueprint_14_Output_2_Amount 1
+Blueprint_14_Output_3_ID 1242
+Blueprint_14_Output_3_Amount 1
+Blueprint_14_Level 1
+Blueprint_14_Skill Craft
+Blueprint_14_Build 27
+
+//rocket
+
+Blueprint_15_Type Tool
+Blueprint_15_Supplies 1
+Blueprint_15_Supply_0_ID 520
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Outputs 2
+Blueprint_15_Output_0_ID 73
+Blueprint_15_Output_0_Amount 1
+Blueprint_15_Output_1_ID 1241
+Blueprint_15_Output_1_Amount 1
+Blueprint_15_Level 2
+Blueprint_15_Skill Craft
+Blueprint_15_Build 27
+
+//horde
+
+Blueprint_16_Type Utilities
+Blueprint_16_Supplies 1
+Blueprint_16_Supply_0_ID 1194
+Blueprint_16_Supply_0_Amount 1
+Blueprint_16_Tool 76
+Blueprint_16_Outputs 5
+Blueprint_16_Output_0_ID 68
+Blueprint_16_Output_0_Amount 6
+Blueprint_16_Output_1_ID 285
+Blueprint_16_Output_1_Amount 6
+Blueprint_16_Output_2_ID 73
+Blueprint_16_Output_2_Amount 2
+Blueprint_16_Output_3_ID 75
+Blueprint_16_Output_3_Amount 2
+Blueprint_16_Output_4_ID 1240
+Blueprint_16_Output_4_Amount 1
+Blueprint_16_Level 3
+Blueprint_16_Skill Craft
+Blueprint_16_Build 27
+
+//tanktrap
+
+Blueprint_17_Type Barricade
+Blueprint_17_Supplies 1
+Blueprint_17_Supply_0_ID 1227
+Blueprint_17_Supply_0_Amount 1
+Blueprint_17_Tool 76
+Blueprint_17_Outputs 1
+Blueprint_17_Output_0_ID 285
+Blueprint_17_Output_0_Amount 7
+Blueprint_17_Build 27
+
+//sandbag
+
+Blueprint_18_Type Barricade
+Blueprint_18_Supplies 1
+Blueprint_18_Supply_0_ID 365
+Blueprint_18_Supply_0_Amount 1
+Blueprint_18_Outputs 1
+Blueprint_18_Output_0_ID 66
+Blueprint_18_Output_0_Amount 5
+Blueprint_18_Build 27
+
+//big gascan
+
+Blueprint_19_Type Tool
+Blueprint_19_Supplies 1
+Blueprint_19_Supply_0_ID 1440
+Blueprint_19_Supply_0_Amount 1
+Blueprint_19_Tool 76
+Blueprint_19_Outputs 1
+Blueprint_19_Output_0_ID 28
+Blueprint_19_Output_0_Amount 5
+Blueprint_19_Level 2
+Blueprint_19_Skill Craft
+Blueprint_19_Build 27
+
+//pump
+
+Blueprint_20_Type Utilities
+Blueprint_20_Supplies 1
+Blueprint_20_Supply_0_ID 1219
+Blueprint_20_Supply_0_Amount 1
+Blueprint_20_Tool 76
+Blueprint_20_Outputs 4
+Blueprint_20_Output_0_ID 68
+Blueprint_20_Output_0_Amount 5
+Blueprint_20_Output_1_ID 285
+Blueprint_20_Output_1_Amount 3
+Blueprint_20_Output_2_ID 75
+Blueprint_20_Output_2_Amount 2
+Blueprint_20_Output_3_ID 28
+Blueprint_20_Output_3_Amount 2
+Blueprint_20_Level 3
+Blueprint_20_Skill Craft
+Blueprint_20_Build 27
+
+//friendly sentry
+
+Blueprint_21_Type Utilities
+Blueprint_21_Supplies 1
+Blueprint_21_Supply_0_ID 1372
+Blueprint_21_Supply_0_Amount 1
+Blueprint_21_Tool 76
+Blueprint_21_Outputs 3
+Blueprint_21_Output_0_ID 459
+Blueprint_21_Output_0_Amount 1
+Blueprint_21_Output_1_ID 1220
+Blueprint_21_Output_1_Amount 1
+Blueprint_21_Output_2_ID 1008
+Blueprint_21_Output_2_Amount 1
+Blueprint_21_Level 3
+Blueprint_21_Skill Craft
+Blueprint_21_Build 27
+
+//neutral sentry
+
+Blueprint_22_Type Utilities
+Blueprint_22_Supplies 1
+Blueprint_22_Supply_0_ID 1244
+Blueprint_22_Supply_0_Amount 1
+Blueprint_22_Tool 76
+Blueprint_22_Outputs 3
+Blueprint_22_Output_0_ID 459
+Blueprint_22_Output_0_Amount 1
+Blueprint_22_Output_1_ID 1220
+Blueprint_22_Output_1_Amount 1
+Blueprint_22_Output_2_ID 1008
+Blueprint_22_Output_2_Amount 1
+Blueprint_22_Level 3
+Blueprint_22_Skill Craft
+Blueprint_22_Build 27
+
+//hostile sentry
+
+Blueprint_23_Type Utilities
+Blueprint_23_Supplies 1
+Blueprint_23_Supply_0_ID 1373
+Blueprint_23_Supply_0_Amount 1
+Blueprint_23_Tool 76
+Blueprint_23_Outputs 3
+Blueprint_23_Output_0_ID 459
+Blueprint_23_Output_0_Amount 1
+Blueprint_23_Output_1_ID 1220
+Blueprint_23_Output_1_Amount 1
+Blueprint_23_Output_2_ID 1008
+Blueprint_23_Output_2_Amount 1
+Blueprint_23_Level 3
+Blueprint_23_Skill Craft
+Blueprint_23_Build 27
+
+//bounce charge
+
+Blueprint_24_Type Tool
+Blueprint_24_Supplies 1
+Blueprint_24_Supply_0_ID 1691
+Blueprint_24_Supply_0_Amount 1
+Blueprint_24_Outputs 3
+Blueprint_24_Output_0_ID 65
+Blueprint_24_Output_0_Amount 1
+Blueprint_24_Output_1_ID 73
+Blueprint_24_Output_1_Amount 1
+Blueprint_24_Output_2_ID 1100
+Blueprint_24_Output_2_Amount 1
+Blueprint_24_Level 2
+Blueprint_24_Skill Craft
+Blueprint_24_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

@@ -1,0 +1,83 @@
+GUID a6c67fdd6ee749d08259ef231c4d8986
+
+Type Supply
+ID 65124
+
+Blueprints 3
+
+//headlamp
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 276
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 66
+Blueprint_0_Supply_1_Amount 6
+Blueprint_0_Supply_2_ID 67
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 69
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Product 1199
+Blueprint_0_Products 1
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+//civ nvg
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 7
+Blueprint_1_Supply_0_ID 333
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 276
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 1176
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Supply_3_ID 66
+Blueprint_1_Supply_3_Amount 6
+Blueprint_1_Supply_4_ID 67
+Blueprint_1_Supply_4_Amount 2
+Blueprint_1_Supply_5_ID 65
+Blueprint_1_Supply_5_Amount 2
+Blueprint_1_Supply_6_ID 69
+Blueprint_1_Supply_6_Amount 2
+Blueprint_1_Tool 76
+Blueprint_1_Product 1044
+Blueprint_1_Products 1
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+//mili nvg
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 9
+Blueprint_2_Supply_0_ID 1044
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 476
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Supply_2_ID 276
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Supply_3_ID 1008
+Blueprint_2_Supply_3_Amount 1
+Blueprint_2_Supply_4_ID 1176
+Blueprint_2_Supply_4_Amount 1
+Blueprint_2_Supply_5_ID 65
+Blueprint_2_Supply_5_Amount 3
+Blueprint_2_Supply_6_ID 69
+Blueprint_2_Supply_6_Amount 1
+Blueprint_2_Supply_7_ID 256
+Blueprint_2_Supply_7_Amount 3
+Blueprint_2_Supply_8_ID 1450
+Blueprint_2_Supply_8_Amount 1
+Blueprint_2_Tool 76
+Blueprint_2_Product 334
+Blueprint_2_Products 1
+Blueprint_2_Level 3
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle
