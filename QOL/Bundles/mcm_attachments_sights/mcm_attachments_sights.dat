@@ -16,7 +16,7 @@ Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Supply_2_ID 259
 Blueprint_0_Supply_2_Amount 1
 Blueprint_0_Tool 76
-Blueprint_0_Product 1004
+Blueprint_0_Product 16298
 Blueprint_0_Products 1
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
@@ -33,7 +33,7 @@ Blueprint_1_Supply_1_Amount 1
 Blueprint_1_Supply_2_ID 259
 Blueprint_1_Supply_2_Amount 1
 Blueprint_1_Tool 76
-Blueprint_1_Product 147
+Blueprint_1_Product 16299
 Blueprint_1_Products 1
 Blueprint_1_Level 1
 Blueprint_1_Skill Craft
@@ -50,7 +50,7 @@ Blueprint_2_Supply_1_Amount 1
 Blueprint_2_Supply_2_ID 259
 Blueprint_2_Supply_2_Amount 1
 Blueprint_2_Tool 76
-Blueprint_2_Product 146
+Blueprint_2_Product 16297
 Blueprint_2_Products 1
 Blueprint_2_Level 1
 Blueprint_2_Skill Craft
@@ -71,7 +71,7 @@ Blueprint_3_Supply_3_Amount 1
 Blueprint_3_Supply_4_ID 259
 Blueprint_3_Supply_4_Amount 1
 Blueprint_3_Tool 76
-Blueprint_3_Product 22
+Blueprint_3_Product 16300
 Blueprint_3_Products 1
 Blueprint_3_Level 1
 Blueprint_3_Skill Craft
@@ -92,7 +92,7 @@ Blueprint_4_Supply_3_Amount 1
 Blueprint_4_Supply_4_ID 259
 Blueprint_4_Supply_4_Amount 1
 Blueprint_4_Tool 76
-Blueprint_4_Product 148
+Blueprint_4_Product 16301
 Blueprint_4_Products 1
 Blueprint_4_Level 1
 Blueprint_4_Skill Craft
@@ -109,7 +109,7 @@ Blueprint_5_Supply_1_Amount 2
 Blueprint_5_Supply_2_ID 476
 Blueprint_5_Supply_2_Amount 1
 Blueprint_5_Tool 76
-Blueprint_5_Product 21
+Blueprint_5_Product 16303
 Blueprint_5_Products 1
 Blueprint_5_Level 2
 Blueprint_5_Skill Craft
@@ -126,7 +126,7 @@ Blueprint_6_Supply_1_Amount 2
 Blueprint_6_Supply_2_ID 476
 Blueprint_6_Supply_2_Amount 1
 Blueprint_6_Tool 76
-Blueprint_6_Product 153
+Blueprint_6_Product 16302
 Blueprint_6_Products 1
 Blueprint_6_Level 2
 Blueprint_6_Skill Craft
@@ -145,7 +145,7 @@ Blueprint_7_Supply_2_Amount 2
 Blueprint_7_Supply_3_ID 476
 Blueprint_7_Supply_3_Amount 3
 Blueprint_7_Tool 76
-Blueprint_7_Product 296
+Blueprint_7_Product 16304
 Blueprint_7_Products 1
 Blueprint_7_Level 3
 Blueprint_7_Skill Craft
@@ -174,7 +174,7 @@ Blueprint_8_Supply_7_Amount 1
 Blueprint_8_Supply_8_ID 256
 Blueprint_8_Supply_8_Amount 1
 Blueprint_8_Tool 76
-Blueprint_8_Product 1201
+Blueprint_8_Product 16305
 Blueprint_8_Products 1
 Blueprint_8_Level 3
 Blueprint_8_Skill Craft
