@@ -1,0 +1,28 @@
+GUID 240007f36c4b42dcaf7b6cbaf4465e8d
+Type Spawn
+ID 63802
+
+Roots
+[
+	{
+		Guid fb01c145dc5e47e186a5237d7cf9a865
+		Weight 10
+	}
+	{
+		Guid 8542d20b99004aa09ef5f15b780183a2
+		Weight 10
+	}
+	{
+		Guid d317cc7e00ad4694b56b55b547734a7c
+		Weight 10
+	}
+]
+
+Tables
+[
+	{
+		// 我操！冰！ 
+		LegacyAssetId 31290
+		Weight 10
+	}
+]

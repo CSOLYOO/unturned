@@ -1,0 +1,68 @@
+GUID 9d8b6ac86f784456943a55b66ddde776
+
+Type Supply
+ID 63505
+
+Blueprints 5
+
+//信号枪弹药反向合成
+
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 7649
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Level 1
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 7649
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Tool 76
+Blueprint_1_Product 49101
+Blueprint_1_Products 1
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+//大宗绷带合成
+
+Blueprint_2_Type Supply
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 49103
+Blueprint_2_Supply_0_Amount 8
+Blueprint_2_Product 394
+Blueprint_2_Products 10
+Blueprint_2_Level 1
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+Blueprint_3_Type Supply
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 49103
+Blueprint_3_Supply_0_Amount 8
+Blueprint_3_Product 10226
+Blueprint_3_Products 1
+Blueprint_3_Level 1
+Blueprint_3_Skill Craft
+Blueprint_3_Build 27
+
+//胶水制造化学品
+
+Blueprint_4_Type Gear
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 49113
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Product 75
+Blueprint_4_Products 2
+Blueprint_4_Level 2
+Blueprint_4_Skill Cook
+Blueprint_4_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

@@ -1,6 +1,6 @@
 GUID a5c496553de044e2a697b911d0277eec
 
-Type Gear
+Type Supply
 ID 63800
 
 Blueprints 8
@@ -126,6 +126,24 @@ Blueprint_7_Skill Craft
 Blueprint_7_Product 31484
 Blueprint_7_Products 1
 Blueprint_7_Build 27
+
+// 冰
+Blueprint_8_Type Supply
+Blueprint_8_Supplies 2
+Blueprint_8_Supply_0_ID 75
+Blueprint_8_Supply_0_Amount 5
+Blueprint_8_Supply_1_ID 70
+Blueprint_8_Supply_1_Amount 5
+Blueprint_8_Supply_2_ID 388
+Blueprint_8_Supply_2_Amount 1
+Blueprint_8_Supply_3_ID 387
+Blueprint_8_Supply_3_Amount 1
+Blueprint_8_Tool 1030
+Blueprint_8_Product 31290
+Blueprint_8_Products 10
+Blueprint_8_Level 2
+Blueprint_8_Skill Cook
+Blueprint_8_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
