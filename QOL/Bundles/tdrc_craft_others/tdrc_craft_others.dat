@@ -1,9 +1,9 @@
-GUID 9d8b6ac86f784456943a55b66ddde776
+GUID 55f7abd5a3834a64bb87ee265b20bd13
 
 Type Supply
 ID 63505
 
-Blueprints 5
+Blueprints 7
 
 //信号枪弹药反向合成
 
@@ -62,6 +62,37 @@ Blueprint_4_Products 2
 Blueprint_4_Level 2
 Blueprint_4_Skill Cook
 Blueprint_4_Build 27
+
+//马铃薯玉米制造胶水
+Blueprint_5_Type Gear
+Blueprint_5_Supplies 3
+Blueprint_5_Supply_0_ID 335
+Blueprint_5_Supply_0_Amount 5
+Blueprint_5_Supply_1_ID 342
+Blueprint_5_Supply_1_Amount 5
+Blueprint_5_Supply_2_ID 14
+Blueprint_5_Supply_2_Amount 1
+Blueprint_5_Tool 1030
+Blueprint_5_Level 1
+Blueprint_5_Skill Cook
+Blueprint_5_Product 70
+Blueprint_5_Products 2
+Blueprint_5_Build 27
+
+Blueprint_6_Type Gear
+Blueprint_6_Supplies 3
+Blueprint_6_Supply_0_ID 10312
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Supply_1_ID 10322
+Blueprint_6_Supply_1_Amount 1
+Blueprint_6_Supply_2_ID 14
+Blueprint_6_Supply_2_Amount 2
+Blueprint_6_Tool 1030
+Blueprint_6_Level 1
+Blueprint_6_Skill Cook
+Blueprint_6_Product 70
+Blueprint_6_Products 4
+Blueprint_6_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
