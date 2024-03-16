@@ -3,7 +3,7 @@ GUID 55f7abd5a3834a64bb87ee265b20bd13
 Type Supply
 ID 63505
 
-Blueprints 8
+Blueprints 9
 
 //信号枪弹药反向合成
 
@@ -106,6 +106,19 @@ Blueprint_7_Products 1
 Blueprint_7_Level 2
 Blueprint_7_Skill Repair
 Blueprint_7_Build 27
+
+//倒刺铁丝分解
+Blueprint_8_Type Tool
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 386
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Product 67
+Blueprint_8_Products 3
+Blueprint_8_Tool 76
+Blueprint_8_Level 2
+Blueprint_8_Skill Repair
+Blueprint_8_Build 27
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
