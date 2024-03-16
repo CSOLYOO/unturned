@@ -1,0 +1,61 @@
+GUID 3e4d9c28de1043558570b9998e10a1e8
+Type Spawn
+ID 63801
+
+Roots
+[
+	{
+		Guid 17ac2c7b88b84d0096639f006ac2bc7f
+		Weight 10
+	}
+	{
+		Guid c39e52153ac04ecb989f45b449b0c41e
+		Weight 10
+	}
+	{
+		Guid 8c21082867574a269b6193c96b044774
+		Weight 10
+	}
+  	{
+		Guid 8c61339599c14eb39331c66afdbd4a1a
+		Weight 10
+	}
+	{
+		Guid 4678f685fba84ce8afd04162760771ef
+		Weight 10
+	}
+]
+
+Tables
+[
+	{
+		// 德军口粮
+		LegacyAssetId 31270
+		Weight 20
+	}
+	{
+		// 德军额外
+		LegacyAssetId 31285
+		Weight 10
+	}
+	{
+		// 苏军口粮
+		LegacyAssetId 31370
+		Weight 15
+	}
+	{
+		// 美军口粮1
+		LegacyAssetId 31470
+		Weight 5
+	}      
+	{
+		// 美军口粮2
+		LegacyAssetId 31471
+		Weight 5
+	}          
+	{
+		// 美军口粮3
+		LegacyAssetId 31472
+		Weight 5
+	}
+]
