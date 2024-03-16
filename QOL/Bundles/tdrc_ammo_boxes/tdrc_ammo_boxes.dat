@@ -3,7 +3,7 @@ GUID 9d8b6ac86f784456943a55b66ddde776
 Type Supply
 ID 63500
 
-Blueprints 129
+Blueprints 133
 
 //low cal civ 民小 不删
 
@@ -609,7 +609,7 @@ Blueprint_44_Level 1
 Blueprint_44_Skill Craft
 Blueprint_44_Build 27
 
-// Civ-Plus 民大 40发
+// Civ-Plus 45acp 40发
 
 Blueprint_45_Type Gear
 Blueprint_45_Supplies 2
@@ -1724,6 +1724,61 @@ Blueprint_128_Level 1
 Blueprint_128_Skill Craft
 Blueprint_128_Build 27
 
+// BEAR弹药 10发
+Blueprint_129_Type Gear
+Blueprint_129_Supplies 2
+Blueprint_129_Supply_0_ID 49101
+Blueprint_129_Supply_0_Amount 2
+Blueprint_129_Supply_1_ID 73
+Blueprint_129_Supply_1_Amount 1
+Blueprint_129_Tool 76
+Blueprint_129_Product 16391
+Blueprint_129_Products 1
+Blueprint_129_Level 1
+Blueprint_129_Skill Craft
+Blueprint_129_Build 27
+
+// outlaw弹药 20发
+Blueprint_130_Type Gear
+Blueprint_130_Supplies 2
+Blueprint_130_Supply_0_ID 49101
+Blueprint_130_Supply_0_Amount 2
+Blueprint_130_Supply_1_ID 73
+Blueprint_130_Supply_1_Amount 1
+Blueprint_130_Tool 76
+Blueprint_130_Product 16417
+Blueprint_130_Products 1
+Blueprint_130_Level 1
+Blueprint_130_Skill Craft
+Blueprint_130_Build 27
+
+// quiet
+Blueprint_131_Type Gear
+Blueprint_131_Supplies 2
+Blueprint_131_Supply_0_ID 49101
+Blueprint_131_Supply_0_Amount 5
+Blueprint_131_Supply_1_ID 73
+Blueprint_131_Supply_1_Amount 2
+Blueprint_131_Tool 76
+Blueprint_131_Product 16392
+Blueprint_131_Products 2
+Blueprint_131_Level 1
+Blueprint_131_Skill Craft
+Blueprint_131_Build 27
+
+// civ 9mm 大宗
+Blueprint_132_Type Gear
+Blueprint_132_Supplies 2
+Blueprint_132_Supply_0_ID 49102
+Blueprint_132_Supply_0_Amount 2
+Blueprint_132_Supply_1_ID 73
+Blueprint_132_Supply_1_Amount 5
+Blueprint_132_Tool 76
+Blueprint_132_Product 16379
+Blueprint_132_Products 20
+Blueprint_132_Level 1
+Blueprint_132_Skill Craft
+Blueprint_132_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
