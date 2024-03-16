@@ -3,7 +3,7 @@ GUID 55f7abd5a3834a64bb87ee265b20bd13
 Type Supply
 ID 63505
 
-Blueprints 7
+Blueprints 8
 
 //信号枪弹药反向合成
 
@@ -93,6 +93,19 @@ Blueprint_6_Skill Cook
 Blueprint_6_Product 70
 Blueprint_6_Products 4
 Blueprint_6_Build 27
+
+//对讲机
+Blueprint_7_Type Gear
+Blueprint_7_Supplies 2
+Blueprint_7_Supply_0_ID 67
+Blueprint_7_Supply_0_Amount 8
+Blueprint_7_Supply_1_ID 65
+Blueprint_7_Supply_1_Amount 8
+Blueprint_7_Product 1445
+Blueprint_7_Products 1
+Blueprint_7_Level 2
+Blueprint_7_Skill Repair
+Blueprint_7_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
