@@ -3,7 +3,7 @@ GUID a5c496553de044e2a697b911d0277eec
 Type Supply
 ID 63800
 
-Blueprints 8
+Blueprints 13
 
 // 德军饭盒
 Blueprint_0_Type Gear
@@ -129,7 +129,7 @@ Blueprint_7_Build 27
 
 // 冰
 Blueprint_8_Type Supply
-Blueprint_8_Supplies 2
+Blueprint_8_Supplies 4
 Blueprint_8_Supply_0_ID 75
 Blueprint_8_Supply_0_Amount 5
 Blueprint_8_Supply_1_ID 70
@@ -144,6 +144,60 @@ Blueprint_8_Products 10
 Blueprint_8_Level 2
 Blueprint_8_Skill Cook
 Blueprint_8_Build 27
+
+// 黑麦面包合成 
+Blueprint_9_Type Supply
+Blueprint_9_Supplies 2
+Blueprint_9_Supply_0_ID 1162
+Blueprint_9_Supply_0_Amount 2
+Blueprint_9_Supply_1_ID 39
+Blueprint_9_Supply_1_Amount 1
+Blueprint_9_Tool 1030
+Blueprint_9_Product 31273
+Blueprint_9_Products 4
+Blueprint_9_Level 1
+Blueprint_9_Skill Cook
+Blueprint_9_Build 27
+
+Blueprint_10_Type Supply
+Blueprint_10_Supplies 2
+Blueprint_10_Supply_0_ID 1162
+Blueprint_10_Supply_0_Amount 2
+Blueprint_10_Supply_1_ID 37
+Blueprint_10_Supply_1_Amount 1
+Blueprint_10_Tool 1030
+Blueprint_10_Product 31273
+Blueprint_10_Products 4
+Blueprint_10_Level 1
+Blueprint_10_Skill Cook
+Blueprint_10_Build 27
+
+Blueprint_11_Type Supply
+Blueprint_11_Supplies 2
+Blueprint_11_Supply_0_ID 1162
+Blueprint_11_Supply_0_Amount 2
+Blueprint_11_Supply_1_ID 41
+Blueprint_11_Supply_1_Amount 1
+Blueprint_11_Tool 1030
+Blueprint_11_Product 31273
+Blueprint_11_Products 4
+Blueprint_11_Level 1
+Blueprint_11_Skill Cook
+Blueprint_11_Build 27
+
+//牛肉罐头合成
+Blueprint_12_Type Supply
+Blueprint_12_Supplies 2
+Blueprint_12_Supply_0_ID 1121
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Supply_1_ID 72
+Blueprint_12_Supply_1_Amount 1
+Blueprint_12_Tool 1030
+Blueprint_12_Product 31271
+Blueprint_12_Products 1
+Blueprint_12_Level 1
+Blueprint_12_Skill Cook
+Blueprint_12_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
