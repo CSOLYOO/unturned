@@ -1,0 +1,144 @@
+ManifestFileVersion: 0
+CRC: 3060958201
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 60516eacf3c81ac058033e51bc92b5a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4c4a130b151c75eaced234b03139561e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Melee+/Bundles/Items/Melee/Bat_Metal_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Katana_GC/Katana.blend
+- Assets/Melee+/Bundles/Items/Melee/Machete_GC/Machete_Gerber.blend
+- Assets/Melee+/Bundles/Items/Melee/Axe_Gerber/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_Kitchen_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Machete_SP6/EFT_Machete.blend
+- Assets/Melee+/Bundles/Items/Melee/Bat_Metal_GC/tex.mat
+- Assets/Melee+/Bundles/Items/Melee/Axe_Gerber/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Axe_Fire_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Machete_SP6/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Axe_Pick_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Bat_Wood_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Axe_Fire_GC/texturemap.png
+- Assets/Melee+/Bundles/Items/Melee/Axe_Gerber/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Shovel_GC/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Knife_6h5/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Bat_Metal_GC/Bat_Aluminum.blend
+- Assets/Melee+/Bundles/Items/Melee/Hammer_GC/tex.mat
+- Assets/Melee+/Bundles/Items/Melee/Knife_Kitchen_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Bat_Metal_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_6h5/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Spear_Wood/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Bat_Wood_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Axe_Wood/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Spear_Wood/spear_1.blend
+- Assets/Melee+/Bundles/Items/Melee/Crowbar_GC/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Axe_Gerber/EFT_Axe.blend
+- Assets/Melee+/Bundles/Items/Melee/Machete_GC/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Hammer_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Spear_Crafted/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Sledgehammer_GC/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Machete_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Knife_Kitchen_GC/knife_kitchen.blend
+- Assets/Melee+/Bundles/Items/Melee/Axe_Gerber/eftaxe.mat
+- Assets/Melee+/Bundles/Items/Melee/Sledgehammer_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Bat_Metal_GC/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Spear_Crafted/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Axe_Wood/axetex.png
+- Assets/Melee+/Bundles/Items/Melee/Knife_6h5/EFT_Bayonet_6h5.blend
+- Assets/Melee+/Bundles/Items/Melee/Knife_Butcher_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Bat_Metal_GC/axetex.png
+- Assets/Melee+/Bundles/Items/Melee/Axe_Pick_GC/Pickaxe.blend
+- Assets/Melee+/Bundles/Items/Melee/Spear_Wood/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Machete_GC/tex.mat
+- Assets/Melee+/Bundles/Items/Melee/Crowbar_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Bat_Wood_GC/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Axe_Fire_GC/tex.mat
+- Assets/Melee+/Bundles/Items/Melee/Axe_Wood/Axe.blend
+- Assets/Melee+/Bundles/Items/Melee/Hammer_GC/EFT_Hammer.blend
+- Assets/Melee+/Bundles/Items/Melee/Axe_Fire_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Axe_Wood/axe.mat
+- Assets/Melee+/Bundles/Items/Melee/Knife_Military_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Spear_Wood/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Axe_Fire_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Shovel_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Katana_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Sledgehammer_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Katana_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Machete_SP6/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Machete_GC/51995160-color-chart-hexagon-vector.jpg
+- Assets/Melee+/Bundles/Items/Melee/Shovel_GC/Shovel.blend
+- Assets/Melee+/Bundles/Items/Melee/Machete_SP6/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_Military_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Hammer_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Hammer_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_Military_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_Butcher_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Bat_Wood_GC/Bat_Wood.blend
+- Assets/Melee+/Bundles/Items/Melee/Axe_Fire_GC/FireAxe.blend
+- Assets/Melee+/Bundles/Items/Melee/Axe_Wood/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Knife_Butcher_GC/knife_meatcleaver.blend
+- Assets/Melee+/Bundles/Items/Melee/Spear_Crafted/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_Kitchen_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Hammer_GC/Albedo_Base.png
+- Assets/Melee+/Bundles/Items/Melee/Crowbar_GC/crowbartex.mat
+- Assets/Melee+/Bundles/Items/Melee/Shovel_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Axe_Gerber/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Axe_Pick_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Crowbar_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Crowbar_GC/crowbartex1.png
+- Assets/Melee+/Bundles/Items/Melee/Knife_6h5/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Hammer_GC/texturemap.png
+- Assets/Melee+/Bundles/Items/Melee/Axe_Gerber/eftaxe.png
+- Assets/Melee+/Bundles/Items/Melee/Sledgehammer_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Sledgehammer_GC/Sledgehammer.blend
+- Assets/Melee+/Bundles/Items/Melee/Crowbar_GC/Crowbar.blend
+- Assets/Melee+/Bundles/Items/Melee/Axe_Wood/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Bat_Metal_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_Butcher_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Axe_Pick_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Knife_Military_GC/kabar.blend
+- Assets/Melee+/Bundles/Items/Melee/Machete_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Sledgehammer_GC/tex.mat
+- Assets/Melee+/Bundles/Items/Melee/Bat_Wood_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Machete_GC/Item.prefab
+- Assets/Melee+/Bundles/Items/Melee/Crowbar_GC/Use.mp3
+- Assets/Melee+/Bundles/Items/Melee/Shovel_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Katana_GC/Animations.prefab
+- Assets/Melee+/Bundles/Items/Melee/Spear_Crafted/knife_kitchen.blend
+Dependencies: []
