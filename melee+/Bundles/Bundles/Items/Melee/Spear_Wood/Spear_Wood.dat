@@ -3,8 +3,8 @@ GUID 798050058e234d5bac746a808037ffb4
 
 Type Melee
 Useable Melee
-Slot Secondary
-ID 16508
+Slot Any
+ID 63908
 
 Rarity Uncommon
 
@@ -13,19 +13,19 @@ Size_Y 1
 Size_Z 0.5
 Size2_Z 0.4
 
-Range 3.3
-Strength 2.5
+Range 4.0
+Strength 3
 Weak 0.45
 Strong 0.44
 Stamina 15
 
-Player_Damage 15
+Player_Damage 34
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.2
 
-Zombie_Damage 15
+Zombie_Damage 34
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
@@ -66,7 +66,7 @@ Blueprint_3_Supply_0_ID 38
 Blueprint_3_Supply_0_Amount 3
 Blueprint_3_Supply_1_ID 66
 Blueprint_3_Supply_1_Amount 1
-Blueprint_3_Product 16508
+Blueprint_3_Product 63908
 Blueprint_3_Products 1
 Blueprint_3_Build 27
 
@@ -76,7 +76,7 @@ Blueprint_4_Supply_0_ID 40
 Blueprint_4_Supply_0_Amount 3
 Blueprint_4_Supply_1_ID 66
 Blueprint_4_Supply_1_Amount 1
-Blueprint_4_Product 16508
+Blueprint_4_Product 63908
 Blueprint_4_Products 1
 Blueprint_4_Build 27
 
@@ -86,7 +86,7 @@ Blueprint_5_Supply_0_ID 42
 Blueprint_5_Supply_0_Amount 3
 Blueprint_5_Supply_1_ID 66
 Blueprint_5_Supply_1_Amount 1
-Blueprint_5_Product 16508
+Blueprint_5_Product 63908
 Blueprint_5_Products 1
 Blueprint_5_Build 27
 

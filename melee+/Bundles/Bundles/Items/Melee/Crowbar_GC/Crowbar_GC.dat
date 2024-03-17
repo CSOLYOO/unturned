@@ -4,8 +4,8 @@ GUID 3f05355b2afb42a1a5502c5a8bf7eddd
 Rarity Mythical
 Type Melee
 Useable Melee
-Slot Secondary
-ID 16504
+Slot Any
+ID 63904
 
 Size_X 1
 Size_Y 2
@@ -19,19 +19,19 @@ Weak 0.37
 Strong 0.37
 Stamina 15
 
-Player_Damage 20
+Player_Damage 34
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 
-Zombie_Damage 15
+Zombie_Damage 34
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 1.5
+Zombie_Skull_Multiplier 1.6
 
-Animal_Damage 30
+Animal_Damage 34
 Animal_Leg_Multiplier 0.3
 Animal_Spine_Multiplier 0.6
 Animal_Skull_Multiplier 1.1
@@ -53,13 +53,13 @@ Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 1032
-Blueprint_1_Product 16504
+Blueprint_1_Product 63904
 Blueprint_1_Products 1
 Blueprint_1_Build 27
 
 Blueprint_2_Type Tool
 Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 16504
+Blueprint_2_Supply_0_ID 63904
 Blueprint_2_Product 67
 Blueprint_2_Products 3
 Blueprint_2_Build 27

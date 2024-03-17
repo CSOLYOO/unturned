@@ -3,8 +3,8 @@ GUID 444bec3180614070a22a2a746ffe682f
 
 Type Melee
 Useable Melee
-Slot Secondary
-ID 16509
+Slot Any
+ID 63909
 
 Rarity Uncommon
 
@@ -13,19 +13,19 @@ Size_Y 1
 Size_Z 0.6
 Size2_Z 0.4
 
-Range 3.3
-Strength 2.5
+Range 4.0
+Strength 3
 Weak 0.45
 Strong 0.44
 Stamina 18
 
-Player_Damage 18
+Player_Damage 34
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.2
 
-Zombie_Damage 18
+Zombie_Damage 34
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
@@ -76,7 +76,7 @@ Blueprint_3_Supply_2_ID 69
 Blueprint_3_Supply_2_Amount 1
 Blueprint_3_Supply_3_ID 66
 Blueprint_3_Supply_3_Amount 1
-Blueprint_3_Product 16309
+Blueprint_3_Product 63909
 Blueprint_3_Products 1
 Blueprint_3_Build 27
 
@@ -90,7 +90,7 @@ Blueprint_4_Supply_2_ID 69
 Blueprint_4_Supply_2_Amount 1
 Blueprint_4_Supply_3_ID 66
 Blueprint_4_Supply_3_Amount 1
-Blueprint_4_Product 16509
+Blueprint_4_Product 63909
 Blueprint_4_Products 1
 Blueprint_4_Build 27
 
@@ -104,7 +104,7 @@ Blueprint_5_Supply_2_ID 69
 Blueprint_5_Supply_2_Amount 1
 Blueprint_5_Supply_3_ID 66
 Blueprint_5_Supply_3_Amount 1
-Blueprint_5_Product 16509
+Blueprint_5_Product 63909
 Blueprint_5_Products 1
 Blueprint_5_Build 27
 
@@ -112,13 +112,13 @@ Blueprint_6_Type Tool
 Blueprint_6_Supplies 4
 Blueprint_6_Supply_0_ID 38
 Blueprint_6_Supply_0_Amount 3
-Blueprint_6_Supply_1_ID 16310
+Blueprint_6_Supply_1_ID 121
 Blueprint_6_Supply_1_Amount 1
 Blueprint_6_Supply_2_ID 69
 Blueprint_6_Supply_2_Amount 1
 Blueprint_6_Supply_3_ID 66
 Blueprint_6_Supply_3_Amount 1
-Blueprint_6_Product 16509
+Blueprint_6_Product 63909
 Blueprint_6_Products 1
 Blueprint_6_Build 27
 
@@ -126,13 +126,13 @@ Blueprint_7_Type Tool
 Blueprint_7_Supplies 4
 Blueprint_7_Supply_0_ID 40
 Blueprint_7_Supply_0_Amount 3
-Blueprint_7_Supply_1_ID 16510
+Blueprint_7_Supply_1_ID 121
 Blueprint_7_Supply_1_Amount 1
 Blueprint_7_Supply_2_ID 69
 Blueprint_7_Supply_2_Amount 1
 Blueprint_7_Supply_3_ID 66
 Blueprint_7_Supply_3_Amount 1
-Blueprint_7_Product 16309
+Blueprint_7_Product 63909
 Blueprint_7_Products 1
 Blueprint_7_Build 27
 
@@ -140,13 +140,13 @@ Blueprint_8_Type Tool
 Blueprint_8_Supplies 4
 Blueprint_8_Supply_0_ID 42
 Blueprint_8_Supply_0_Amount 3
-Blueprint_8_Supply_1_ID 16510
+Blueprint_8_Supply_1_ID 121
 Blueprint_8_Supply_1_Amount 1
 Blueprint_8_Supply_2_ID 69
 Blueprint_8_Supply_2_Amount 1
 Blueprint_8_Supply_3_ID 66
 Blueprint_8_Supply_3_Amount 1
-Blueprint_8_Product 16309
+Blueprint_8_Product 63909
 Blueprint_8_Products 1
 Blueprint_8_Build 27
 

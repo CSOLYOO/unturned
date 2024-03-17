@@ -4,8 +4,8 @@ GUID 761f7b8436e04cb0998c454ebab5fca5
 Type Melee
 Rarity Epic
 Useable Melee
-Slot Secondary
-ID 16518
+Slot Any
+ID 63918
 
 Size_X 1
 Size_Y 3
@@ -17,13 +17,13 @@ Strength 2.5
 Weak 0.44
 Stamina 20
 
-Player_Damage 23
+Player_Damage 34
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 
-Zombie_Damage 25
+Zombie_Damage 34
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
@@ -50,7 +50,7 @@ Blueprint_0_Build 27
 
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 16518
+Blueprint_1_Supply_0_ID 63918
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
@@ -58,7 +58,7 @@ Blueprint_1_Build 27
 Blueprint_2_Type Tool
 Blueprint_2_Supplies 1
 Blueprint_2_Supply_0_ID 105
-Blueprint_2_Product 16518
+Blueprint_2_Product 63918
 Blueprint_2_Products 1
 Blueprint_2_Build 27
 

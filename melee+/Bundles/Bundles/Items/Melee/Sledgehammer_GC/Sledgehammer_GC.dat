@@ -4,32 +4,32 @@ GUID c38822386570429288d330ebc1687226
 Type Melee
 Rarity Legendary
 Useable Melee
-Slot Secondary
-ID 16517
+Slot Any
+ID 63917
 
 Size_X 2
 Size_Y 3
 Size_Z 0.6
 Size2_Z 0.5
 	
-Range 2.7
+Range 3.0
 Strong 0.375
-Strength 2.5
-Stamina 50
+Strength 3.0
+Stamina 55
 
-Player_Damage 30
+Player_Damage 100
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.2
 
-Zombie_Damage 25
-Zombie_Leg_Multiplier 0.45
-Zombie_Arm_Multiplier 0.45
-Zombie_Spine_Multiplier 0.75
+Zombie_Damage 100
+Zombie_Leg_Multiplier 0.8
+Zombie_Arm_Multiplier 0.8
+Zombie_Spine_Multiplier 1.0
 Zombie_Skull_Multiplier 1.8
 
-Animal_Damage 34
+Animal_Damage 100
 Animal_Leg_Multiplier 0.3
 Animal_Spine_Multiplier 0.6
 Animal_Skull_Multiplier 2
@@ -49,14 +49,14 @@ Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 16517
+Blueprint_1_Supply_0_ID 63917
 Blueprint_1_Product 67
 Blueprint_1_Products 2
 Blueprint_1_Build 27
 Blueprint_2_Type Tool
 Blueprint_2_Supplies 1
 Blueprint_2_Supply_0_ID 136
-Blueprint_2_Product 16517
+Blueprint_2_Product 63917
 Blueprint_2_Products 1
 Blueprint_2_Build 27
 

@@ -4,17 +4,18 @@ GUID a5e14864dee3443ba7ec973ec9c73b2c
 Type Melee
 Rarity Epic
 Useable Melee
-Slot Secondary
-ID 16514
+Slot Any
+ID 63914
 
 Size_X 1
 Size_Y 3
 Size_Z 0.9
 Size2_Z 0.55
 
-Range 2.5
-Strength 2.5
-Stamina 20
+Range 3.75
+Strength 6.0
+Strong 0.99
+Stamina 33
 
 Player_Damage 25
 Player_Leg_Multiplier 0.6
@@ -22,11 +23,11 @@ Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 
-Zombie_Damage 25
-Zombie_Leg_Multiplier 0.3
-Zombie_Arm_Multiplier 0.3
-Zombie_Spine_Multiplier 0.5
-Zombie_Skull_Multiplier 1.5
+Zombie_Damage 55
+Zombie_Leg_Multiplier 1.0
+Zombie_Arm_Multiplier 1.0
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 1.4
 
 Animal_Damage 30
 Animal_Leg_Multiplier 0.3
@@ -39,7 +40,7 @@ Vehicle_Damage 5
 Resource_Damage 5
 Object_Damage 10
 
-Durability 0.2
+Durability 0.4
 
 Blueprints 3
 Blueprint_0_Type Repair
@@ -49,7 +50,7 @@ Blueprint_0_Build 27
 
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 16514
+Blueprint_1_Supply_0_ID 63914
 Blueprint_1_Product 67
 Blueprint_1_Products 3
 Blueprint_1_Build 27
@@ -57,7 +58,7 @@ Blueprint_1_Build 27
 Blueprint_2_Type Tool
 Blueprint_2_Supplies 1
 Blueprint_2_Supply_0_ID 1036
-Blueprint_2_Product 16514
+Blueprint_2_Product 63914
 Blueprint_2_Products 1
 Blueprint_2_Build 27
 
