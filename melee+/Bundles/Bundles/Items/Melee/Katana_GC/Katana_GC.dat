@@ -12,9 +12,8 @@ Size_Y 3
 Size_Z 0.9
 Size2_Z 0.55
 
-Range 3.75
-Strength 6.0
-Strong 0.99
+Range 3.5
+Strength 3.5
 Stamina 33
 
 Player_Damage 25
