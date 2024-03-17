@@ -246,6 +246,28 @@ Blueprint_20_Level 1
 Blueprint_20_Skill Craft
 Blueprint_20_Build 27
 
+// 战车弹药
+Blueprint_21_Type Gear
+Blueprint_21_Supplies 1
+Blueprint_21_Supply_0_ID 1055
+Blueprint_21_Supply_0_Amount 5
+Blueprint_21_Tool 1445
+Blueprint_21_Product 31703
+Blueprint_21_Products 1
+Blueprint_21_Level 1
+Blueprint_21_Skill Craft
+Blueprint_21_Build 27
+
+Blueprint_22_Type Gear
+Blueprint_22_Supplies 1
+Blueprint_22_Supply_0_ID 1055
+Blueprint_22_Supply_0_Amount 1
+Blueprint_22_Tool 1445
+Blueprint_22_Product 1300
+Blueprint_22_Products 2
+Blueprint_22_Level 1
+Blueprint_22_Skill Craft
+Blueprint_22_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
