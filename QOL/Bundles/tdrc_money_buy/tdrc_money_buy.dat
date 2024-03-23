@@ -3,7 +3,7 @@ GUID 2d15c31232bf4c5ba5af8034f9026a04
 Type Supply
 ID 63510
 
-Blueprints 23
+Blueprints 25
 
 //军用弹鼓
 Blueprint_0_Type Gear
@@ -268,6 +268,30 @@ Blueprint_22_Products 2
 Blueprint_22_Level 1
 Blueprint_22_Skill Craft
 Blueprint_22_Build 27
+
+// 爆炸
+
+Blueprint_23_Type Gear
+Blueprint_23_Supplies 1
+Blueprint_23_Supply_0_ID 1055
+Blueprint_23_Supply_0_Amount 2
+Blueprint_23_Tool 1445
+Blueprint_23_Product 16580
+Blueprint_23_Products 1
+Blueprint_23_Level 1
+Blueprint_23_Skill Craft
+Blueprint_23_Build 27
+
+Blueprint_24_Type Gear
+Blueprint_24_Supplies 1
+Blueprint_24_Supply_0_ID 1055
+Blueprint_24_Supply_0_Amount 2
+Blueprint_24_Tool 1445
+Blueprint_24_Product 16579
+Blueprint_24_Products 1
+Blueprint_24_Level 1
+Blueprint_24_Skill Craft
+Blueprint_24_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
