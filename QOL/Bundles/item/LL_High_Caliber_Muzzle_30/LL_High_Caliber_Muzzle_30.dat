@@ -37,6 +37,9 @@ Caliber_25 6554
 Caliber_26 6557
 
 Silenced 
+Recoil_X 0.8
+Recoil_Y 0.6
+Ballistic_Drop 0.9
 Volume 0.75
 
 Ballistic_Damage_Multiplier 1.3
@@ -44,6 +47,7 @@ Paintable
 
 Blueprints 1
 Blueprint_0_Type Gear
+Blueprint_5_Supplies 5
 Blueprint_0_Supply_0_ID 1055
 Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Supply_1_ID 16313

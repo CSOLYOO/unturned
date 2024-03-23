@@ -1,0 +1,38 @@
+GUID 0cca43ab03ba41bca8ca1188235c99b5
+Type Supply
+Rarity Epic
+ID 63515
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Blueprints 2
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1055
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Products 1
+Blueprint_0_Product 63515
+Blueprint_0_Tool 1445
+Blueprint_0_Build 27
+Blueprint_1_Type Supply
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63515
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Products 1
+Blueprint_1_Product 66
+Blueprint_1_Rewards 1
+Blueprint_1_Reward_0_Type Item_Random 
+Blueprint_1_Reward_0_ID 17612
+Blueprint_1_Reward_0_Amount 1
+Blueprint_1_Searchable false
+Blueprint_1_Build 27
+
+Actions 1
+Action_0_Type Blueprint
+Action_0_Blueprint_0_Index 1
+Action_0_Text 我TM抽爆
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Boxes/Mystery_Box_4
