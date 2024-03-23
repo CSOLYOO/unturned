@@ -1,0 +1,75 @@
+GUID 28fb96a061fc43299a5892d3d31cdd23
+Type Barrel
+Rarity Mythical
+ID 64800
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 55
+Caliber_0 6171
+Caliber_1 6174
+Caliber_2 6176
+Caliber_3 6180
+Caliber_4 6182
+Caliber_5 6186
+Caliber_6 6320
+Caliber_7 6321
+Caliber_8 6420
+Caliber_9 6422
+Caliber_10 6424
+Caliber_11 6428
+Caliber_12 6189
+Caliber_13 6192
+Caliber_14 6195
+Caliber_15 6204
+Caliber_16 6208
+Caliber_17 6211
+Caliber_18 6325
+Caliber_19 6227
+Caliber_20 6233
+Caliber_21 6236
+Caliber_22 6335
+Caliber_23 6370
+Caliber_24 6346
+Caliber_25 6263
+Caliber_26 6260
+Caliber_27 6266
+Caliber_28 6269
+Caliber_29 6354
+Caliber_30 6357
+Caliber_31 6360
+Caliber_32 6278
+Caliber_33 6363
+Caliber_34 6446
+Caliber_35 6449
+Caliber_36 6477
+Caliber_37 6489
+Caliber_38 6526
+Caliber_39 6554
+Caliber_40 6434
+Caliber_41 6436
+Caliber_42 6438
+Caliber_43 6451
+Caliber_44 6454
+Caliber_45 6456
+Caliber_46 6480
+Caliber_47 6477
+Caliber_48 6523
+Caliber_49 6581
+Caliber_50 6538
+Caliber_51 6541
+Caliber_52 6547
+Caliber_53 6557
+Caliber_54 6559
+
+Silenced 
+Volume 0.75
+
+Ballistic_Drop 1.1
+Ballistic_Damage_Multiplier 1.5
+Paintable
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Tacticals/Adaptive_Chambering

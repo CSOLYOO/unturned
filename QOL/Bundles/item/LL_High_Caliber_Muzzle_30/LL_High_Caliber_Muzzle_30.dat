@@ -1,0 +1,63 @@
+GUID 79552039f3d04881ba349d34063363a2
+Type Barrel
+Rarity Mythical
+ID 64802
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Calibers 27
+Caliber_0 6346
+Caliber_1 6526
+Caliber_2 6263
+Caliber_3 6523
+Caliber_4 6335
+Caliber_5 6333
+Caliber_6 6477
+Caliber_7 6230
+Caliber_8 6480
+Caliber_9 6581
+Caliber_10 6260
+Caliber_11 6266
+Caliber_12 6269
+Caliber_13 6354
+Caliber_14 6357
+Caliber_15 6360
+Caliber_16 6541
+Caliber_17 6532
+Caliber_18 6538
+Caliber_19 6547
+Caliber_20 6529
+Caliber_21 6281
+Caliber_22 6363
+Caliber_23 6550
+Caliber_24 6559
+Caliber_25 6554
+Caliber_26 6557
+
+Silenced 
+Volume 0.75
+
+Ballistic_Damage_Multiplier 1.3
+Paintable
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 1055
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 16313
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 16315
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 16312
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Supply_4_ID 16314
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 1445
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Tacticals/Adaptive_Chambering
