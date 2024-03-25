@@ -1,7 +1,7 @@
 GUID 55dd85c534b64e8380d60687ab16b440
 Type Spawn
 ID 9006
-Tables 8
+Tables 7
 Table_0_Asset_ID 106
 Table_0_Weight 14
 Table_1_Asset_ID 135
@@ -14,12 +14,8 @@ Table_4_Asset_ID 105
 Table_4_Weight 12
 Table_5_Asset_ID 276
 Table_5_Weight 16
-Table_6_Asset_ID 4
-Table_6_Weight 1
-Table_7_Asset_ID 97
-Table_7_Weight 3
-Table_8_Asset_ID 98
-Table_8_Weight 4
+Table_6_Asset_ID 17612
+Table_6_Weight 4
 
 
 

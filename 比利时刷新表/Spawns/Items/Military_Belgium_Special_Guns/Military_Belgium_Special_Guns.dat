@@ -1,16 +1,132 @@
 GUID c4da72e55c6f466c88f562bf6d04a79c
 Type Spawn
 ID 9022
-Tables 5
-Table_0_Asset_ID 9000
-Table_0_Weight 10
-Table_1_Asset_ID 132
-Table_1_Weight 10
-Table_2_Asset_ID 297
-Table_2_Weight 10
-Table_3_Asset_ID 116
-Table_3_Weight 10
-Table_4_Asset_ID 9005
-Table_4_Weight 10
-Table_5_Asset_ID 9024
-Table_5_Weight 10
+
+Tables
+[
+	{
+		// Insurgent (Gun Item)
+		LegacyAssetId 16321
+		Weight 40
+	}
+	{
+		// Fortress (Gun Item)
+		Guid ae459a260a4c413a819c17de737554a4
+		Weight 40
+	}
+	{
+		// Zweiben (Gun Item)
+		Guid 398f4a178f0e485cb2329fdee8cfd9c5
+		Weight 40
+	}
+	{
+		// Gatekeeper (Gun Item)
+		Guid 9c3e0d5b5e5f485cae56772398cefb5c
+		Weight 35
+	}
+	{
+		// Klapperschlange (Gun Item)
+		LegacyAssetId 16328
+		Weight 30
+	}
+	{
+		// Mariana (Gun Item)
+		Guid 8d1feaf9d6234c5e8a76881d3ba78da4
+		Weight 30
+	}
+	{
+		// Fadenschlange (Gun Item)
+		Guid 6a44991eee12457aac07eab0156506ca
+		Weight 30
+	}
+	{
+		// Swordfish (Gun Item)
+		Guid ea48df06823c46d086d31f33ca3fcb43
+		Weight 30
+	}
+	{
+		// Wraith (Gun Item)
+		LegacyAssetId 16323
+		Weight 30
+	}
+	{
+		// Fumatisch (Gun Item)
+		LegacyAssetId 16187
+		Weight 30
+	}
+	{
+		// Saggitarius (Gun Item)
+		LegacyAssetId 16338
+		Weight 25
+	}
+	{
+		// Motiv (Gun Item)
+		Guid 0f98f3b51bcd4e76a2d2b6906a033ada
+		Weight 25
+	}
+	{
+		// Rioter (Gun Item)
+		LegacyAssetId 16330
+		Weight 25
+	}
+	{
+		// Falke (Gun Item)
+		LegacyAssetId 16340
+		Weight 25
+	}
+	{
+		// Mep (Gun Item)
+		Guid c80827d4fc9f4542a0778535af07e4b1
+		Weight 25
+	}
+	{
+		// Shinbreaker (Gun Item)
+		Guid 024def0374f845299564e58d3a4a6deb
+		Weight 22
+	}
+	{
+		// Shinbreaker (Gun Item)
+		Guid 1ad6a89993bb4e9db7494b64a5031f13
+		Weight 22
+	}
+	{
+		// Rontgen (Gun Item)
+		Guid 2cfc1f029fb64a50b78e2e789bbbd11d
+		Weight 22
+	}
+	{
+		// Kraftgewehr (Gun Item)
+		LegacyAssetId 16349
+		Weight 20
+	}
+	{
+		// Peacekeeper (Gun Item)
+		LegacyAssetId 16347
+		Weight 20
+	}
+	{
+		// Archangel (Gun Item)
+		Guid 6adb09ac076f4f3aa6bb4b7a40ac02b9
+		Weight 20
+	}
+	{
+		// Lockback (Gun Item)
+		Guid 4b2a0e799ac34fc6b3bf7e4660546182
+		Weight 20
+	}
+	{
+		// Mauerschmelzer (Gun Item)
+		Guid bd9b972621274667a922aeb56a837a6c
+		Weight 20
+	}
+	{
+		// Direwolf (Gun Item)
+		LegacyAssetId 16355
+		Weight 10
+	}
+	{
+		// Rippenbrecher (Gun Item)
+		Guid d52d827b3ff9496b856c013e3327198d
+		Weight 10
+	}
+]

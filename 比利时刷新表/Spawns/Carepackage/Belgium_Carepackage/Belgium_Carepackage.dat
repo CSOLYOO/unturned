@@ -2,59 +2,836 @@ GUID 0f1b8cff8f174a24b7a86e2c4e0d81dc
 Type Spawn
 ID 9027
 
-Tables 27
-
-Table_0_Asset_ID 488
-Table_0_Weight 60
-Table_1_Asset_ID 489
-Table_1_Weight 75
-Table_2_Asset_ID 1476
-Table_2_Weight 60
-Table_3_Asset_ID 1487
-Table_3_Weight 75
-Table_4_Asset_ID 1360
-Table_4_Weight 60
-Table_5_Asset_ID 1361
-Table_5_Weight 75
-Table_6_Asset_ID 1447
-Table_6_Weight 100
-Table_7_Asset_ID 1449
-Table_7_Weight 120
-Table_8_Asset_ID 1477
-Table_8_Weight 100
-Table_9_Asset_ID 1479
-Table_9_Weight 120
-Table_10_Asset_ID 363
-Table_10_Weight 100
-Table_11_Asset_ID 1375
-Table_11_Weight 100
-Table_12_Asset_ID 1488
-Table_12_Weight 100
-Table_13_Asset_ID 1490
-Table_13_Weight 120
-Table_14_Asset_ID 1018
-Table_14_Weight 100
-Table_15_Asset_ID 1020
-Table_15_Weight 120
-Table_16_Asset_ID 18
-Table_16_Weight 120
-Table_17_Asset_ID 20
-Table_17_Weight 100
-Table_18_Asset_ID 1382
-Table_18_Weight 120
-Table_19_Asset_ID 1384
-Table_19_Weight 100
-Table_20_Asset_ID 253
-Table_20_Weight 50
-Table_21_Asset_ID 81
-Table_21_Weight 50
-Table_22_Asset_ID 1484
-Table_22_Weight 100
-Table_23_Asset_ID 1485
-Table_23_Weight 120
-Table_24_Asset_ID 1480
-Table_24_Weight 80
-Table_25_Asset_ID 9051
-Table_25_Weight 110
-Table_26_Asset_ID 9052
-Table_26_Weight 130
+Tables
+[
+	{
+		// Insurgent Magzine (Magazine Item)
+		LegacyAssetId 16322
+		Weight 32
+	}
+	{
+		// Befehl Magazine (Magazine Item)
+		LegacyAssetId 16186
+		Weight 32
+	}
+	{
+		// Avtotek Magazine (Magazine Item)
+		LegacyAssetId 16178
+		Weight 32
+	}
+	{
+		// Griffin Magazine (Magazine Item)
+		LegacyAssetId 16320
+		Weight 32
+	}
+	{
+		// Holdout Magazine (Magazine Item)
+		Guid 329e508997314b5b8ef98de2511482fc
+		Weight 32
+	}
+	{
+		// Zweiben Magazine (Magazine Item)
+		Guid 7cac24b1b05c4496aee3c36e552be6bc
+		Weight 32
+	}
+	{
+		// Ausdauer Magazine (Magazine Item)
+		Guid ad5deb99b7544d0e813d98e8952f63dc
+		Weight 32
+	}
+	{
+		// Sova Magazine (Magazine Item)
+		Guid 7e1aace4f4654e1fb966735fcfece334
+		Weight 32
+	}
+	{
+		// Fortress Magazine (Magazine Item)
+		Guid 933b048fed4b4304acb9fe6a27a9d1dc
+		Weight 32
+	}
+	{
+		// Swordfish Magazine (Magazine Item)
+		Guid b427d731ff5d4ca9ae5c981a7d7c52cd
+		Weight 32
+	}
+	{
+		// Befehl (Gun Item)
+		LegacyAssetId 16185
+		Weight 30
+	}
+	{
+		// Fortress (Gun Item)
+		Guid ae459a260a4c413a819c17de737554a4
+		Weight 30
+	}
+	{
+		// Ausdauer (Gun Item)
+		Guid c492fa4a36854fb99a77ea08dcb3efbe
+		Weight 30
+	}
+	{
+		// Archangel Magazine (Magazine Item)
+		Guid 6736d51e08ad4187985e37ace22ff15a
+		Weight 30
+	}
+	{
+		// Zweiben (Gun Item)
+		Guid 398f4a178f0e485cb2329fdee8cfd9c5
+		Weight 30
+	}
+	{
+		// Sova (Gun Item)
+		Guid cace8ea2759742869cc3da0d28f65ac6
+		Weight 30
+	}
+	{
+		// Springtooth Magazine (Magazine Item)
+		Guid 088742c68f464cb1a9b422dcd0105d68
+		Weight 30
+	}
+	{
+		// Sleek Fedra Battle Magazine (Magazine Item)
+		Guid 20d8d5b5bd9c4a01b15fa3f3d245ac00
+		Weight 30
+	}
+	{
+		// Tactical Battle Magazine (Magazine Item)
+		Guid 75086a35cb324954b4310e1cbbaceada
+		Weight 30
+	}
+	{
+		// Macca Magazine (Magazine Item)
+		Guid 9ab58ef26684447fabf315369cd27fce
+		Weight 30
+	}
+	{
+		// 12 Gauge Shells (Magazine Item)
+		Guid ad855e76e5ee4c33b527fe2a33709023
+		Weight 30
+	}
+	{
+		// Retro Battle Magazine (Magazine Item)
+		Guid 79c12ce1f3f84b928a97c7d098c8e1ed
+		Weight 30
+	}
+	{
+		// Insurgent (Gun Item)
+		LegacyAssetId 16321
+		Weight 30
+	}
+	{
+		// Avtotek (Gun Item)
+		LegacyAssetId 16177
+		Weight 30
+	}
+	{
+		// Griffin (Gun Item)
+		LegacyAssetId 16319
+		Weight 30
+	}
+	{
+		// Holdout (Gun Item)
+		Guid 4639b903da0f4c3f8b7e6eab0968e6e6
+		Weight 30
+	}
+	{
+		// Reunion Magazine (Magazine Item)
+		Guid b4c19903f4104c039f40dfa452a99b33
+		Weight 30
+	}
+	{
+		// 12 Gauge Shells (Magazine Item)
+		LegacyAssetId 16402
+		Weight 30
+	}
+	{
+		// Raser Magazine (Magazine Item)
+		Guid c308e37300144be4b6fde006f6ab0c2b
+		Weight 30
+	}
+	{
+		// Pincer Magazine (Magazine Item)
+		Guid 139d4cb5eb6648df8dbd5ac07f13675e
+		Weight 30
+	}
+	{
+		// Mariana Magazine (Magazine Item)
+		Guid 6d34ddd85fbe46299bf7713066a0839b
+		Weight 30
+	}
+	{
+		// Firewall Magazine (Magazine Item)
+		Guid 628efc5a0361478981cf09f347fddca3
+		Weight 27
+	}
+	{
+		// Gatekeeper Magazine (Magazine Item)
+		Guid 90d858f88abe4b2598270d5a03af97eb
+		Weight 27
+	}
+	{
+		// Dossier Magazine (Magazine Item)
+		Guid 738b71987ed54dc9b4c4dc67e197433a
+		Weight 27
+	}
+	{
+		// Danube Magazine (Magazine Item)
+		Guid 0191302959a14323b6e32ad61163f9e3
+		Weight 27
+	}
+	{
+		// Mep Magazine (Magazine Item)
+		Guid f6eb7ab11b664476a348a1c9744b91eb
+		Weight 27
+	}
+	{
+		// Sparrowhawk Magazine (Magazine Item)
+		Guid fab66613c2394d409ef5aa299c6d11db
+		Weight 27
+	}
+	{
+		// Cavalier Magazine (Magazine Item)
+		Guid 0c297bc437c243ac86abf8d9791a8730
+		Weight 27
+	}
+	{
+		// Gewehr Magazine (Magazine Item)
+		LegacyAssetId 16251
+		Weight 27
+	}
+	{
+		// RangerLite Magazine (Magazine Item)
+		Guid 0fdfbd63682e4b75aa8de9fc8a7c1c2f
+		Weight 27
+	}
+	{
+		// Vierzig Magazine (Magazine Item)
+		LegacyAssetId 16204
+		Weight 27
+	}
+	{
+		// Battle Magazine (Magazine Item)
+		LegacyAssetId 16346
+		Weight 27
+	}
+	{
+		// Crow Magazine (Magazine Item)
+		LegacyAssetId 16354
+		Weight 27
+	}
+	{
+		// Voxlar Magazine (Magazine Item)
+		LegacyAssetId 16195
+		Weight 27
+	}
+	{
+		// Waffle Military Magazine (Magazine Item)
+		LegacyAssetId 16257
+		Weight 27
+	}
+	{
+		// Sleek Battle Magazine (Magazine Item)
+		LegacyAssetId 16351
+		Weight 27
+	}
+	{
+		// Sharpshooter Military Magazine (Magazine Item)
+		LegacyAssetId 16254
+		Weight 27
+	}
+	{
+		// Vonkov Magazine (Magazine Item)
+		LegacyAssetId 16219
+		Weight 27
+	}
+	{
+		// Kriegsherren Box (Magazine Item)
+		Guid 6a4d3dfa861e4ebb9c92f2f6f983f701
+		Weight 27
+	}
+	{
+		// Tan Battle Magazine (Magazine Item)
+		LegacyAssetId 16344
+		Weight 27
+	}
+	{
+		// Ranger Magazine (Magazine Item)
+		LegacyAssetId 16248
+		Weight 27
+	}
+	{
+		// 12 Gauge Shells (Magazine Item)
+		LegacyAssetId 16216
+		Weight 27
+	}
+	{
+		// Military Magazine (Magazine Item)
+		LegacyAssetId 16236
+		Weight 27
+	}
+	{
+		// Petrov Magazine (Magazine Item)
+		LegacyAssetId 16327
+		Weight 27
+	}
+	{
+		// Military Magazine (Magazine Item)
+		LegacyAssetId 16369
+		Weight 27
+	}
+	{
+		// Wraith Magazine (Magazine Item)
+		LegacyAssetId 16325
+		Weight 27
+	}
+	{
+		// Reich Magazine (Magazine Item)
+		LegacyAssetId 16211
+		Weight 27
+	}
+	{
+		// Swordfish (Gun Item)
+		Guid ea48df06823c46d086d31f33ca3fcb43
+		Weight 25
+	}
+	{
+		// Archangel (Gun Item)
+		Guid 6adb09ac076f4f3aa6bb4b7a40ac02b9
+		Weight 25
+	}
+	{
+		// Breakout (Gun Item)
+		Guid 10e4422e369446308e4e5aebba7b6237
+		Weight 25
+	}
+	{
+		// Cockatrice (Gun Item)
+		Guid d31060b9fcd24c2db0e952c3e02da32b
+		Weight 25
+	}
+	{
+		// Pincer (Gun Item)
+		Guid 46720d1582b042efb1df61c1974c16bb
+		Weight 25
+	}
+	{
+		// Raptor (Gun Item)
+		Guid 8e81a99dfec342598df074b74e4a3226
+		Weight 25
+	}
+	{
+		// Gatekeeper (Gun Item)
+		Guid 9c3e0d5b5e5f485cae56772398cefb5c
+		Weight 25
+	}
+	{
+		// Danube (Gun Item)
+		Guid ee9ccf478d494e52aef0582340eb910b
+		Weight 25
+	}
+	{
+		// Mep (Gun Item)
+		Guid c80827d4fc9f4542a0778535af07e4b1
+		Weight 25
+	}
+	{
+		// Sparrowhawk (Gun Item)
+		Guid 48b84f451a8a49e3b02dfb8a2c2ced1c
+		Weight 25
+	}
+	{
+		// Cavalier (Gun Item)
+		Guid dc7ded9e40f640cbbbad5f3871358c7d
+		Weight 25
+	}
+	{
+		// Lockback (Gun Item)
+		Guid 4b2a0e799ac34fc6b3bf7e4660546182
+		Weight 25
+	}
+	{
+		// Talonpiercer (Gun Item)
+		Guid 796ccfcda9964ccc8f602d069084b82d
+		Weight 25
+	}
+	{
+		// Talonslash (Gun Item)
+		Guid 1465306c595a4ed0a6fc472cc57da948
+		Weight 25
+	}
+	{
+		// Firewall (Gun Item)
+		Guid 8c80c0b0c29344f4be7fbba4ca61e248
+		Weight 25
+	}
+	{
+		// Dossier (Gun Item)
+		Guid 800b15450f3a42bbbe669e302ce01fe7
+		Weight 25
+	}
+	{
+		// Munich (Gun Item)
+		Guid 03c6c7d95f154090b1c559c707d66dc3
+		Weight 25
+	}
+	{
+		// Junglerat (Gun Item)
+		Guid aa26110b7bec41efb5c8740a44c566b1
+		Weight 25
+	}
+	{
+		// Shinbreaker (Gun Item)
+		Guid 1ad6a89993bb4e9db7494b64a5031f13
+		Weight 25
+	}
+	{
+		// Zubklykkov (Gun Item)
+		LegacyAssetId 16364
+		Weight 25
+	}
+	{
+		// Gipfelgewehr (Gun Item)
+		LegacyAssetId 16249
+		Weight 25
+	}
+	{
+		// Normandy (Gun Item)
+		Guid 15cfa6230c3a48ebbb7bc13bf9aafb12
+		Weight 25
+	}
+	{
+		// Rioter (Gun Item)
+		LegacyAssetId 16330
+		Weight 25
+	}
+	{
+		// Stierwelpe (Gun Item)
+		LegacyAssetId 16255
+		Weight 25
+	}
+	{
+		// Talonspecial (Gun Item)
+		LegacyAssetId 16240
+		Weight 25
+	}
+	{
+		// Zubsvetkov (Gun Item)
+		Guid a215eaaa81e6439cb92c88124dc04779
+		Weight 25
+	}
+	{
+		// Petrov (Gun Item)
+		LegacyAssetId 16326
+		Weight 25
+	}
+	{
+		// Nachtrauber (Gun Item)
+		LegacyAssetId 16258
+		Weight 25
+	}
+	{
+		// Reyndzher Magazine (Magazine Item)
+		Guid 53046249be8344d28adea14fc7906a0a
+		Weight 25
+	}
+	{
+		// Tsiklon Mag (Magazine Item)
+		Guid be30a09a893444b59d81016c8e3f5c77
+		Weight 25
+	}
+	{
+		// Saggitarius (Gun Item)
+		LegacyAssetId 16338
+		Weight 25
+	}
+	{
+		// Reich (Gun Item)
+		LegacyAssetId 16209
+		Weight 25
+	}
+	{
+		// Buschgewehr (Gun Item)
+		LegacyAssetId 16406
+		Weight 25
+	}
+	{
+		// Falke (Gun Item)
+		LegacyAssetId 16340
+		Weight 25
+	}
+	{
+		// Kriegsherren (Gun Item)
+		Guid c4947d82ee044b3283945b9bca77ee0e
+		Weight 25
+	}
+	{
+		// Grat (Gun Item)
+		Guid 2dbb25cce3bd40658b11f56e6f01a9ba
+		Weight 25
+	}
+	{
+		// Hemlock (Gun Item)
+		Guid c0abf3dc91b54ee096fc44b598b7137f
+		Weight 25
+	}
+	{
+		// Wraith (Gun Item)
+		LegacyAssetId 16323
+		Weight 25
+	}
+	{
+		// Shinbreaker (Gun Item)
+		Guid 024def0374f845299564e58d3a4a6deb
+		Weight 25
+	}
+	{
+		// Fusilmas (Gun Item)
+		LegacyAssetId 16252
+		Weight 25
+	}
+	{
+		// Vierzig (Gun Item)
+		LegacyAssetId 16202
+		Weight 25
+	}
+	{
+		// Jackknife (Gun Item)
+		Guid 83c0988b23484b199284dd2b08fcb92c
+		Weight 25
+	}
+	{
+		// Longinus (Gun Item)
+		Guid 806ac9a631c04f50af299522e0d29033
+		Weight 25
+	}
+	{
+		// Raser (Gun Item)
+		Guid 461e750f9a4d491dbe8909c35d82bc1a
+		Weight 25
+	}
+	{
+		// Conscript (Gun Item)
+		Guid 057370dab46b46269b9f7ee2938c80a6
+		Weight 25
+	}
+	{
+		// Mariana (Gun Item)
+		Guid 8d1feaf9d6234c5e8a76881d3ba78da4
+		Weight 25
+	}
+	{
+		// Macca (Gun Item)
+		Guid 0f0518209fd848b29e6d99a11282c295
+		Weight 25
+	}
+	{
+		// Moosestrike (Gun Item)
+		LegacyAssetId 16244
+		Weight 25
+	}
+	{
+		// Mauerschmelzer (Gun Item)
+		Guid bd9b972621274667a922aeb56a837a6c
+		Weight 25
+	}
+	{
+		// Sovrekov (Gun Item)
+		Guid d599402cf31844a1b919b6cc7b69e712
+		Weight 25
+	}
+	{
+		// Vonkov (Gun Item)
+		LegacyAssetId 16217
+		Weight 25
+	}
+	{
+		// Voxlar (Gun Item)
+		LegacyAssetId 16397
+		Weight 25
+	}
+	{
+		// Subsonic Military Magazine (Magazine Item)
+		LegacyAssetId 16370
+		Weight 22
+	}
+	{
+		// Military Drum (Magazine Item)
+		LegacyAssetId 16367
+		Weight 22
+	}
+	{
+		// Ranger Drum (Magazine Item)
+		LegacyAssetId 16366
+		Weight 22
+	}
+	{
+		// Subsonic Ranger Magazine (Magazine Item)
+		Guid e1862919d81c46a7a38fa2a550fbc2e9
+		Weight 22
+	}
+	{
+		// Warthog Box (Magazine Item)
+		LegacyAssetId 16363
+		Weight 22
+	}
+	{
+		// Degtyaryov Drum (Magazine Item)
+		Guid c247a30744ac4490993b200c2583ab47
+		Weight 22
+	}
+	{
+		// Blitzschlag Magazine (Magazine Item)
+		LegacyAssetId 16360
+		Weight 22
+	}
+	{
+		// Battle Drum (Magazine Item)
+		LegacyAssetId 16368
+		Weight 22
+	}
+	{
+		// Lucifer's Pain Drum (Magazine Item)
+		LegacyAssetId 16222
+		Weight 22
+	}
+	{
+		// Zubashnakov (Gun Item)
+		Guid 4f2fba2538614ca186af7c44820b0a2d
+		Weight 20
+	}
+	{
+		// Outlaw Rounds (Magazine Item)
+		Guid 9182458c2cb24415b8af3fdcd5f1c1ed
+		Weight 20
+	}
+	{
+		// Ausweider Drum (Magazine Item)
+		Guid f88a7789563348c782a3f9d1af47a539
+		Weight 20
+	}
+	{
+		// Tsiklon (Gun Item)
+		Guid cdf9554983b04cb1a76062640c9204f3
+		Weight 20
+	}
+	{
+		// Warthog (Gun Item)
+		LegacyAssetId 16361
+		Weight 20
+	}
+	{
+		// Zubashnakov (Gun Item)
+		Guid 1168d8de901b43e4bc4f3f40df778541
+		Weight 20
+	}
+	{
+		// Crow (Gun Item)
+		LegacyAssetId 16352
+		Weight 20
+	}
+	{
+		// Kraftgewehr (Gun Item)
+		LegacyAssetId 16349
+		Weight 20
+	}
+	{
+		// Barren Hawk (Gun Item)
+		LegacyAssetId 16179
+		Weight 20
+	}
+	{
+		// Rontgen (Gun Item)
+		Guid 2cfc1f029fb64a50b78e2e789bbbd11d
+		Weight 20
+	}
+	{
+		// Headstomp (Gun Item)
+		LegacyAssetId 16342
+		Weight 20
+	}
+	{
+		// Cutlass (Gun Item)
+		Guid 5c6680d4d43b47e3be21e33271e20545
+		Weight 20
+	}
+	{
+		// Razvedchik Magazine (Magazine Item)
+		Guid 9cbc97e01ffd4c2aa1c440fa4ff62006
+		Weight 20
+	}
+	{
+		// Division (Gun Item)
+		Guid fba5bb8344e94e3d951185cfaaa6d1ec
+		Weight 20
+	}
+	{
+		// Lucifer's Pain (Gun Item)
+		LegacyAssetId 16220
+		Weight 20
+	}
+	{
+		// Blackout (Gun Item)
+		Guid c05819b795ea48c8aea5093925a74256
+		Weight 20
+	}
+	{
+		// Bravado (Gun Item)
+		LegacyAssetId 16237
+		Weight 20
+	}
+	{
+		// Mauerbrecher (Gun Item)
+		LegacyAssetId 16345
+		Weight 20
+	}
+	{
+		// Peacekeeper (Gun Item)
+		LegacyAssetId 16347
+		Weight 20
+	}
+	{
+		// Razvedchik (Gun Item)
+		Guid da5950da49074376944a8afba3afa08f
+		Weight 17
+	}
+	{
+		// Ausweider (Gun Item)
+		Guid 7ed0e2a221f84213a3f3bc3651f96426
+		Weight 17
+	}
+	{
+		// Ripperbrechen Magazine (Magazine Item)
+		Guid f80ecb11f4c44465a6c0398a933e3d83
+		Weight 17
+	}
+	{
+		// Mojave Magazine (Magazine Item)
+		Guid efe40904f0b141c4aa2008d22ae6d204
+		Weight 17
+	}
+	{
+		// Tundrawolf Magazine (Magazine Item)
+		LegacyAssetId 16262
+		Weight 17
+	}
+	{
+		// Hunterkiller Magazine (Magazine Item)
+		Guid f73a1412ebf246538ab24f5246ca1f37
+		Weight 17
+	}
+	{
+		// Rubis Magazine (Magazine Item)
+		Guid 714fe3d302fe4919b28a4f4bc1e6ab54
+		Weight 17
+	}
+	{
+		// Shepot Mag (Magazine Item)
+		Guid 907e054ff1bc46fe9b7b548985b21b6d
+		Weight 17
+	}
+	{
+		// Subsonic Ranger Box (Magazine Item)
+		Guid 2670a60a20ba4120b6f9ea5991bac487
+		Weight 17
+	}
+	{
+		// Reaper Magazine (Magazine Item)
+		LegacyAssetId 16271
+		Weight 17
+	}
+	{
+		// Zherebets (Gun Item)
+		Guid 16d56a15ddc24f70a59c3f2ce35175a6
+		Weight 17
+	}
+	{
+		// Direwolf Magazine (Magazine Item)
+		LegacyAssetId 16357
+		Weight 17
+	}
+	{
+		// Goliath Magazine (Magazine Item)
+		LegacyAssetId 16268
+		Weight 17
+	}
+	{
+		// Mojave (Gun Item)
+		Guid fd5efe66da4344c39f35ba8b8c1820f6
+		Weight 15
+	}
+	{
+		// Hunterkiller (Gun Item)
+		Guid cf4650bb78c0477dad6e309f535f6fe1
+		Weight 15
+	}
+	{
+		// Rippenbrecher (Gun Item)
+		Guid d52d827b3ff9496b856c013e3327198d
+		Weight 15
+	}
+	{
+		// Rubis (Gun Item)
+		Guid 2d7614159e3b4835b834176c24b1c283
+		Weight 15
+	}
+	{
+		// Reaper (Gun Item)
+		LegacyAssetId 16269
+		Weight 15
+	}
+	{
+		// Direwolf (Gun Item)
+		LegacyAssetId 16355
+		Weight 15
+	}
+	{
+		// Blitzschlag (Gun Item)
+		LegacyAssetId 16358
+		Weight 15
+	}
+	{
+		// Shepot (Gun Item)
+		Guid b2b5c2cb9e9e47f499cbadb899468d35
+		Weight 15
+	}
+	{
+		// Alvas (Gun Item)
+		Guid 6e053d74d2e1485287ac2eb425acf37a
+		Weight 15
+	}
+	{
+		// Tundrawolf (Gun Item)
+		LegacyAssetId 16260
+		Weight 15
+	}
+	{
+		// Forsaken Speedloader (Magazine Item)
+		Guid 11bdb38674cd41e7a75b206d43b4a8b2
+		Weight 15
+	}
+	{
+		// Lockwood (Gun Item)
+		Guid 73e560bf03c142858e4f4fee5a8c7890
+		Weight 15
+	}
+	{
+		// Goliath (Gun Item)
+		LegacyAssetId 16266
+		Weight 15
+	}
+	{
+		// Forsaken (Gun Item)
+		Guid 21861534f3454bf3b1786c4dab5bae4a
+		Weight 12
+	}
+	{
+		// Heaven's Wrath Drum (Magazine Item)
+		LegacyAssetId 16285
+		Weight 7
+	}
+	{
+		// Heaven's Wrath (Gun Item)
+		LegacyAssetId 16284
+		Weight 5
+	}
+]
