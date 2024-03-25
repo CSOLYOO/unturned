@@ -5,7 +5,7 @@ ID 9002
 Tables
 [
 	{
-		LegacyAssetId 17606
+		LegacySpawnId 17606
 		Weight 20
 	}
 	{
@@ -37,11 +37,11 @@ Tables
 		Weight 25
 	}       
     {
-        LegacyAssetId 17641
+        LegacySpawnId 17641
         Weight 20
     }         
     {
-        LegacyAssetId 17642
+        LegacySpawnId 17642
         Weight 20
     }
 ]

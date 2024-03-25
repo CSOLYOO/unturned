@@ -5,27 +5,27 @@ ID 9019
 Tables
 [
 	{
-		LegacyAssetId 17657
+		LegacySpawnId 17657
 		Weight 10
 	}
 	{
-		LegacyAssetId 17658
+		LegacySpawnId 17658
 		Weight 10
 	}
 	{
-		LegacyAssetId 17661
+		LegacySpawnId 17661
 		Weight 10
 	}
 	{
-		LegacyAssetId 17660
+		LegacySpawnId 17660
 		Weight 10
 	}        
     {
-        LegacyAssetId 17659
+        LegacySpawnId 17659
         Weight 10
     }
     {
-        LegacyAssetId 17662
+        LegacySpawnId 17662
         Weight 10
     }    
 ]

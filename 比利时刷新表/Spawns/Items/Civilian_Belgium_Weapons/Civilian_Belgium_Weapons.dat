@@ -1,22 +1,38 @@
 GUID 55dd85c534b64e8380d60687ab16b440
 Type Spawn
 ID 9006
-Tables 7
-Table_0_Asset_ID 106
-Table_0_Weight 14
-Table_1_Asset_ID 135
-Table_1_Weight 12
-Table_2_Asset_ID 138
-Table_2_Weight 14
-Table_3_Asset_ID 142
-Table_3_Weight 12
-Table_4_Asset_ID 105
-Table_4_Weight 12
-Table_5_Asset_ID 276
-Table_5_Weight 16
-Table_6_Asset_ID 17612
-Table_6_Weight 4
 
+Tables
+[
+    {
+        LegacyAssetId 106
+        Weight 14
+    }
+    {
+        LegacyAssetId 135
+        Weight 12
+    }
+    {
+        LegacyAsstId 138
+        Weight 14
+    }
+    {
+        LegacyAssetId 142
+        Weight 12
+    }
+    {
+        LegacyAssetId 105
+        Weight 12
+    }
+    {
+        LegacyAssetId 276
+        Weight 16
+    }        
+    {
+        Guid c87ffa4790534d75960027d8e24cfa29
+        Weight 4
+    }
+]
 
 
 
