@@ -1,0 +1,32 @@
+GUID 6e1a8213839e40df8c21c68a318120ce
+Type Spawn
+ID 9001
+
+Tables
+[
+	{
+		// Military_Belgium_Special_Attachments (Spawn)
+		LegacySpawnId 9019
+		Weight 440
+	}
+	{
+		// Military_Belgium_Special_Explosives (Spawn)
+		LegacySpawnId 9021
+		Weight 250
+	}
+	{
+		// Military_Belgium_Special_Clothes (Spawn)
+		LegacySpawnId 9020
+		Weight 160
+	}
+	{
+		// Military_Belgium_Special_Ammo (Spawn)
+		LegacySpawnId 9018
+		Weight 81
+	}
+	{
+		// Military_Belgium_Special_Guns (Spawn)
+		LegacySpawnId 9022
+		Weight 37
+	}
+]

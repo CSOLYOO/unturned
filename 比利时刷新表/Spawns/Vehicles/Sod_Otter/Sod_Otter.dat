@@ -1,0 +1,26 @@
+GUID cb57948da02049f781b69f0a9e81a3d5
+Type Spawn
+ID 11017
+
+Roots 1
+Root_0_Spawn_ID 322
+Root_0_Weight 70
+
+
+Tables 8
+Table_0_Asset_ID 39380
+Table_0_Weight 10
+Table_1_Asset_ID 39381
+Table_1_Weight 10
+Table_2_Asset_ID 39382
+Table_2_Weight 10
+Table_3_Asset_ID 39383
+Table_3_Weight 10
+Table_4_Asset_ID 39384
+Table_4_Weight 10
+Table_5_Asset_ID 39385
+Table_5_Weight 10
+Table_6_Asset_ID 39386
+Table_6_Weight 10
+Table_7_Asset_ID 39387
+Table_7_Weight 10

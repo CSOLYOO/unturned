@@ -1,0 +1,21 @@
+GUID ec0035311ad84c1db9ae9b50f47b98a3
+Type Spawn
+ID 9009
+
+Tables 4
+
+// assualt
+Table_0_Spawn_ID 11100
+Table_0_Weight 20
+// pistols
+Table_1_Spawn_ID 11101
+Table_1_Weight 20
+// rifle
+Table_2_Spawn_ID 11102
+Table_2_Weight 20
+// sub
+Table_3_Spawn_ID 11103
+Table_3_Weight 20
+
+
+

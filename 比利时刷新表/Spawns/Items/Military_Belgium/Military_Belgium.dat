@@ -1,0 +1,21 @@
+GUID 915dc7b8fc6c48e4b29d0eea0bc98740
+Type Spawn
+ID 9000
+Tables 3
+
+// guns + ammo + mags should == 175 (which is 17.6 (cuz raw explosive moved here))
+
+//guns
+Table_0_Spawn_ID 9009
+Table_0_Weight 80
+
+// ammo 70-35 =35 + magz 61
+Table_1_Spawn_ID 9010
+Table_1_Weight 95
+
+// mili common
+Table_2_Spawn_ID 9016
+Table_2_Weight 825
+
+
+

@@ -1,0 +1,71 @@
+GUID 282b94af9fc248d3951cf6a4258fff32
+Type Spawn
+ID 9016
+
+
+
+// guns + ammo + mags should == 175 (which is 17.6 (cuz raw explosive moved here))
+
+Tables
+[
+	{
+		// Smoke (Spawn)
+		LegacySpawnId 123
+		Weight 198
+	}
+	{
+		// Military Knife (Melee Item)
+		LegacyAssetId 121
+		Weight 156
+	}
+	{
+		// Woodlands Military Top (Shirt Item)
+		LegacyAssetId 9009
+		Weight 106
+	}
+	{
+		// Woodlands Military Bottom (Pants Item)
+		LegacyAssetId 9010
+		Weight 106
+	}
+	{
+		// Woodlands Military Vest (Vest Item)
+		LegacyAssetId 9011
+		Weight 85
+	}
+	{
+		// Woodlands Beret (Hat Item)
+		LegacyAssetId 9012
+		Weight 44
+	}
+	{
+		// Woodlands Military Helmet (Hat Item)
+		LegacyAssetId 9013
+		Weight 44
+	}
+	{
+		// Raw Explosives (Supply Item)
+		LegacyAssetId 73
+		Weight 35
+	}
+	{
+		// Tanktrap (Barricade Item)
+		LegacyAssetId 1227
+		Weight 12
+	}
+	{
+		// Sandbag (Barricade Item)
+		LegacyAssetId 365
+		Weight 12
+	}
+	{
+		// GPS (Map Item)
+		LegacyAssetId 1176
+		Weight 11
+	}
+	{
+		// Earpiece (Mask Item)
+		LegacyAssetId 1446
+		Weight 11
+	}
+]

@@ -1,0 +1,31 @@
+GUID 9f3035d9b97c4ece961eec5cde208b57
+Type Spawn
+ID 11104
+
+Tables 9
+
+// assault
+Table_0_Asset_ID 123
+Table_0_Weight 50
+Table_1_Asset_ID 6
+Table_1_Weight 50
+
+// sub
+Table_2_Asset_ID 1483
+Table_2_Weight 25
+Table_3_Asset_ID 113
+Table_3_Weight 25
+Table_4_Asset_ID 1026
+Table_4_Weight 25
+Table_5_Asset_ID 1371
+Table_5_Weight 25
+
+// rifle
+Table_6_Asset_ID 1020
+Table_6_Weight 100
+
+// pistols mags
+Table_7_Asset_ID 9027
+Table_7_Weight 50
+Table_8_Asset_ID 9031
+Table_8_Weight 50

@@ -1,0 +1,52 @@
+GUID 30504dacec2b491990fd3ed6b7bcc417
+Type Spawn
+ID 9021
+
+Tables
+[
+	{
+		// Fragmentation Grenade (Throwable Item)
+		LegacyAssetId 254
+		Weight 600
+	}
+	{
+		// Detonator (Detonator Item)
+		LegacyAssetId 1240
+		Weight 140
+	}
+	{
+		// Flashbang (Throwable Item)
+		LegacyAssetId 1346
+		Weight 120
+	}
+	{
+		// Sticky Grenade (Throwable Item)
+		LegacyAssetId 1100
+		Weight 80
+	}
+	{
+		// Landmine (Trap Item)
+		LegacyAssetId 1101
+		Weight 80
+	}
+	{
+		// Claymore (Trap Item)
+		LegacyAssetId 1102
+		Weight 80
+	}
+	{
+		// Demolition Charge (Charge Item)
+		LegacyAssetId 1241
+		Weight 50
+	}
+	{
+		// Missile (Magazine Item)
+		LegacyAssetId 1302
+		Weight 40
+	}
+	{
+		// Precision Charge (Charge Item)
+		LegacyAssetId 1393
+		Weight 20
+	}
+]
