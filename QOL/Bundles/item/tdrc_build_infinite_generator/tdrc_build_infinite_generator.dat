@@ -1,0 +1,44 @@
+GUID 5730f458bd8d47f58e64319e4f92b207
+Type Generator
+Rarity Mythical
+Useable Barricade
+Build Generator
+ID 63608 
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 1000
+Range 4
+Radius 0.5
+Offset 0.75
+
+Capacity 2000
+Wirerange 120.0
+Burn 360000
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 5
+Blueprint_0_Supply_0_ID 49102
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 49111
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Supply_2_ID 49109 
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Supply_3_ID 49107 
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Supply_4_ID 1230 
+Blueprint_0_Supply_4_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barricades/Generator_Small
+PlacementAudioClip Sounds/MetalPlacement.mp3
+Has_Clip_Prefab false
