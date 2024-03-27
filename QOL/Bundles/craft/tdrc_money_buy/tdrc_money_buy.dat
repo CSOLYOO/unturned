@@ -274,10 +274,10 @@ Blueprint_22_Build 27
 Blueprint_23_Type Gear
 Blueprint_23_Supplies 1
 Blueprint_23_Supply_0_ID 1055
-Blueprint_23_Supply_0_Amount 2
+Blueprint_23_Supply_0_Amount 1
 Blueprint_23_Tool 63522
 Blueprint_23_Product 16580
-Blueprint_23_Products 1
+Blueprint_23_Products 2
 Blueprint_23_Level 1
 Blueprint_23_Skill Craft
 Blueprint_23_Build 27
@@ -285,10 +285,10 @@ Blueprint_23_Build 27
 Blueprint_24_Type Gear
 Blueprint_24_Supplies 1
 Blueprint_24_Supply_0_ID 1055
-Blueprint_24_Supply_0_Amount 2
+Blueprint_24_Supply_0_Amount 1
 Blueprint_24_Tool 63522
 Blueprint_24_Product 16579
-Blueprint_24_Products 1
+Blueprint_24_Products 2
 Blueprint_24_Level 1
 Blueprint_24_Skill Craft
 Blueprint_24_Build 27
@@ -304,6 +304,122 @@ Blueprint_25_Products 1
 Blueprint_25_Level 1
 Blueprint_25_Skill Craft
 Blueprint_25_Build 27
+
+// MG42弹鼓
+Blueprint_26_Type Gear
+Blueprint_26_Supplies 1
+Blueprint_26_Supply_0_ID 1055
+Blueprint_26_Supply_0_Amount 3
+Blueprint_26_Tool 63522
+Blueprint_26_Product 16559
+Blueprint_26_Products 1
+Blueprint_26_Level 1
+Blueprint_26_Skill Craft
+Blueprint_26_Build 27
+
+Blueprint_27_Type Gear
+Blueprint_27_Supplies 1
+Blueprint_27_Supply_0_ID 1055
+Blueprint_27_Supply_0_Amount 8
+Blueprint_27_Tool 63522
+Blueprint_27_Product 63600
+Blueprint_27_Products 1
+Blueprint_27_Level 1
+Blueprint_27_Skill Craft
+Blueprint_27_Build 27
+
+//红激光
+Blueprint_28_Type Gear
+Blueprint_28_Supplies 1
+Blueprint_28_Supply_0_ID 1054
+Blueprint_28_Supply_0_Amount 1
+Blueprint_28_Tool 63522
+Blueprint_28_Product 151
+Blueprint_28_Products 1
+Blueprint_28_Level 1
+Blueprint_28_Skill Craft
+Blueprint_28_Build 27
+
+//AA-12弹鼓
+Blueprint_29_Type Gear
+Blueprint_29_Supplies 1
+Blueprint_29_Supply_0_ID 1055
+Blueprint_29_Supply_0_Amount 2
+Blueprint_29_Tool 63522
+Blueprint_29_Product 16222
+Blueprint_29_Products 1
+Blueprint_29_Level 1
+Blueprint_29_Skill Craft
+Blueprint_29_Build 27
+
+//RPG弹药
+Blueprint_30_Type Gear
+Blueprint_30_Supplies 1
+Blueprint_30_Supply_0_ID 1055
+Blueprint_30_Supply_0_Amount 1
+Blueprint_30_Tool 63522
+Blueprint_30_Product 16288
+Blueprint_30_Products 3
+Blueprint_30_Level 1
+Blueprint_30_Skill Craft
+Blueprint_30_Build 27
+
+//爱丽丝包
+Blueprint_31_Type Gear
+Blueprint_31_Supplies 1
+Blueprint_31_Supply_0_ID 1055
+Blueprint_31_Supply_0_Amount 1
+Blueprint_31_Tool 63522
+Blueprint_31_Product 253
+Blueprint_31_Products 1
+Blueprint_31_Level 1
+Blueprint_31_Skill Craft
+Blueprint_31_Build 27
+
+Blueprint_32_Type Gear
+Blueprint_32_Supplies 1
+Blueprint_32_Supply_0_ID 1055
+Blueprint_32_Supply_0_Amount 1
+Blueprint_32_Tool 63522
+Blueprint_32_Product 99
+Blueprint_32_Products 1
+Blueprint_32_Level 1
+Blueprint_32_Skill Craft
+Blueprint_32_Build 27
+
+Blueprint_33_Type Gear
+Blueprint_33_Supplies 1
+Blueprint_33_Supply_0_ID 1055
+Blueprint_33_Supply_0_Amount 1
+Blueprint_33_Tool 63522
+Blueprint_33_Product 99
+Blueprint_33_Products 1
+Blueprint_33_Level 1
+Blueprint_33_Skill Craft
+Blueprint_33_Build 27
+
+Blueprint_34_Type Gear
+Blueprint_34_Supplies 1
+Blueprint_34_Supply_0_ID 1055
+Blueprint_34_Supply_0_Amount 1
+Blueprint_34_Tool 63522
+Blueprint_34_Product 99
+Blueprint_34_Products 1
+Blueprint_34_Level 1
+Blueprint_34_Skill Craft
+Blueprint_34_Build 27
+
+Blueprint_35_Type Gear
+Blueprint_35_Supplies 1
+Blueprint_35_Supply_0_ID 1055
+Blueprint_35_Supply_0_Amount 1
+Blueprint_35_Tool 63522
+Blueprint_35_Product 99
+Blueprint_35_Products 1
+Blueprint_35_Level 1
+Blueprint_35_Skill Craft
+Blueprint_35_Build 27
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
