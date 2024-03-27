@@ -3,13 +3,19 @@ GUID 357b98d8ba1b4e759e227b652f5b5d15
 Type Supply
 ID 63512
 
-Blueprints 1
+Blueprints 2
 
 Blueprint_0_Type Ammo
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 16373
 Blueprint_0_Build 30
 Blueprint_0_Product 16280
+
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 347
+Blueprint_0_Build 30
+Blueprint_0_Product 16290
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack

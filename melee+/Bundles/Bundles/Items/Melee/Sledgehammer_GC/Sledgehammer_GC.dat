@@ -14,8 +14,8 @@ Size2_Z 0.5
 	
 Range 3.0
 Strong 0.375
-Strength 3.0
-Stamina 55
+Strength 1.5
+Stamina 40
 
 Player_Damage 100
 Player_Leg_Multiplier 0.6
@@ -24,10 +24,10 @@ Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.2
 
 Zombie_Damage 100
-Zombie_Leg_Multiplier 0.8
-Zombie_Arm_Multiplier 0.8
+Zombie_Leg_Multiplier 1.0
+Zombie_Arm_Multiplier 1.0
 Zombie_Spine_Multiplier 1.0
-Zombie_Skull_Multiplier 1.8
+Zombie_Skull_Multiplier 1.2
 
 Animal_Damage 100
 Animal_Leg_Multiplier 0.3

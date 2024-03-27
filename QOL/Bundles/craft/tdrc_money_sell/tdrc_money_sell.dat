@@ -3,7 +3,7 @@ GUID e1805c07d39b45f4b961367949fa48f7
 Type Supply
 ID 63509
 
-Blueprints 13
+Blueprints 21
 
 //收购畜牲
 Blueprint_0_Type Tool
@@ -151,6 +151,107 @@ Blueprint_12_Products 1
 Blueprint_12_Level 1
 Blueprint_12_Skill Craft
 Blueprint_12_Build 27
+
+// drug是不行的！
+
+//净化药片 2刀
+Blueprint_13_Type Tool
+Blueprint_13_Supplies 1
+Blueprint_13_Supply_0_ID 10214
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Tool 63523
+Blueprint_13_Product 1053
+Blueprint_13_Products 1
+Blueprint_13_Level 1
+Blueprint_13_Skill Craft
+Blueprint_13_Build 27
+
+//疫苗 4刀
+Blueprint_14_Type Tool
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 10210
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Tool 63523
+Blueprint_14_Product 1053
+Blueprint_14_Products 2
+Blueprint_14_Level 1
+Blueprint_14_Skill Craft
+Blueprint_14_Build 27
+
+//维他命 2刀
+Blueprint_15_Type Tool
+Blueprint_15_Supplies 1
+Blueprint_15_Supply_0_ID 10216
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Tool 63523
+Blueprint_15_Product 1053
+Blueprint_15_Products 1
+Blueprint_15_Level 1
+Blueprint_15_Skill Craft
+Blueprint_15_Build 27
+
+//吗啡 4刀
+Blueprint_16_Type Tool
+Blueprint_16_Supplies 1
+Blueprint_16_Supply_0_ID 10208
+Blueprint_16_Supply_0_Amount 1
+Blueprint_16_Tool 63523
+Blueprint_16_Product 1053
+Blueprint_16_Products 2
+Blueprint_16_Level 1
+Blueprint_16_Skill Craft
+Blueprint_16_Build 27
+
+//肾上腺素 4刀
+Blueprint_17_Type Tool
+Blueprint_17_Supplies 1
+Blueprint_17_Supply_0_ID 10234
+Blueprint_17_Supply_0_Amount 1
+Blueprint_17_Tool 63523
+Blueprint_17_Product 1053
+Blueprint_17_Products 2
+Blueprint_17_Level 1
+Blueprint_17_Skill Craft
+Blueprint_17_Build 27
+
+//急支糖浆 2刀
+Blueprint_18_Type Tool
+Blueprint_18_Supplies 1
+Blueprint_18_Supply_0_ID 10212
+Blueprint_18_Supply_0_Amount 1
+Blueprint_18_Tool 63523
+Blueprint_18_Product 1053
+Blueprint_18_Products 1
+Blueprint_18_Level 1
+Blueprint_18_Skill Craft
+Blueprint_18_Build 27
+
+//抗生素 3刀
+Blueprint_19_Type Tool
+Blueprint_19_Supplies 1
+Blueprint_19_Supply_0_ID 10218
+Blueprint_19_Supply_0_Amount 1
+Blueprint_19_Tool 63523
+Blueprint_19_Product 1052
+Blueprint_19_Products 3
+Blueprint_19_Level 1
+Blueprint_19_Skill Craft
+Blueprint_19_Build 27
+
+//肾上腺素 4刀
+Blueprint_20_Type Tool
+Blueprint_20_Supplies 1
+Blueprint_20_Supply_0_ID 10206
+Blueprint_20_Supply_0_Amount 1
+Blueprint_20_Tool 63523
+Blueprint_20_Product 1053
+Blueprint_20_Products 2
+Blueprint_20_Level 1
+Blueprint_20_Skill Craft
+Blueprint_20_Build 27
+
+
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
