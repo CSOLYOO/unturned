@@ -3,9 +3,9 @@ Type Barrel
 Rarity Mythical
 ID 64802
 
-Size_X 2
+Size_X 1
 Size_Y 1
-Size_Z 0.125
+Size_Z 0.15
 
 Calibers 27
 Caliber_0 6346
@@ -63,5 +63,5 @@ Blueprint_0_Level 2
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
 
-Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Items/Tacticals/Adaptive_Chambering
+Master_Bundle_Override lockednlazymaster.masterbundle
+Bundle_Override_Path Bundles/Attachments/Ranger_Muzzle

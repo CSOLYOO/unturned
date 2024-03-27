@@ -1,0 +1,39 @@
+GUID ec2278653acb427db08ce320e899f375
+Type Magazine
+Rarity Mythical
+ID 63600
+
+Size_X 2
+Size_Y 2
+Size_Z 0.25
+
+Amount 250
+Count_Min 10
+Count_Max 150
+
+Calibers 1
+Caliber_0 6559
+
+Tracer 48
+
+Blueprints 4
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 16559
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 16585
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 63600
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 63600
+Blueprint_3_Product 16559
+Blueprint_3_Build 30
+
+Master_Bundle_Override lockednlazymaster.masterbundle
+Bundle_Override_Path Bundles/Magazines/Ausweider_100

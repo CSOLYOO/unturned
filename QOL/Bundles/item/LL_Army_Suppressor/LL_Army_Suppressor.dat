@@ -3,9 +3,9 @@ Type Barrel
 Rarity Mythical
 ID 64800
 
-Size_X 2
+Size_X 1
 Size_Y 1
-Size_Z 0.125
+Size_Z 0.15
 
 Calibers 55
 Caliber_0 6171
@@ -71,5 +71,5 @@ Ballistic_Drop 1.1
 Ballistic_Damage_Multiplier 1.5
 Paintable
 
-Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Items/Tacticals/Adaptive_Chambering
+Master_Bundle_Override lockednlazymaster.masterbundle
+Bundle_Override_Path Bundles/Attachments/Ranger_Muzzle

@@ -1,7 +1,7 @@
-GUID ea2603d0909748fd9b6dbed135360eb7
+GUID 76d37df98c674f25a9c569f47afd591f
 Type Barrel
 Rarity Mythical
-ID 64801
+ID 64805
 
 Size_X 2
 Size_Y 1
@@ -30,6 +30,5 @@ Volume 0.75
 Ballistic_Drop 1.1
 Ballistic_Damage_Multiplier 1.5
 
-
-Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Items/Tacticals/Adaptive_Chambering
+Master_Bundle_Override ww2_rations.masterbundle
+Bundle_Override_Path Items\US\US_Bag_Bouillon
