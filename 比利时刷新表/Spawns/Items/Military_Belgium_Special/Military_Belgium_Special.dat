@@ -29,4 +29,9 @@ Tables
 		LegacySpawnId 9022
 		Weight 37
 	}
+	{
+		//军粮
+		Guid 3e4d9c28de1043558570b9998e10a1e8
+		Weight 2
+	}	
 ]

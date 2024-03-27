@@ -9,7 +9,7 @@ Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
 Blueprint_0_Supply_0_ID 132
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Tool 1445
+Blueprint_0_Tool 63523
 Blueprint_0_Product 1053
 Blueprint_0_Products 1
 Blueprint_0_Build 27
@@ -18,7 +18,7 @@ Blueprint_1_Type Supply
 Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 1056
 Blueprint_1_Supply_0_Amount 5
-Blueprint_1_Tool 1445
+Blueprint_1_Tool 63523
 Blueprint_1_Products 1
 Blueprint_1_Product 1051
 Blueprint_1_Build 27
@@ -27,7 +27,7 @@ Blueprint_2_Type Supply
 Blueprint_2_Supplies 1
 Blueprint_2_Supply_0_ID 1051
 Blueprint_2_Supply_0_Amount 1
-Blueprint_2_Tool 1445
+Blueprint_2_Tool 63523
 Blueprint_2_Products 5
 Blueprint_2_Product 1056
 Blueprint_2_Build 27
@@ -38,7 +38,7 @@ Blueprint_3_Supply_0_ID 1056
 Blueprint_3_Supply_0_Amount 1
 Blueprint_3_Supply_1_ID 1057
 Blueprint_3_Supply_1_Amount 2
-Blueprint_3_Tool 1445
+Blueprint_3_Tool 63523
 Blueprint_3_Products 1
 Blueprint_3_Product 1051
 Blueprint_3_Build 27
@@ -47,7 +47,7 @@ Blueprint_4_Type Supply
 Blueprint_4_Supplies 1
 Blueprint_4_Supply_0_ID 1057
 Blueprint_4_Supply_0_Amount 1
-Blueprint_4_Tool 1445
+Blueprint_4_Tool 63523
 Blueprint_4_Products 2
 Blueprint_4_Product 1056
 Blueprint_4_Build 27
@@ -56,7 +56,7 @@ Blueprint_5_Type Supply
 Blueprint_5_Supplies 1
 Blueprint_5_Supply_0_ID 1056
 Blueprint_5_Supply_0_Amount 2
-Blueprint_5_Tool 1445
+Blueprint_5_Tool 63523
 Blueprint_5_Products 1
 Blueprint_5_Product 1057
 Blueprint_5_Build 27
@@ -65,7 +65,7 @@ Blueprint_6_Type Supply
 Blueprint_6_Supplies 1
 Blueprint_6_Supply_0_ID 1051
 Blueprint_6_Supply_0_Amount 2
-Blueprint_6_Tool 1445
+Blueprint_6_Tool 63523
 Blueprint_6_Products 1
 Blueprint_6_Product 1052
 Blueprint_6_Build 27
@@ -75,7 +75,7 @@ Blueprint_7_Type Supply
 Blueprint_7_Supplies 1
 Blueprint_7_Supply_0_ID 1052
 Blueprint_7_Supply_0_Amount 1
-Blueprint_7_Tool 1445
+Blueprint_7_Tool 63523
 Blueprint_7_Products 2
 Blueprint_7_Product 1051
 Blueprint_7_Build 27
@@ -85,7 +85,7 @@ Blueprint_8_Type Supply
 Blueprint_8_Supplies 1
 Blueprint_8_Supply_0_ID 1052
 Blueprint_8_Supply_0_Amount 2
-Blueprint_8_Tool 1445
+Blueprint_8_Tool 63523
 Blueprint_8_Products 1
 Blueprint_8_Product 1053
 Blueprint_8_Build 27
@@ -95,7 +95,7 @@ Blueprint_9_Type Supply
 Blueprint_9_Supplies 1
 Blueprint_9_Supply_0_ID 1053
 Blueprint_9_Supply_0_Amount 1
-Blueprint_9_Tool 1445
+Blueprint_9_Tool 63523
 Blueprint_9_Products 2
 Blueprint_9_Product 1052
 Blueprint_9_Build 27
@@ -108,7 +108,7 @@ Blueprint_10_Supply_0_Amount 5
 Blueprint_10_Products 1
 Blueprint_10_Product 1054
 Blueprint_10_Build 27
-Blueprint_10_Tool 1445
+Blueprint_10_Tool 63523
 
 //$10 < $50
 Blueprint_11_Type Supply
@@ -118,7 +118,7 @@ Blueprint_11_Supply_0_Amount 1
 Blueprint_11_Products 5
 Blueprint_11_Product 1052
 Blueprint_11_Build 27
-Blueprint_11_Tool 1445
+Blueprint_11_Tool 63523
 
 //$10 + 20 > $50
 Blueprint_12_Type Supply
@@ -130,7 +130,7 @@ Blueprint_12_Supply_1_Amount 2
 Blueprint_12_Products 1
 Blueprint_12_Product 1054
 Blueprint_12_Build 27
-Blueprint_12_Tool 1445
+Blueprint_12_Tool 63523
 
 //$10 > $100
 Blueprint_13_Type Supply
@@ -140,7 +140,7 @@ Blueprint_13_Supply_0_Amount 10
 Blueprint_13_Products 1
 Blueprint_13_Product 1055
 Blueprint_13_Build 27
-Blueprint_13_Tool 1445
+Blueprint_13_Tool 63523
 
 //$20 > $100
 Blueprint_14_Type Supply
@@ -150,7 +150,7 @@ Blueprint_14_Supply_0_Amount 5
 Blueprint_14_Products 1
 Blueprint_14_Product 1055
 Blueprint_14_Build 27
-Blueprint_14_Tool 1445
+Blueprint_14_Tool 63523
 
 //$50 > $100
 Blueprint_15_Type Supply
@@ -160,7 +160,7 @@ Blueprint_15_Supply_0_Amount 2
 Blueprint_15_Products 1
 Blueprint_15_Product 1055
 Blueprint_15_Build 27
-Blueprint_15_Tool 1445
+Blueprint_15_Tool 63523
 
 //$10 < $100
 Blueprint_16_Type Supply
@@ -170,7 +170,7 @@ Blueprint_16_Supply_0_Amount 1
 Blueprint_16_Products 10
 Blueprint_16_Product 1052
 Blueprint_16_Build 27
-Blueprint_16_Tool 1445
+Blueprint_16_Tool 63523
 
 //$20 < $100
 Blueprint_17_Type Supply
@@ -180,7 +180,7 @@ Blueprint_17_Supply_0_Amount 1
 Blueprint_17_Products 5
 Blueprint_17_Product 1053
 Blueprint_17_Build 27
-Blueprint_17_Tool 1445
+Blueprint_17_Tool 63523
 
 //$50 < $100
 Blueprint_18_Type Supply
@@ -190,7 +190,7 @@ Blueprint_18_Supply_0_Amount 1
 Blueprint_18_Products 2
 Blueprint_18_Product 1054
 Blueprint_18_Build 27
-Blueprint_18_Tool 1445
+Blueprint_18_Tool 63523
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack

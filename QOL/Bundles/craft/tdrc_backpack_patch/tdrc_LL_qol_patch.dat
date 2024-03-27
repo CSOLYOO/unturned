@@ -1,0 +1,72 @@
+GUID b3030248bfef470c81aef135c8015ecf
+
+Type Supply
+ID 63521
+
+Blueprints 5
+
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 49103
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 49101
+Blueprint_0_Supply_1_Amount 11
+Blueprint_0_Supply_2_ID 12784
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 253
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Product 12780
+Blueprint_0_Products 1
+Blueprint_0_Build 32
+
+Blueprint_1_Type Apparel
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 49103
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 49101
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 253
+Blueprint_1_Supply_2_Amount 1
+Blueprint_1_Product 12781
+Blueprint_1_Products 1
+Blueprint_1_Build 32
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 3
+Blueprint_2_Supply_0_ID 49103
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 49101
+Blueprint_2_Supply_1_Amount 5
+Blueprint_2_Supply_2_ID 12781
+Blueprint_2_Supply_2_Amount 1
+Blueprint_2_Product 12782
+Blueprint_2_Products 1
+Blueprint_2_Build 32
+
+Blueprint_3_Type Apparel
+Blueprint_3_Supplies 3
+Blueprint_3_Supply_0_ID 49103
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 49101
+Blueprint_3_Supply_1_Amount 6
+Blueprint_3_Supply_2_ID 12782
+Blueprint_3_Supply_2_Amount 1
+Blueprint_3_Product 12783
+Blueprint_3_Products 1
+Blueprint_3_Build 32
+
+Blueprint_4_Type Apparel
+Blueprint_4_Supplies 3
+Blueprint_4_Supply_0_ID 49103
+Blueprint_4_Supply_0_Amount 2
+Blueprint_4_Supply_1_ID 49101
+Blueprint_4_Supply_1_Amount 8
+Blueprint_4_Supply_2_ID 12783
+Blueprint_4_Supply_2_Amount 1
+Blueprint_4_Product 12784
+Blueprint_4_Products 1
+Blueprint_4_Build 32
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Backpacks/Alicepack
+Exclude_From_Master_Bundle

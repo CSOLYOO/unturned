@@ -1,0 +1,19 @@
+GUID de569e859c4745a880954ef197c0cc73
+Type Tool
+Rarity Mythical
+Useable Walkie_Talkie
+ID 63522
+
+Size_X 1
+Size_Y 2
+Size_Z 0.45
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supply_0_ID 1445
+Blueprint_0_Product 63522
+Blueprint_0_Products 1
+Blueprint_0_Build 27
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Tools/Walkie_Talkie

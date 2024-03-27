@@ -1,7 +1,7 @@
 GUID 188906023f0a4316b53d6085d1e22fcb
 Type Spawn
 ID 9024
-Tables 7
+Tables 8
 Table_0_Spawn_ID 156
 Table_0_Weight 30
 Table_1_Spawn_ID 157
@@ -21,3 +21,5 @@ Table_5_Weight 40
 Table_6_Spawn_ID 60006
 Table_6_Weight 17
 
+Table_7_Spawn_ID 63802
+Table_7_Weight 1
