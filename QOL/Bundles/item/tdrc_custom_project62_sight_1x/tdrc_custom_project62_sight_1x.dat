@@ -13,3 +13,6 @@ Calibers 1
 Caliber_0 6294
 
 Paintable
+
+Master_Bundle_Override lockednlazymaster.masterbundle
+Bundle_Override_Path Bundles/Sights/Solbreaker_Sight

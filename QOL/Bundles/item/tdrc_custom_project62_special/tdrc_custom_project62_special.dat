@@ -100,3 +100,6 @@ Blueprint_1_Tool 63522
 
 Use_Auto_Icon_Measurements False
 Requires_NonZero_Attachment_Caliber True
+
+Master_Bundle_Override lockednlazymaster.masterbundle
+Bundle_Override_Path Bundles/Guns/Solbreaker
