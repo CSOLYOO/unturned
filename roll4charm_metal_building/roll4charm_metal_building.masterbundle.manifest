@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 69465033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4aa15af6f94bb544640778633339b1e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c7bc6e7d0f85aeb5738b373d383e0d9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/roll4charm_metal_building_mod/roll4charm_Metal_Floor/Item.prefab
+- Assets/roll4charm_metal_building_mod/roll4charm_Metal_Floor/Structure.prefab
+- Assets/roll4charm_metal_building_mod/roll4charm_Metal_Floor/Nav.prefab
+- Assets/roll4charm_metal_building_mod/roll4charm_Metal_Floor/Animations.prefab
+Dependencies: []
