@@ -1,7 +1,7 @@
-GUID 130b06eb667e450ea0f2a6a937d0984b
+GUID dea6366358cb416bb2ef3c381745f02b
 Type Sight
 Rarity Mythical
-ID 63603
+ID 63605
 
 Size_X 1
 Size_Y 1
@@ -9,10 +9,9 @@ Size_Z 0.2
 
 Spread 0.7
 Calibers 1
-Caliber_0 6294
+Caliber_0 6291
 
 Paintable
 Holographic
-
 Master_Bundle_Override lockednlazymaster.masterbundle
-Bundle_Override_Path Bundles/Sights/Solbreaker_Sight
+Bundle_Override_Path Bundles/Sights/Shadowreaper_Scope
