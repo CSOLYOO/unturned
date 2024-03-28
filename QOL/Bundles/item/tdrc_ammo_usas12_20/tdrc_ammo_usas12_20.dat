@@ -1,0 +1,46 @@
+GUID f4add5faf0fe42a2be59f3eacc712617
+Type Magazine
+Rarity Legendary
+ID 63609
+
+Size_X 2
+Size_Y 2
+Size_Z 0.175
+
+Amount 20
+Count_Min 5
+Count_Max 20
+
+Calibers 1
+Caliber_0 6461
+
+Pellets 6
+
+Tracer 48
+
+Blueprints 5
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 16216
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 63609
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 16386
+Blueprint_2_Build 30
+Blueprint_3_Type Ammo
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 16402
+Blueprint_3_Build 30
+Blueprint_4_Type Ammo
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 16461
+Blueprint_4_Build 30
+
+Paintable
+
+Master_Bundle_Override lockednlazymaster.masterbundle
+Bundle_Override_Path Bundles/Magazines/Lucifers_Pain_20
