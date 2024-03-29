@@ -6,7 +6,7 @@ Tables 3
 // guns + ammo + mags should == 175 (which is 17.6 (cuz raw explosive moved here))
 
 //guns
-Table_0_Spawn_ID 63527
+Table_0_Spawn_ID 63526
 Table_0_Weight 80
 
 // ammo 70-35 =35 + magz 61
