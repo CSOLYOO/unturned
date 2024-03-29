@@ -14,7 +14,7 @@ Roots
 	}
 	{
 		Guid d317cc7e00ad4694b56b55b547734a7c
-		Weight 10
+		Weight 2
 	}
 ]
 
@@ -23,6 +23,6 @@ Tables
 	{
 		// 我操！冰！ 
 		LegacyAssetId 31290
-		Weight 2
+		Weight 10
 	}
 ]

@@ -1,14 +1,216 @@
 GUID b75cfe04f4c9475a91c7fb657037d521
 Type Spawn
 ID 9013
-Tables 5
-Table_0_Asset_ID 123
-Table_0_Weight 10
-Table_1_Asset_ID 1040
-Table_1_Weight 10
-Table_2_Asset_ID 1042
-Table_2_Weight 10
-Table_3_Asset_ID 1381
-Table_3_Weight 5
-Table_4_Asset_ID 1371
-Table_4_Weight 5
+Tables
+[
+	{
+		// Befehl Magazine (Magazine Item)
+		LegacyAssetId 16186
+		Weight 40
+	}
+	{
+		// Ausdauer Magazine (Magazine Item)
+		Guid ad5deb99b7544d0e813d98e8952f63dc
+		Weight 40
+	}
+	{
+		// Vosemok Magazine (Magazine Item)
+		LegacyAssetId 16184
+		Weight 40
+	}
+	{
+		// Avtotek Magazine (Magazine Item)
+		LegacyAssetId 16178
+		Weight 38
+	}
+	{
+		// Normandy Magazine (Magazine Item)
+		Guid 27706e32760e4fc4a21d851195e01de0
+		Weight 35
+	}
+	{
+		// Macca Magazine (Magazine Item)
+		Guid 9ab58ef26684447fabf315369cd27fce
+		Weight 35
+	}
+	{
+		// RangerLite Magazine (Magazine Item)
+		Guid 0fdfbd63682e4b75aa8de9fc8a7c1c2f
+		Weight 35
+	}
+	{
+		// Ranger Magazine (Magazine Item)
+		LegacyAssetId 16248
+		Weight 35
+	}
+	{
+		// Civillian Military Magazine (Magazine Item)
+		Guid ef4d1cd05f78419dadc4666482965fb8
+		Weight 35
+	}
+	{
+		// Vierzig Magazine (Magazine Item)
+		LegacyAssetId 16204
+		Weight 35
+	}
+	{
+		// Sedosyat Drum (Magazine Item)
+		LegacyAssetId 16201
+		Weight 35
+	}
+	{
+		// Petrenko Magazine (Magazine Item)
+		LegacyAssetId 16198
+		Weight 35
+	}
+	{
+		// Petrov Magazine (Magazine Item)
+		LegacyAssetId 16327
+		Weight 35
+	}
+	{
+		// Bobcat Magazine (Magazine Item)
+		LegacyAssetId 16208
+		Weight 35
+	}
+	{
+		// RangerLite Magazine (Magazine Item)
+		Guid 64864a6f16f1492e9b49dfc73c8dbb27
+		Weight 35
+	}
+	{
+		// 12 Gauge Shells (Magazine Item)
+		LegacyAssetId 16402
+		Weight 32
+	}
+	{
+		// 20 Gauge Shells (Magazine Item)
+		Guid 352da8894d13436580179a7df5d51d17
+		Weight 32
+	}
+	{
+		// Gatekeeper Magazine (Magazine Item)
+		Guid 90d858f88abe4b2598270d5a03af97eb
+		Weight 30
+	}
+	{
+		// Danube Magazine (Magazine Item)
+		Guid 0191302959a14323b6e32ad61163f9e3
+		Weight 30
+	}
+	{
+		// Dossier Magazine (Magazine Item)
+		Guid 738b71987ed54dc9b4c4dc67e197433a
+		Weight 30
+	}
+	{
+		// Mep Magazine (Magazine Item)
+		Guid f6eb7ab11b664476a348a1c9744b91eb
+		Weight 27
+	}
+	{
+		// Retro Battle Magazine (Magazine Item)
+		Guid 79c12ce1f3f84b928a97c7d098c8e1ed
+		Weight 27
+	}
+	{
+		// Vonkov Magazine (Magazine Item)
+		LegacyAssetId 16219
+		Weight 27
+	}
+	{
+		// 12 Gauge Shells (Magazine Item)
+		LegacyAssetId 16216
+		Weight 27
+	}
+	{
+		// Battle Magazine (Magazine Item)
+		LegacyAssetId 16346
+		Weight 27
+	}
+	{
+		// Springtooth Magazine (Magazine Item)
+		Guid 088742c68f464cb1a9b422dcd0105d68
+		Weight 27
+	}
+	{
+		// Reyndzher Magazine (Magazine Item)
+		LegacyAssetId 16274
+		Weight 25
+	}
+	{
+		// Fedra Battle Magazine (Magazine Item)
+		Guid fdfb2befd8f541ca90f97688a36166ce
+		Weight 25
+	}
+	{
+		// Razvedchik Magazine (Magazine Item)
+		Guid 9cbc97e01ffd4c2aa1c440fa4ff62006
+		Weight 22
+	}
+	{
+		// Subsonic Ranger Magazine (Magazine Item)
+		LegacyAssetId 16276
+		Weight 22
+	}
+	{
+		// Firewall Magazine (Magazine Item)
+		Guid 628efc5a0361478981cf09f347fddca3
+		Weight 20
+	}
+	{
+		// Tsiklon Mag (Magazine Item)
+		Guid be30a09a893444b59d81016c8e3f5c77
+		Weight 17
+	}
+	{
+		// Legkiyorev Box (Magazine Item)
+		LegacyAssetId 16283
+		Weight 17
+	}
+	{
+		// Kingman Drum (Magazine Item)
+		Guid 04828f4af1d84738b86b851fd6a631e0
+		Weight 17
+	}
+	{
+		// Degtyaryov Drum (Magazine Item)
+		Guid c247a30744ac4490993b200c2583ab47
+		Weight 17
+	}
+	{
+		// Subsonic Ranger Box (Magazine Item)
+		LegacyAssetId 16277
+		Weight 15
+	}
+	{
+		// Forsaken Speedloader (Magazine Item)
+		Guid 11bdb38674cd41e7a75b206d43b4a8b2
+		Weight 15
+	}
+	{
+		// Rubis Magazine (Magazine Item)
+		Guid 714fe3d302fe4919b28a4f4bc1e6ab54
+		Weight 15
+	}
+	{
+		// Warthog Box (Magazine Item)
+		LegacyAssetId 16363
+		Weight 15
+	}
+	{
+		// Payload Rocket (Magazine Item)
+		LegacyAssetId 16288
+		Weight 7
+	}
+	{
+		// Mojave Magazine (Magazine Item)
+		Guid efe40904f0b141c4aa2008d22ae6d204
+		Weight 7
+	}
+	{
+		// Payload (Gun Item)
+		Guid e611d785e4444560a90b913c6474d6a8
+		Weight 5
+	}
+]

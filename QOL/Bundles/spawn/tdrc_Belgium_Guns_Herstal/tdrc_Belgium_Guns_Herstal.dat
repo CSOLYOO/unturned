@@ -1,0 +1,73 @@
+GUID d89a361f7f76472d8a92489ca68be6b3
+Type Spawn
+ID 63529
+
+Tables
+[
+	{
+		//勃朗宁大威力
+		Guid c492fa4a36854fb99a77ea08dcb3efbe
+		Weight 1000
+	}	
+	{
+		//FNP-45
+		Guid b9b05f12ed934ce59b796cd2d40dce70
+		Weight 1000
+	}
+	{
+		//P90
+		Guid f11c28ee544c4b2ea38710481d1390b9
+		Weight 75
+	}
+	{
+		//UZI(代工)
+		Guid 39720a406e5048f68aff6349d107322c
+		Weight 600
+	}		
+	{
+		//芭莉斯塔
+		Guid 6cd606b63e8b4ab381920d4a56222dcc
+		Weight 50
+	}
+	{
+		//FN SCAR-H
+		Guid 291d39079e4e43f89832da4c966e70e1
+		Weight 75
+	}
+	{
+		//FN SCAR-L
+		Guid a67dfd6bfa024307acd1c64164eb8648
+		Weight 75
+	}			
+	{
+		//FN FAL
+		Guid f6d9fea02b3c4b95a5d5966853066840
+		Weight 300
+	}
+	{
+		//FN F2000
+		Guid 3b602a7a712a485fbadca62ed7733f5d
+		Weight 250
+	}	
+	{
+		//BAR
+		Guid 8c80c0b0c29344f4be7fbba4ca61e248
+		Weight 250
+	}
+	{
+		//勃朗宁AUTO-5
+		Guid 9c1e3ec4364b4a29bf30355e76c48680
+		Weight 500
+	}		
+	{
+		//FN Minimi
+		Guid f3b2b144c2594bbe924f98fe338b1717
+		Weight 50
+	}
+	{
+		//FN Minimi Para
+		Guid d31060b9fcd24c2db0e952c3e02da32b
+		Weight 50
+	}
+	
+]

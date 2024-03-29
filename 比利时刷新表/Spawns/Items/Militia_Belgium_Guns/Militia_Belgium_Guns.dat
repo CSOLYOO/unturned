@@ -1,14 +1,236 @@
 GUID b98e85e1d11e4a58b0dabcf6bd1c0afe
 Type Spawn
 ID 9012
-Tables 5
-Table_0_Asset_ID 122
-Table_0_Weight 10
-Table_1_Asset_ID 1039
-Table_1_Weight 10
-Table_2_Asset_ID 1041
-Table_2_Weight 10
-Table_3_Asset_ID 1379
-Table_3_Weight 5
-Table_4_Asset_ID 1369
-Table_4_Weight 5
+Tables
+[
+	{
+		// Befehl (Gun Item)
+		LegacyAssetId 16185
+		Weight 40
+	}
+	{
+		// Avtotek (Gun Item)
+		LegacyAssetId 16177
+		Weight 40
+	}
+	{
+		// Ausdauer (Gun Item)
+		Guid c492fa4a36854fb99a77ea08dcb3efbe
+		Weight 40
+	}
+	{
+		// Vosemok (Gun Item)
+		LegacyAssetId 16183
+		Weight 40
+	}
+	{
+		// Sedosyat (Gun Item)
+		LegacyAssetId 16199
+		Weight 30
+	}
+	{
+		// Fiver (Gun Item)
+		Guid 9c1e3ec4364b4a29bf30355e76c48680
+		Weight 30
+	}
+	{
+		// Bobcat (Gun Item)
+		LegacyAssetId 16205
+		Weight 30
+	}
+	{
+		// Petrov (Gun Item)
+		LegacyAssetId 16326
+		Weight 30
+	}
+	{
+		// Macca (Gun Item)
+		Guid 0f0518209fd848b29e6d99a11282c295
+		Weight 30
+	}
+	{
+		// Vierzig (Gun Item)
+		LegacyAssetId 16202
+		Weight 30
+	}
+	{
+		// Gatekeeper (Gun Item)
+		Guid 9c3e0d5b5e5f485cae56772398cefb5c
+		Weight 30
+	}
+	{
+		// Dossier (Gun Item)
+		Guid 800b15450f3a42bbbe669e302ce01fe7
+		Weight 30
+	}
+	{
+		// Danube (Gun Item)
+		Guid ee9ccf478d494e52aef0582340eb910b
+		Weight 30
+	}
+	{
+		// Petrenko (Gun Item)
+		LegacyAssetId 16196
+		Weight 30
+	}
+	{
+		// Mep (Gun Item)
+		Guid c80827d4fc9f4542a0778535af07e4b1
+		Weight 27
+	}
+	{
+		// Vonkov (Gun Item)
+		LegacyAssetId 16217
+		Weight 25
+	}
+	{
+		// Finalizer (Gun Item)
+		LegacyAssetId 16223
+		Weight 25
+	}
+	{
+		// Tamozhnya (Gun Item)
+		LegacyAssetId 16332
+		Weight 25
+	}
+	{
+		// Canceller (Gun Item)
+		LegacyAssetId 16329
+		Weight 25
+	}
+	{
+		// Zublashkov (Gun Item)
+		LegacyAssetId 16246
+		Weight 25
+	}
+	{
+		// Zubklykkov (Gun Item)
+		LegacyAssetId 16364
+		Weight 25
+	}
+	{
+		// Conscript (Gun Item)
+		Guid 057370dab46b46269b9f7ee2938c80a6
+		Weight 25
+	}
+	{
+		// Izhmashkov (Gun Item)
+		Guid 5768c96a060d43c2bfbd393955ff6296
+		Weight 25
+	}
+	{
+		// Normandy (Gun Item)
+		Guid 15cfa6230c3a48ebbb7bc13bf9aafb12
+		Weight 25
+	}
+	{
+		// Zubsvetkov (Gun Item)
+		Guid e33b2e4e140c4558993b5e562395a037
+		Weight 25
+	}
+	{
+		// Razvedchik (Gun Item)
+		Guid da5950da49074376944a8afba3afa08f
+		Weight 20
+	}
+	{
+		// Firewall (Gun Item)
+		Guid 8c80c0b0c29344f4be7fbba4ca61e248
+		Weight 20
+	}
+	{
+		// Talonpiercer (Gun Item)
+		Guid 796ccfcda9964ccc8f602d069084b82d
+		Weight 20
+	}
+	{
+		// Jackknife (Gun Item)
+		Guid 83c0988b23484b199284dd2b08fcb92c
+		Weight 20
+	}
+	{
+		// Talonslash (Gun Item)
+		Guid 1465306c595a4ed0a6fc472cc57da948
+		Weight 20
+	}
+	{
+		// Mauerbrecher (Gun Item)
+		LegacyAssetId 16345
+		Weight 20
+	}
+	{
+		// Peacekeeper (Gun Item)
+		LegacyAssetId 16347
+		Weight 20
+	}
+	{
+		// Reyndzher (Gun Item)
+		LegacyAssetId 16272
+		Weight 20
+	}
+	{
+		// Pilgrim (Gun Item)
+		Guid fcdcf6e2362045cc850bfb47e6094d68
+		Weight 20
+	}
+	{
+		// Junglerat (Gun Item)
+		Guid aa26110b7bec41efb5c8740a44c566b1
+		Weight 20
+	}
+	{
+		// Kingsman (Gun Item)
+		Guid 13d80deaf6d24ef8a6743a3f4490d0e6
+		Weight 17
+	}
+	{
+		// Zubashnakov (Gun Item)
+		Guid 4f2fba2538614ca186af7c44820b0a2d
+		Weight 17
+	}
+	{
+		// Forsaken (Gun Item)
+		Guid 21861534f3454bf3b1786c4dab5bae4a
+		Weight 15
+	}
+	{
+		// Legkiyorev (Gun Item)
+		LegacyAssetId 16281
+		Weight 15
+	}
+	{
+		// Rubis (Gun Item)
+		Guid 2d7614159e3b4835b834176c24b1c283
+		Weight 15
+	}
+	{
+		// Warthog (Gun Item)
+		LegacyAssetId 16361
+		Weight 15
+	}
+	{
+		// Ausweider (Gun Item)
+		Guid 7ed0e2a221f84213a3f3bc3651f96426
+		Weight 12
+	}
+	{
+		// Alvas (Gun Item)
+		Guid 6e053d74d2e1485287ac2eb425acf37a
+		Weight 10
+	}
+	{
+		// Vintovka (Gun Item)
+		LegacyAssetId 16275
+		Weight 10
+	}
+	{
+		// Mojave (Gun Item)
+		Guid fd5efe66da4344c39f35ba8b8c1820f6
+		Weight 7
+	}
+	{
+		// Payload (Gun Item)
+		LegacyAssetId 16286
+		Weight 5
+	}
+]

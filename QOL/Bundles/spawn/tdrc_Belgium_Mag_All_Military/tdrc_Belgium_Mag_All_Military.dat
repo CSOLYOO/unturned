@@ -1,0 +1,27 @@
+GUID 6a54369d32174c32849a04a006434233
+Type Spawn
+ID 63527
+
+Tables
+[
+	{
+		//美国MAGZ
+		Guid 69fec9a289dd44b1aa66f9872f89e956
+		Weight 100
+	}
+	{
+		//加拿大MAGZ
+		Guid fe9a46a1a48146b0893b3cb228ca96bb
+		Weight 100
+	}	
+	{
+		//peaks MGAZ
+		Guid dd4aad7e47a047ea8a2ee4c9b71592ee
+		Weight 100
+	}
+	{
+		//俄罗斯 MAGZ
+		Guid f1c5e9e807bd42709a22ae1ddec210dc
+		Weight 100
+	}
+]

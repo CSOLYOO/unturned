@@ -1,28 +1,28 @@
-GUID c4da72e55c6f466c88f562bf6d04a79c
+GUID 2317831179d34d1fb68be5195f953860
 Type Spawn
-ID 9022
+ID 63526
 
 Tables
 [
 	//美军低级枪
 	{
 		Guid 44cc2e187bf445fb800a35edee1a4288
-		Weight 50
+		Weight 100
 	}	
 	//美军高级枪
 	{
 		Guid db2368975d0b4007815a4f21afdcf040
-		Weight 30
+		Weight 10
 	}
 	//加拿大低级枪
 	{
 		Guid e97a21e10d834a1b98a6bc6bb6892f64
-		Weight 20
+		Weight 50
 	}	
 	//加拿大高级枪
 	{
 		Guid 6cc8934021164b44b780503f54db2a41
-		Weight 10
+		Weight 5
 	}
 	//PEAK低级枪
 	{
@@ -32,7 +32,7 @@ Tables
 	//PEAK高级枪
 	{
 		Guid 34696862a1e34ab5ad05405c2404e084
-		Weight 30
+		Weight 5
 	}
 	//俄罗斯低级枪
 	{
@@ -42,21 +42,21 @@ Tables
 	//俄罗斯高级枪
 	{
 		Guid 746ced2a7f0e4a4d8f6cbc25b386b3b1
-		Weight 30
+		Weight 5
 	}
 	//欧盟低级枪
 	{
 		Guid 62466efe464b4d518cdf65f51e514b1a
-		Weight 50
+		Weight 200
 	}	
 	//欧盟高级枪
 	{
 		Guid d31c27bd5c7042888dc8f4a36f9b948e
-		Weight 30
+		Weight 20
 	}
 	//比利时FN公司
 	{
 		Guid d89a361f7f76472d8a92489ca68be6b3
-		Weight 80
-	}	
+		Weight 150
+	}		
 ]

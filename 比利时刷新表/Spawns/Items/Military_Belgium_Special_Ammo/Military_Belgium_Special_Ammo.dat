@@ -1,7 +1,11 @@
 GUID 20932ef37db845cc81c0fbf5462250d7
 Type Spawn
 ID 9018
-Tables 1
+Tables 3
 
-Table_0_Spawn_ID 17625
+Table_0_Spawn_ID 17620
 Table_0_Weight 50
+Table_1_Spawn_ID 17649
+Table_1_Weight 50
+Table_2_Spawn_ID 17618
+Table_2_Weight 50

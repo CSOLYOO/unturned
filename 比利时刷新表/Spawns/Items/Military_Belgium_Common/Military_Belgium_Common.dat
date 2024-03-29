@@ -11,7 +11,7 @@ Tables
 	{
 		// Smoke (Spawn)
 		LegacySpawnId 123
-		Weight 198
+		Weight 75
 	}
 	{
 		// Military Knife (Melee Item)

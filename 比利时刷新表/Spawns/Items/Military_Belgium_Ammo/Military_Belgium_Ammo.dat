@@ -6,12 +6,12 @@ Tables
 [
 	{
         //AMMO
-		Guid 39ff977d556a45a38256c2acb5e97953
+		Guid 07569fad019d4a468580abb474584b43
 		Weight 40
 	}
 	{
         //MAGZ
-		Guid 6de6bfeca56540358ac917a87d800721
+		Guid 6a54369d32174c32849a04a006434233
 		Weight 61
 	}
 ]

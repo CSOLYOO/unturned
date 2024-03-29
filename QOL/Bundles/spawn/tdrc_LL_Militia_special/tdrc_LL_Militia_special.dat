@@ -1,0 +1,28 @@
+GUID bb7bffbdc41e4c848063d1f885650a00
+Type Spawn
+ID 63525
+
+Roots
+[
+	{
+		// Militia_Special(Spawn)
+		Guid b87c3c5b0d3143f187bc9ba4b97b1a2d
+		IsOverride 1
+	}
+]
+
+Tables
+[
+	{
+		LegacySpawnId 230
+		Weight 35
+	}	
+	{
+		LegacySpawnId 231
+		Weight 20
+	}	
+	{
+		LegacySpawnId 229
+		Weight 10
+	}				
+]

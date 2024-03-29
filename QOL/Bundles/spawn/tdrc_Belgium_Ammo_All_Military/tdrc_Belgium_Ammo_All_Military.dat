@@ -1,0 +1,27 @@
+GUID 07569fad019d4a468580abb474584b43
+Type Spawn
+ID 63528
+
+Tables
+[
+	{
+		//美国AMMO
+		Guid 89f7e35c5b8c4a4a936449941c802629
+		Weight 100
+	}
+	{
+		//加拿大AMMO
+		Guid cbe3e76df4bf4f3da6718ee6942f761e
+		Weight 100
+	}	
+	{
+		//peaks AMMO
+		Guid c3a37681283b4ba681e28d9734fff978
+		Weight 100
+	}
+	{
+		//俄罗斯 AMMO
+		Guid 13a61005d9894cd1ad22c0146caf0904
+		Weight 100
+	}	
+]
