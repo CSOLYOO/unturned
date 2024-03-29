@@ -3,7 +3,7 @@ GUID e1805c07d39b45f4b961367949fa48f7
 Type Supply
 ID 63509
 
-Blueprints 21
+Blueprints 38
 
 //收购畜牲
 Blueprint_0_Type Tool
@@ -250,8 +250,202 @@ Blueprint_20_Level 1
 Blueprint_20_Skill Craft
 Blueprint_20_Build 27
 
+//化学品收购 3刀
+Blueprint_21_Type Tool
+Blueprint_21_Supplies 1
+Blueprint_21_Supply_0_ID 49111
+Blueprint_21_Supply_0_Amount 1
+Blueprint_21_Tool 63523
+Blueprint_21_Product 1052
+Blueprint_21_Products 3
+Blueprint_21_Level 1
+Blueprint_21_Skill Craft
+Blueprint_21_Build 27
 
+//炸药原料收购 4刀
+Blueprint_22_Type Tool
+Blueprint_22_Supplies 1
+Blueprint_22_Supply_0_ID 49107
+Blueprint_22_Supply_0_Amount 1
+Blueprint_22_Tool 63523
+Blueprint_22_Product 1053
+Blueprint_22_Products 2
+Blueprint_22_Level 1
+Blueprint_22_Skill Craft
+Blueprint_22_Build 27
 
+//皮革收购 4刀
+Blueprint_23_Type Tool
+Blueprint_23_Supplies 1
+Blueprint_23_Supply_0_ID 49105
+Blueprint_23_Supply_0_Amount 1
+Blueprint_23_Tool 63523
+Blueprint_23_Product 1053
+Blueprint_23_Products 2
+Blueprint_23_Level 1
+Blueprint_23_Skill Craft
+Blueprint_23_Build 27
+
+//MRE收购 7刀
+Blueprint_24_Type Tool
+Blueprint_24_Supplies 1
+Blueprint_24_Supply_0_ID 10290
+Blueprint_24_Supply_0_Amount 1
+Blueprint_24_Tool 63523
+Blueprint_24_Product 1052
+Blueprint_24_Products 7
+Blueprint_24_Level 1
+Blueprint_24_Skill Craft
+Blueprint_24_Build 27
+
+//手雷收购 5刀
+Blueprint_25_Type Tool
+Blueprint_25_Supplies 1
+Blueprint_25_Supply_0_ID 10426
+Blueprint_25_Supply_0_Amount 1
+Blueprint_25_Tool 63523
+Blueprint_25_Product 1054
+Blueprint_25_Products 1
+Blueprint_25_Level 1
+Blueprint_25_Skill Craft
+Blueprint_25_Build 27
+
+//闪光弹收购 5刀
+Blueprint_26_Type Tool
+Blueprint_26_Supplies 1
+Blueprint_26_Supply_0_ID 10424
+Blueprint_26_Supply_0_Amount 1
+Blueprint_26_Tool 63523
+Blueprint_26_Product 1054
+Blueprint_26_Products 1
+Blueprint_26_Level 1
+Blueprint_26_Skill Craft
+Blueprint_26_Build 27
+
+//枫糖浆收购 4刀
+Blueprint_27_Type Tool
+Blueprint_27_Supplies 1
+Blueprint_27_Supply_0_ID 10410
+Blueprint_27_Supply_0_Amount 1
+Blueprint_27_Tool 63523
+Blueprint_27_Product 1053
+Blueprint_27_Products 2
+Blueprint_27_Level 1
+Blueprint_27_Skill Craft
+Blueprint_27_Build 27
+
+//大宗农作物收购 2刀一个
+Blueprint_28_Type Tool
+Blueprint_28_Supplies 1
+Blueprint_28_Supply_0_ID 10314
+Blueprint_28_Supply_0_Amount 5
+Blueprint_28_Tool 63523
+Blueprint_28_Product 1055
+Blueprint_28_Products 1
+Blueprint_28_Level 1
+Blueprint_28_Skill Craft
+Blueprint_28_Build 27
+
+Blueprint_29_Type Tool
+Blueprint_29_Supplies 1
+Blueprint_29_Supply_0_ID 10312
+Blueprint_29_Supply_0_Amount 5
+Blueprint_29_Tool 63523
+Blueprint_29_Product 1055
+Blueprint_29_Products 1
+Blueprint_29_Level 1
+Blueprint_29_Skill Craft
+Blueprint_29_Build 27
+
+Blueprint_30_Type Tool
+Blueprint_30_Supplies 1
+Blueprint_30_Supply_0_ID 10316
+Blueprint_30_Supply_0_Amount 5
+Blueprint_30_Tool 63523
+Blueprint_30_Product 1055
+Blueprint_30_Products 1
+Blueprint_30_Level 1
+Blueprint_30_Skill Craft
+Blueprint_30_Build 27
+
+Blueprint_31_Type Tool
+Blueprint_31_Supplies 1
+Blueprint_31_Supply_0_ID 10322
+Blueprint_31_Supply_0_Amount 5
+Blueprint_31_Tool 63523
+Blueprint_31_Product 1055
+Blueprint_31_Products 1
+Blueprint_31_Level 1
+Blueprint_31_Skill Craft
+Blueprint_31_Build 27
+
+Blueprint_32_Type Tool
+Blueprint_32_Supplies 1
+Blueprint_32_Supply_0_ID 10294
+Blueprint_32_Supply_0_Amount 5
+Blueprint_32_Tool 63523
+Blueprint_32_Product 1055
+Blueprint_32_Products 1
+Blueprint_32_Level 1
+Blueprint_32_Skill Craft
+Blueprint_32_Build 27
+
+Blueprint_33_Type Tool
+Blueprint_33_Supplies 1
+Blueprint_33_Supply_0_ID 10344
+Blueprint_33_Supply_0_Amount 5
+Blueprint_33_Tool 63523
+Blueprint_33_Product 1055
+Blueprint_33_Products 1
+Blueprint_33_Level 1
+Blueprint_33_Skill Craft
+Blueprint_33_Build 27
+
+Blueprint_34_Type Tool
+Blueprint_34_Supplies 1
+Blueprint_34_Supply_0_ID 10346
+Blueprint_34_Supply_0_Amount 5
+Blueprint_34_Tool 63523
+Blueprint_34_Product 1055
+Blueprint_34_Products 1
+Blueprint_34_Level 1
+Blueprint_34_Skill Craft
+Blueprint_34_Build 27
+
+//收购防毒面罩
+Blueprint_35_Type Tool
+Blueprint_35_Supplies 1
+Blueprint_35_Supply_0_ID 1270
+Blueprint_35_Supply_0_Amount 1
+Blueprint_35_Tool 63523
+Blueprint_35_Product 1052
+Blueprint_35_Products 1
+Blueprint_35_Level 1
+Blueprint_35_Skill Craft
+Blueprint_35_Build 27
+
+//潜水服
+Blueprint_36_Type Tool
+Blueprint_36_Supplies 1
+Blueprint_36_Supply_0_ID 1181
+Blueprint_36_Supply_0_Amount 1
+Blueprint_36_Tool 63523
+Blueprint_36_Product 1052
+Blueprint_36_Products 1
+Blueprint_36_Level 1
+Blueprint_36_Skill Craft
+Blueprint_36_Build 27
+
+Blueprint_37_Type Tool
+Blueprint_37_Supplies 1
+Blueprint_37_Supply_0_ID 1178
+Blueprint_37_Supply_0_Amount 1
+Blueprint_37_Tool 63523
+Blueprint_37_Product 1052
+Blueprint_37_Products 1
+Blueprint_37_Level 1
+Blueprint_37_Skill Craft
+Blueprint_37_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack

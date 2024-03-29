@@ -3,13 +3,17 @@ GUID 2d15c31232bf4c5ba5af8034f9026a04
 Type Supply
 ID 63510
 
-Blueprints 32
+Blueprints 35
 
 //军用弹鼓
 Blueprint_0_Type Gear
-Blueprint_0_Supplies 1
+Blueprint_0_Supplies 3
 Blueprint_0_Supply_0_ID 1055
 Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 16236
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 73
+Blueprint_0_Supply_2_Amount 3
 Blueprint_0_Tool 63522
 Blueprint_0_Product 16367
 Blueprint_0_Products 1
@@ -19,9 +23,13 @@ Blueprint_0_Build 27
 
 //战斗弹鼓
 Blueprint_1_Type Gear
-Blueprint_1_Supplies 1
+Blueprint_1_Supplies 3
 Blueprint_1_Supply_0_ID 1055
 Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Supply_1_ID 16346
+Blueprint_1_Supply_1_Amount 2
+Blueprint_1_Supply_2_ID 73
+Blueprint_1_Supply_2_Amount 5
 Blueprint_1_Tool 63522
 Blueprint_1_Product 16368
 Blueprint_1_Products 1
@@ -31,9 +39,13 @@ Blueprint_1_Build 27
 
 //俄弹鼓
 Blueprint_2_Type Gear
-Blueprint_2_Supplies 1
+Blueprint_2_Supplies 3
 Blueprint_2_Supply_0_ID 1055
 Blueprint_2_Supply_0_Amount 2
+Blueprint_2_Supply_1_ID 16248
+Blueprint_2_Supply_1_Amount 2
+Blueprint_2_Supply_2_ID 73
+Blueprint_2_Supply_2_Amount 3
 Blueprint_2_Tool 63522
 Blueprint_2_Product 16366
 Blueprint_2_Products 1
@@ -307,9 +319,13 @@ Blueprint_25_Build 27
 
 // MG42弹鼓
 Blueprint_26_Type Gear
-Blueprint_26_Supplies 1
+Blueprint_26_Supplies 3
 Blueprint_26_Supply_0_ID 1055
-Blueprint_26_Supply_0_Amount 3
+Blueprint_26_Supply_0_Amount 2
+Blueprint_26_Supply_1_ID 49101
+Blueprint_26_Supply_1_Amount 5
+Blueprint_26_Supply_2_ID 73
+Blueprint_26_Supply_2_Amount 3
 Blueprint_26_Tool 63522
 Blueprint_26_Product 16559
 Blueprint_26_Products 1
@@ -318,9 +334,13 @@ Blueprint_26_Skill Craft
 Blueprint_26_Build 27
 
 Blueprint_27_Type Gear
-Blueprint_27_Supplies 1
+Blueprint_27_Supplies 3
 Blueprint_27_Supply_0_ID 1055
-Blueprint_27_Supply_0_Amount 8
+Blueprint_27_Supply_0_Amount 3
+Blueprint_27_Supply_1_ID 16559
+Blueprint_27_Supply_1_Amount 2
+Blueprint_27_Supply_2_ID 73
+Blueprint_27_Supply_2_Amount 10
 Blueprint_27_Tool 63522
 Blueprint_27_Product 63600
 Blueprint_27_Products 1
@@ -342,9 +362,13 @@ Blueprint_28_Build 27
 
 //AA-12弹鼓
 Blueprint_29_Type Gear
-Blueprint_29_Supplies 1
+Blueprint_29_Supplies 3
 Blueprint_29_Supply_0_ID 1055
 Blueprint_29_Supply_0_Amount 2
+Blueprint_29_Supply_1_ID 49101
+Blueprint_29_Supply_1_Amount 5
+Blueprint_29_Supply_2_ID 73
+Blueprint_29_Supply_2_Amount 1
 Blueprint_29_Tool 63522
 Blueprint_29_Product 16222
 Blueprint_29_Products 1
@@ -376,34 +400,42 @@ Blueprint_31_Level 1
 Blueprint_31_Skill Craft
 Blueprint_31_Build 27
 
+//USAS12弹鼓
 Blueprint_32_Type Gear
-Blueprint_32_Supplies 1
+Blueprint_32_Supplies 3
 Blueprint_32_Supply_0_ID 1055
-Blueprint_32_Supply_0_Amount 1
+Blueprint_32_Supply_0_Amount 2
+Blueprint_32_Supply_1_ID 16461
+Blueprint_32_Supply_1_Amount 2
+Blueprint_32_Supply_2_ID 73
+Blueprint_32_Supply_2_Amount 1
 Blueprint_32_Tool 63522
-Blueprint_32_Product 99
+Blueprint_32_Product 63609
 Blueprint_32_Products 1
 Blueprint_32_Level 1
 Blueprint_32_Skill Craft
 Blueprint_32_Build 27
 
+//夜视仪
 Blueprint_33_Type Gear
 Blueprint_33_Supplies 1
 Blueprint_33_Supply_0_ID 1055
 Blueprint_33_Supply_0_Amount 1
 Blueprint_33_Tool 63522
-Blueprint_33_Product 99
+Blueprint_33_Product 1044
 Blueprint_33_Products 1
 Blueprint_33_Level 1
 Blueprint_33_Skill Craft
 Blueprint_33_Build 27
 
 Blueprint_34_Type Gear
-Blueprint_34_Supplies 1
+Blueprint_34_Supplies 2
 Blueprint_34_Supply_0_ID 1055
 Blueprint_34_Supply_0_Amount 1
+Blueprint_34_Supply_1_ID 1044
+Blueprint_34_Supply_1_Amount 1
 Blueprint_34_Tool 63522
-Blueprint_34_Product 99
+Blueprint_34_Product 334
 Blueprint_34_Products 1
 Blueprint_34_Level 1
 Blueprint_34_Skill Craft

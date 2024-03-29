@@ -3,7 +3,7 @@ GUID 55f7abd5a3834a64bb87ee265b20bd13
 Type Supply
 ID 63505
 
-Blueprints 9
+Blueprints 12
 
 //信号枪弹药反向合成
 
@@ -119,6 +119,45 @@ Blueprint_8_Level 2
 Blueprint_8_Skill Repair
 Blueprint_8_Build 27
 
+//化学织布
+Blueprint_9_Type Barricade
+Blueprint_9_Supplies 2
+Blueprint_9_Supply_0_ID 75
+Blueprint_9_Supply_0_Amount 1
+Blueprint_9_Supply_1_ID 41118
+Blueprint_9_Supply_1_Amount 2
+Blueprint_9_Product 49103
+Blueprint_9_Products 1
+Blueprint_9_Tool 1030
+Blueprint_9_Level 2
+Blueprint_9_Skill Cook
+Blueprint_9_Build 27
+
+Blueprint_10_Type Barricade
+Blueprint_10_Supplies 2
+Blueprint_10_Supply_0_ID 49111
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Supply_1_ID 41118
+Blueprint_10_Supply_1_Amount 10
+Blueprint_10_Product 49104
+Blueprint_10_Products 1
+Blueprint_10_Tool 1030
+Blueprint_10_Level 2
+Blueprint_10_Skill Cook
+Blueprint_10_Build 27
+
+Blueprint_11_Type Barricade
+Blueprint_11_Supplies 2
+Blueprint_11_Supply_0_ID 75
+Blueprint_11_Supply_0_Amount 1
+Blueprint_11_Supply_1_ID 42111
+Blueprint_11_Supply_1_Amount 4
+Blueprint_11_Product 49103
+Blueprint_11_Products 1
+Blueprint_11_Tool 1030
+Blueprint_11_Level 2
+Blueprint_11_Skill Cook
+Blueprint_11_Build 27
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
