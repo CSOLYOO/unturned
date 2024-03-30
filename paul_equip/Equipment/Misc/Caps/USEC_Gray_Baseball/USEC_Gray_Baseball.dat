@@ -11,7 +11,8 @@ Size_Z 0.5
 
 Beard
 
-Armor 0.95
+Armor 1.05
+Movement_Speed_Multiplier 1.05
 
 Blueprints 2
 Blueprint_0_Type Apparel
