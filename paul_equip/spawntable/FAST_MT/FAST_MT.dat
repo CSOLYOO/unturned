@@ -1,0 +1,142 @@
+GUID 563eb58933bf42f992a9541540e74b04
+Type Spawn
+ID 64500
+
+Tables
+[
+	{
+		// Black Ops-Core (FAST MT) (Hat Item)
+		Guid 8a3a5e5626f244969651d54a098ba01c
+		Weight 10
+	}
+	{
+		// Multicam Ops-Core (FAST MT) (Hat Item)
+		Guid c42fd150e93f4f298e162800dd69fa20
+		Weight 10
+	}
+	{
+		// Black Ops-Core (FAST MT) (Hat Item)
+		Guid 3eef1b86166f4f7d8045c283e1ed9a39
+		Weight 10
+	}
+	{
+		// Gray Ops-Core (FAST MT) (Hat Item)
+		Guid 8d89c417b44b485b8395d354aeda3aa3
+		Weight 10
+	}
+	{
+		// Black Ops-Core (FAST MT) (Hat Item)
+		Guid 789c29cc749b43cdb57c377ec7006425
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid 4b5e426b5a8843ccad26352a1102b8bd
+		Weight 10
+	}
+	{
+		// Gray Ops-Core (FAST MT) (Hat Item)
+		Guid 30abf0b37d624447aa5bbac348521f95
+		Weight 10
+	}
+	{
+		// Black Ops-Core (FAST MT) (Hat Item)
+		Guid c106a766557b42eb986880e433e1bd1d
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid f0cd533304cb43a89502d1bc7b335610
+		Weight 10
+	}
+	{
+		// Gray Ops-Core (FAST MT) (Hat Item)
+		Guid 3c6fcba5152a4b1fb08c871d45cf878b
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid a3d022c0e2c840418dba6d4fbc2c57d2
+		Weight 10
+	}
+	{
+		// Black Ops-Core (FAST MT) (Hat Item)
+		Guid 9cdf03a8782e42808aabed96f8f81db5
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid 3785baefffc24aadbeade4b8d52fa35b
+		Weight 10
+	}
+	{
+		// Gray Ops-Core (FAST MT) (Hat Item)
+		Guid 7c68d456208d45cdb5e77ddf632b38a5
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid 6211289d57934e3681e8487f8dddbd8b
+		Weight 10
+	}
+	{
+		// Gray Ops-Core (FAST MT) (Hat Item)
+		Guid 9d0c0bf25a394ed5a91524eeaaa78009
+		Weight 10
+	}
+	{
+		// Black Ops-Core (FAST MT) (Hat Item)
+		Guid ee00112e870e4cb58e88ba011d5ba725
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid 4676b1412022462a824351f97c869d42
+		Weight 10
+	}
+	{
+		// Gray Ops-Core (FAST MT) (Hat Item)
+		Guid 7097479a671940528a43548f9e2491e9
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid 28c94a64614b4255b69a871c7f36e2ad
+		Weight 10
+	}
+	{
+		// Multicam Ops-Core (FAST MT) (Hat Item)
+		Guid b302b1adf4ac4fc5b6170c0642382c7c
+		Weight 10
+	}
+	{
+		// Black Ops-Core (FAST MT) (Hat Item)
+		Guid abc649132599401d905c2f154977bb25
+		Weight 10
+	}
+	{
+		// Gray Ops-Core (FAST MT) (Hat Item)
+		Guid bc73611d56d84dd4b48f3abb019f58fb
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid 459b4eb2153c472b8fd901f97d8562db
+		Weight 10
+	}
+	{
+		// Multicam Ops-Core (FAST MT) (Hat Item)
+		Guid aaea1f8c3fef40f285c89407126d6e68
+		Weight 10
+	}
+	{
+		// Tan Ops-Core (FAST MT) (Hat Item)
+		Guid 88b3ee163b9f47ba9fc1829dbe42539f
+		Weight 10
+	}
+	{
+		// Multicam Ops-Core (FAST MT) (Hat Item)
+		Guid d2010356929f4eb58a7e5f99dd31b91a
+		Weight 10
+	}
+]

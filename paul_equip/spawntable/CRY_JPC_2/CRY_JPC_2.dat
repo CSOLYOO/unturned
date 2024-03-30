@@ -1,0 +1,147 @@
+GUID 2fdab1472f844d9e9ad09b41728dd6d6
+Type Spawn
+ID 64512
+
+Tables
+[
+	{
+		// Black CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 92551699a9104439b587a5d8d7bac511
+		Weight 10
+	}
+	{
+		// Gray CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 210076cddb904ce3b1cf355b5984fa45
+		Weight 10
+	}
+	{
+		// Black CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid fe639bfe1458432d9712aee30d30698f
+		Weight 10
+	}
+	{
+		// Multicam CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 786f9680f64d4f82abb99e21bd00ed0e
+		Weight 10
+	}
+	{
+		// Tan CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid c5efff97555c461fb7caac1052e22d9e
+		Weight 10
+	}
+	{
+		// Gray CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 8bc14c47b00b49189b8c26997d5dba99
+		Weight 10
+	}
+	{
+		// Black CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid f8570c19f1f54dc8a882f278edeea70d
+		Weight 10
+	}
+	{
+		// Multicam CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 60081f1b2ec743158d2e4769e4b23c5a
+		Weight 10
+	}
+	{
+		// Tan CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 7aa1c423c4ab4177ad85fea9ca0fac59
+		Weight 10
+	}
+	{
+		// Gray CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 5c0748dfe8924db6b9064740648e03ee
+		Weight 10
+	}
+	{
+		// Black CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid a91093bf616a4821b2a33e79ebbd6fdf
+		Weight 10
+	}
+	{
+		// Multicam CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 417da669d8e64bd99a92b24e4d641615
+		Weight 10
+	}
+	{
+		// Tan CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid e4eff6fa72ea4472ae3f783219dc8da5
+		Weight 10
+	}
+	{
+		// Gray CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 2cea659a10c34521a13c03f6c7a1b561
+		Weight 10
+	}
+	{
+		// Black CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 3716cafa65ff402bbb15036a4b3dded5
+		Weight 10
+	}
+	{
+		// Multicam CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 2b1ee240ec7a41ffab35b0303d6b2c81
+		Weight 10
+	}
+	{
+		// Tan CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 2cd1bfc6e5a14b6792295d0e214c4eb5
+		Weight 10
+	}
+	{
+		// Gray CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid cd3464f0c16f4f96b598bf7d129b0181
+		Weight 10
+	}
+	{
+		// Black CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 86d010962f594612a67ec782aeafec60
+		Weight 10
+	}
+	{
+		// Multicam CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 0554b5fc5bb64421810ab1450660b6ea
+		Weight 10
+	}
+	{
+		// Tan CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 3d3c6bd5a182439db62b4d7a244832d4
+		Weight 10
+	}
+	{
+		// Gray CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 754be112d1ee4281868edd7f1ce74332
+		Weight 10
+	}
+	{
+		// Black CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid c5001e094c7c4176b356c4a753825508
+		Weight 10
+	}
+	{
+		// Multicam CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid b108edd968364919b83ad0bdb748a42c
+		Weight 10
+	}
+	{
+		// Tan CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 37c5d0a82aa342bfb5228a9c58061663
+		Weight 10
+	}
+	{
+		// Gray CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid c1a1cb7e2202493dbd92fdff1f61937a
+		Weight 10
+	}
+	{
+		// Tan CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 68d7957b38e544678e774d33df991a19
+		Weight 10
+	}
+	{
+		// Multicam CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid 04aac828aabd409883789c925f3eff8e
+		Weight 10
+	}
+]

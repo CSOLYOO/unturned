@@ -1,0 +1,127 @@
+GUID 6dff41d8a97a4cb8b6a6b5cf8aae9221
+Type Spawn
+ID 64507
+
+Tables
+[
+	{
+		// Black Face-Wrap (Mask Item)
+		Guid b11f15dc3ac74a9b92746229c22d4868
+		Weight 10
+	}
+	{
+		// Olive Head-Wrap (Mask Item)
+		Guid 76069d89645e4ebd82ebafcb7dec2097
+		Weight 10
+	}
+	{
+		// Gray Head-Wrap (Mask Item)
+		Guid fa21d1599f7c407dbd926f5763f93c42
+		Weight 10
+	}
+	{
+		// Brown Head-Wrap (Mask Item)
+		Guid 153659fd164d46d7973015ba5f8e557d
+		Weight 10
+	}
+	{
+		// Black Head-Wrap (Mask Item)
+		Guid 07dba1c53a19450fbfbc513f7b13fc9f
+		Weight 10
+	}
+	{
+		// White Head-Wrap (Mask Item)
+		Guid 0f938bea2923402fb381ce64c99691f5
+		Weight 10
+	}
+	{
+		// Tan Head-Wrap (Mask Item)
+		Guid 9e2e0dfd89c640ab8fc63eca3f8f9db4
+		Weight 10
+	}
+	{
+		// Olive Head-Wrap (Mask Item)
+		Guid 2fc241b9849949588e9b9f7a097d70a0
+		Weight 10
+	}
+	{
+		// Gray Head-Wrap (Mask Item)
+		Guid e9c7a959430e484db8f03d4e525c1e92
+		Weight 10
+	}
+	{
+		// Brown Head-Wrap (Mask Item)
+		Guid 96586ec4418a4d98a1aa277157532d3d
+		Weight 10
+	}
+	{
+		// Black Head-Wrap (Mask Item)
+		Guid 67b5b7447c724f819a760ef1b6bedd2d
+		Weight 10
+	}
+	{
+		// White Face-Wrap (Mask Item)
+		Guid d47100ed876844d0baf01829d75d22d9
+		Weight 10
+	}
+	{
+		// Tan Face-Wrap (Mask Item)
+		Guid 4b58d5add45f4eefb23803fc1ebfb40e
+		Weight 10
+	}
+	{
+		// Olive Face-Wrap (Mask Item)
+		Guid d53477cfb80f480b8e710d9739e8b621
+		Weight 10
+	}
+	{
+		// Gray Face-Wrap (Mask Item)
+		Guid 5d1e167dbb304d3a8940b68b301b2110
+		Weight 10
+	}
+	{
+		// Brown Face-Wrap (Mask Item)
+		Guid 521c218702924105a12ed6e6a81b2fa1
+		Weight 10
+	}
+	{
+		// Black Face-Wrap (Mask Item)
+		Guid 072ddc8c1d884c3183eb67cac9557e6e
+		Weight 10
+	}
+	{
+		// 20402Wrap (Mask Item)
+		Guid b4dae7e60ba047388c6a48a4c960a0ee
+		Weight 10
+	}
+	{
+		// Tan Face-Wrap (Mask Item)
+		Guid d36a53bf79d247178d338464acd10c78
+		Weight 10
+	}
+	{
+		// Olive Face-Wrap (Mask Item)
+		Guid 188932f20b064533bf5c74036ffe9f80
+		Weight 10
+	}
+	{
+		// Gray Face-Wrap (Mask Item)
+		Guid 653c37038323404f980ecc8a8b2ab77e
+		Weight 10
+	}
+	{
+		// Brown Face-Wrap (Mask Item)
+		Guid d866a41465a340f5ba28514d9280c0bd
+		Weight 10
+	}
+	{
+		// Tan Head-Wrap (Mask Item)
+		Guid 9a7c8f5a6a7345e0abfa5e96069de08e
+		Weight 10
+	}
+	{
+		// White Head-Wrap (Mask Item)
+		Guid a4f88562302a4088800c098ac060b1ed
+		Weight 10
+	}
+]

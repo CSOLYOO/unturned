@@ -1,0 +1,67 @@
+GUID 8f761d7ce4664f50bed135ea19b19dda
+Type Spawn
+ID 64511
+
+Tables
+[
+	{
+		// Black CRY CPC Armored Vest (Vest Item)
+		Guid 15534b91161c4869b8e893c4c2760420
+		Weight 10
+	}
+	{
+		// Gray CRY CPC Armored Vest (Vest Item)
+		Guid 19cd5d5f4a3c47d2996bcf9fd50031ef
+		Weight 10
+	}
+	{
+		// Tan CRY CPC Armored Vest (Vest Item)
+		Guid 271ac66468fb414ab2281dd3c09e5029
+		Weight 10
+	}
+	{
+		// Multicam CRY CPC Armored Vest (Vest Item)
+		Guid f6b80ade1365459f946262847a08ea7b
+		Weight 10
+	}
+	{
+		// Black CRY CPC Armored Vest (Vest Item)
+		Guid fcfc6a609acb4c148dba6a73cf1ecce5
+		Weight 10
+	}
+	{
+		// Gray CRY CPC Armored Vest (Vest Item)
+		Guid c9fa23df5c824c9da09eb13e0af38ce3
+		Weight 10
+	}
+	{
+		// Tan CRY CPC Armored Vest (Vest Item)
+		Guid 846dfa8c37284592b8b87bffdf40071d
+		Weight 10
+	}
+	{
+		// Multicam CRY CPC Armored Vest (Vest Item)
+		Guid 0686b493bac54570aeb6f06ce257b8d1
+		Weight 10
+	}
+	{
+		// Black CRY CPC Armored Vest (Vest Item)
+		Guid 4a6676ae19204f789a6309fb302f1787
+		Weight 10
+	}
+	{
+		// Gray CRY CPC Armored Vest (Vest Item)
+		Guid 5277dd159d764c8abeb5707b3cf23681
+		Weight 10
+	}
+	{
+		// Tan CRY CPC Armored Vest (Vest Item)
+		Guid c709a0c78fb8466a961756452eb7d6ee
+		Weight 10
+	}
+	{
+		// Multicam CRY CPC Armored Vest (Vest Item)
+		Guid fb324583cab049768c13afd555440eed
+		Weight 10
+	}
+]

@@ -1,0 +1,147 @@
+GUID d6e3bb249b90424e9d19dc73bb3e3142
+Type Spawn
+ID 64509
+
+Tables
+[
+	{
+		// Black Eyepro glasses (Glasses Item)
+		Guid 8ef9709d91264be9980db3fb99598b53
+		Weight 20
+	}
+	{
+		// Black Eyepro glasses (Glasses Item)
+		Guid 74abbd15d218467785917b46c81dfe1e
+		Weight 20
+	}
+	{
+		// Tan Eyepro glasses (Glasses Item)
+		Guid 7c330a70bb624217896512eee4a911f9
+		Weight 20
+	}
+	{
+		// Black Eyepro glasses (Glasses Item)
+		Guid c9d93b49af204bccb90be68903bf9cdc
+		Weight 20
+	}
+	{
+		// Tan Eyepro glasses (Glasses Item)
+		Guid 6de5397894c047a19eb6d2a3b4eceb56
+		Weight 20
+	}
+	{
+		// Black Eyepro glasses (Glasses Item)
+		Guid 32613e75966e47318b8d027ad132ed50
+		Weight 20
+	}
+	{
+		// Tan Eyepro glasses (Glasses Item)
+		Guid 9a53d058ee354dae91f294df5905aabb
+		Weight 20
+	}
+	{
+		// Tan Eyepro glasses (Glasses Item)
+		Guid 21778aa6036b42c9973c3b9b28cd664d
+		Weight 20
+	}
+	{
+		// Tan Eyepro glasses (Glasses Item)
+		Guid 9398384bf8a843858565305dc5ec8341
+		Weight 20
+	}
+	{
+		// Black Eyepro glasses (Glasses Item)
+		Guid 73101a5769c74504b817c3b6949d1994
+		Weight 20
+	}
+	{
+		// Tan Eyepro glasses (Glasses Item)
+		Guid 0b1603162aa64ec185b341d88e885ca9
+		Weight 20
+	}
+	{
+		// Black Eyepro glasses (Glasses Item)
+		Guid 1dfa84757038440db5c5870848e52df2
+		Weight 20
+	}
+	{
+		// Tan Eyepro glasses (Glasses Item)
+		Guid 79bb628e253c4d6594f3894299103171
+		Weight 20
+	}
+	{
+		// Black Eyepro glasses (Glasses Item)
+		Guid b251341874ab4615b17adfa22c144088
+		Weight 20
+	}
+	{
+		// Tan Military Goggles (Glasses Item)
+		Guid e1607cb0f3864a8db7666339402ed534
+		Weight 10
+	}
+	{
+		// Black Military Goggles (Glasses Item)
+		Guid ecb66772134b401a9419173c34b8f544
+		Weight 10
+	}
+	{
+		// Tan Military Goggles (Glasses Item)
+		Guid e9fb5f3c3fb446599014975baec77a48
+		Weight 10
+	}
+	{
+		// Black Military Goggles (Glasses Item)
+		Guid 360666a2f0be4399b645e37f037eb4d3
+		Weight 10
+	}
+	{
+		// Tan Military Goggles (Glasses Item)
+		Guid 6b5e8d56702d4e4493be2a1249d27717
+		Weight 10
+	}
+	{
+		// Black Military Goggles (Glasses Item)
+		Guid 930adb375f9f4c93922a070ec9323062
+		Weight 10
+	}
+	{
+		// Tan Military Goggles (Glasses Item)
+		Guid 7f39bbd0341a45cc8bfd7124e4656204
+		Weight 10
+	}
+	{
+		// Black Military Goggles (Glasses Item)
+		Guid 3086736c9644464daaca239919bab751
+		Weight 10
+	}
+	{
+		// Black Military Goggles (Glasses Item)
+		Guid 5a30cb21a2754f4dbfd5902dece70acd
+		Weight 10
+	}
+	{
+		// Tan Military Goggles (Glasses Item)
+		Guid 7d9430b3d113490e8c5dee567a2504fe
+		Weight 10
+	}
+	{
+		// Black Military Goggles (Glasses Item)
+		Guid 7cd8442bf8054c788d48d6f7a547482a
+		Weight 10
+	}
+	{
+		// Black Military Goggles (Glasses Item)
+		Guid 7b89eec9efc448a9b442bc7a7881e954
+		Weight 10
+	}
+	{
+		// Tan Military Goggles (Glasses Item)
+		Guid 3a3fafd8d09f4b46a890ea7bd043dd26
+		Weight 10
+	}
+	{
+		// Tan Military Goggles (Glasses Item)
+		Guid 95be145b8ff94771973e5e08375938dc
+		Weight 10
+	}
+]

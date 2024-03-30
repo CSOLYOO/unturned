@@ -1,0 +1,27 @@
+GUID e1018b14747942ddb741d91f933cac7b
+Type Spawn
+ID 64513
+
+Tables
+[
+	{
+		// Black Tactical Belt (Vest Item)
+		Guid 811223d469b54c639d67a53cdbaf7802
+		Weight 10
+	}
+	{
+		// Gray Tactical Belt (Vest Item)
+		Guid 66079faeb68d4ce494db5d2b42d73812
+		Weight 10
+	}
+	{
+		// Tan Tactical Belt (Vest Item)
+		Guid 02cb20b7014e494382f57a51ac2ce661
+		Weight 10
+	}
+	{
+		// Multicam Tactical Belt (Vest Item)
+		Guid 2a763f0035a34240af00a017a60b2495
+		Weight 10
+	}
+]

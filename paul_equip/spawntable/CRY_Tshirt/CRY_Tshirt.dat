@@ -1,0 +1,52 @@
+GUID 5105806f721c47bfb7b58a2069688d7b
+Type Spawn
+ID 64517
+
+Tables
+[
+	{
+		// Black CRY T-Shirt (Shirt Item)
+		Guid b238b1544ad54ef9a23ee68ca784e4ae
+		Weight 10
+	}
+	{
+		// Gray CRY T-Shirt (Shirt Item)
+		Guid a93a037f11344e9396364b3b557d2494
+		Weight 10
+	}
+	{
+		// Tan CRY T-Shirt (Shirt Item)
+		Guid 8d32f12fcaa1409d877ff4871b5b24b1
+		Weight 10
+	}
+	{
+		// Black CRY T-Shirt (Shirt Item)
+		Guid 2c9d0677a0b0488dbe3a3e391f9ff664
+		Weight 10
+	}
+	{
+		// Gray CRY T-Shirt (Shirt Item)
+		Guid 058eff49cd8b42b09bba960019c5ae83
+		Weight 10
+	}
+	{
+		// Tan CRY T-Shirt (Shirt Item)
+		Guid 3f8d5e6db09e4c4a8d1bafcaac460d82
+		Weight 10
+	}
+	{
+		// Black CRY T-Shirt (Shirt Item)
+		Guid dc20d954fb2f46188c05e1e9406b63f0
+		Weight 10
+	}
+	{
+		// Gray CRY T-Shirt (Shirt Item)
+		Guid 3532f4235746425097d417cb1d4a29e6
+		Weight 10
+	}
+	{
+		// Tan CRY T-Shirt (Shirt Item)
+		Guid fc64f6ec23184a3d8e34e1d66cc81ba8
+		Weight 10
+	}
+]

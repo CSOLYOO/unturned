@@ -1,0 +1,122 @@
+GUID 4731f1199a85462a8842b9b2c64cf546
+Type Spawn
+ID 64516
+
+Tables
+[
+	{
+		// Black CRY Slim fit (Shirt Item)
+		Guid 759e45f4ef604d11ae1ee85cf1c9b999
+		Weight 10
+	}
+	{
+		// Gray CRY Slim fit (Shirt Item)
+		Guid a8f2be6bf7c84c738e24947d7081106f
+		Weight 10
+	}
+	{
+		// Black CRY Slim fit (Shirt Item)
+		Guid b67db755986c445e8d1d8b12282f1c28
+		Weight 10
+	}
+	{
+		// Multicam CRY Slim fit (Shirt Item)
+		Guid cdf1c350a05e4f00b550b570df61b2ad
+		Weight 10
+	}
+	{
+		// Tan CRY Slim fit (Shirt Item)
+		Guid 2a9cc5d6e7aa45ecbd806d644645224f
+		Weight 10
+	}
+	{
+		// Gray CRY Slim fit (Shirt Item)
+		Guid 7425df41e2074aac842126f8bd01b2a3
+		Weight 10
+	}
+	{
+		// Black CRY Slim fit (Shirt Item)
+		Guid 79eb36493f5b461a846b3dc6cee852a2
+		Weight 10
+	}
+	{
+		// Multicam CRY Slim fit (Shirt Item)
+		Guid 5e448218805d41a18e44e2d13d498f89
+		Weight 10
+	}
+	{
+		// Tan CRY Slim fit (Shirt Item)
+		Guid 91d6a18d8ba24c3281d17ebf612c7bd7
+		Weight 10
+	}
+	{
+		// Gray CRY Slim fit (Shirt Item)
+		Guid 4e42d80f04a142fcac3175cdf44b4b58
+		Weight 10
+	}
+	{
+		// Tan CRY Slim fit (Shirt Item)
+		Guid cd1a5e6342c246ffb2f9579e8430cd43
+		Weight 10
+	}
+	{
+		// Black CRY Slim fit (Shirt Item)
+		Guid c8c73d39e8744035beb145d3b163ef47
+		Weight 10
+	}
+	{
+		// Tan CRY Slim fit (Shirt Item)
+		Guid 59b1b71bfbb74075babe90eb541f7f4d
+		Weight 10
+	}
+	{
+		// Gray CRY Slim fit (Shirt Item)
+		Guid c476547f64724ef4bb71efcdcc1e59f6
+		Weight 10
+	}
+	{
+		// Black CRY Slim fit (Shirt Item)
+		Guid ed83a59dc9a44011a7039f61a1e674e6
+		Weight 10
+	}
+	{
+		// Multicam CRY Slim fit (Shirt Item)
+		Guid 809782319036401393e9be179cdfb79a
+		Weight 10
+	}
+	{
+		// Tan CRY Slim fit (Shirt Item)
+		Guid 6f0a7d35e143475c9e896cb7ad32a738
+		Weight 10
+	}
+	{
+		// Gray CRY Slim fit (Shirt Item)
+		Guid 4c8e696b3011477cba72bdadd98b5bc9
+		Weight 10
+	}
+	{
+		// Black CRY Slim fit (Shirt Item)
+		Guid 33a3ae9665d5464088c15a7d28ae5b6f
+		Weight 10
+	}
+	{
+		// Tan CRY Slim fit (Shirt Item)
+		Guid 555642766d7044aea07be64c4383316c
+		Weight 10
+	}
+	{
+		// Gray CRY Slim fit (Shirt Item)
+		Guid 9c6a1553f4ea4de2a21930a29e7e5104
+		Weight 10
+	}
+	{
+		// Multicam CRY Slim fit (Shirt Item)
+		Guid 983711931204456d92a68087d1671d18
+		Weight 10
+	}
+	{
+		// Multicam CRY Slim fit (Shirt Item)
+		Guid 877c9618b20a4e3da93842a94ef9e230
+		Weight 10
+	}
+]

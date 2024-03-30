@@ -1,0 +1,172 @@
+GUID 7bf1b2816715451d9614e8254722c85c
+Type Spawn
+ID 64505
+
+Tables
+[
+	{
+		// Black Baseball Cap (Hat Item)
+		Guid ac5a1f831a25411385f997da8a47e74b
+		Weight 10
+	}
+	{
+		// Red Beret (Hat Item)
+		Guid 800c87ac5bd9424881bac26066c42d8e
+		Weight 10
+	}
+	{
+		// Black Beret (Hat Item)
+		Guid f4fbbff1dc3e483e96d269a7c704fb79
+		Weight 10
+	}
+	{
+		// Green Beret (Hat Item)
+		Guid bb442cb4eb674558a3d389eef385dc0a
+		Weight 10
+	}
+	{
+		// Black Boonie Cap (Hat Item)
+		Guid 5bd7329b249c47f5aa5b6a9563e235a4
+		Weight 10
+	}
+	{
+		// Multicam Boonie Cap (Hat Item)
+		Guid abb3b7f612c942e28d592f651aa55ef5
+		Weight 10
+	}
+	{
+		// Tan Boonie Cap (Hat Item)
+		Guid c18754c94e3748379acc2adb5dabe5ae
+		Weight 10
+	}
+	{
+		// Gray Boonie Cap (Hat Item)
+		Guid 83848e4b913c4beab766437488d602fd
+		Weight 10
+	}
+	{
+		// Black Boonie Cap (Hat Item)
+		Guid b4b0a58fbce84aafb20f66bfd91cf064
+		Weight 10
+	}
+	{
+		// Multicam Boonie Cap (Hat Item)
+		Guid 74f3d5a5924c468fa774402b637a9291
+		Weight 10
+	}
+	{
+		// Tan Boonie Cap (Hat Item)
+		Guid 863dd05a08df4c1b8fa303bae3480bde
+		Weight 10
+	}
+	{
+		// Gray Boonie Cap (Hat Item)
+		Guid 1c05e13f094648ae81c6aba41524cb75
+		Weight 10
+	}
+	{
+		// Tan SenMor-M32 Headset (Hat Item)
+		Guid 0a18f494df5745b5b0f09a5b3ed7d65a
+		Weight 10
+	}
+	{
+		// Gray SenMor-M32 Headset (Hat Item)
+		Guid 61bbfc8f58db4f3bac44d4a0a529683f
+		Weight 10
+	}
+	{
+		// Tan Beanie Cap (Hat Item)
+		Guid 79107b94db6a40a083806c925a6ce65e
+		Weight 10
+	}
+	{
+		// Blue Beret (Hat Item)
+		Guid 10f7fbaa3bce4b87b548fb66a3da16e9
+		Weight 10
+	}
+	{
+		// Gray Beanie Cap (Hat Item)
+		Guid 09fd6ce7c1e14b9abd7a01b5b7e67e19
+		Weight 10
+	}
+	{
+		// Tan Beanie Cap (Hat Item)
+		Guid 56e42f9c93df4d9bb010bf9e20dd9188
+		Weight 10
+	}
+	{
+		// Gray Beanie Cap (Hat Item)
+		Guid 264a56b9f63243fc9221eded5442de0c
+		Weight 10
+	}
+	{
+		// Black Beanie Cap (Hat Item)
+		Guid b464f4b731474be19293a438ab1d2191
+		Weight 10
+	}
+	{
+		// Tan Baseball Cap (Hat Item)
+		Guid 5fc9747e671f4bb8ba7991e4625703d8
+		Weight 10
+	}
+	{
+		// Gray Baseball Cap (Hat Item)
+		Guid 6ac734ada074488ea13de01b41270d97
+		Weight 10
+	}
+	{
+		// Black Baseball Cap (Hat Item)
+		Guid 45cf882972c44aa480c06ef6b9317167
+		Weight 10
+	}
+	{
+		// Tan Baseball Cap (Hat Item)
+		Guid 89190409def841bcbeed1bade559944a
+		Weight 10
+	}
+	{
+		// Gray Baseball Cap (Hat Item)
+		Guid 0cf83e8da43c4801afcf8b8f8135a36a
+		Weight 10
+	}
+	{
+		// Black Baseball Cap (Hat Item)
+		Guid 181eef7bb50a445784bfdd77b5ae5712
+		Weight 10
+	}
+	{
+		// Tan Baseball Cap (Hat Item)
+		Guid c3594b38ed644007b566ced6a1aca36e
+		Weight 10
+	}
+	{
+		// Gray Baseball Cap (Hat Item)
+		Guid 924efde2a7a44124a0fd278286f87db6
+		Weight 10
+	}
+	{
+		// Black Baseball Cap (Hat Item)
+		Guid 31896b1c147845368eea80412e128f2c
+		Weight 10
+	}
+	{
+		// Tan Baseball Cap (Hat Item)
+		Guid 8b09c80b644049f7846afd5811d59784
+		Weight 10
+	}
+	{
+		// Gray Baseball Cap (Hat Item)
+		Guid 4cc79e0f2c2b47258463411209e48c23
+		Weight 10
+	}
+	{
+		// Black Beanie Cap (Hat Item)
+		Guid 905143fd70d74f18ac4c4d01cb2de344
+		Weight 10
+	}
+	{
+		// Tan Beret (Hat Item)
+		Guid a3b6a54d16d24866bf0e12fd820e0366
+		Weight 10
+	}
+]

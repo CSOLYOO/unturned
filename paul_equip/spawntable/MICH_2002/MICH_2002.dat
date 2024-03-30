@@ -1,0 +1,147 @@
+GUID f96fbb374bd54bae8cc60d243f0ffa3e
+Type Spawn
+ID 64501
+
+Tables
+[
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid a897505260d44adc8de29e4adf8920b8
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid fdb0a890d33f4c04948d9ef83806ad6d
+		Weight 10
+	}
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid b7d6b7c3ff9449df94dd399910d82200
+		Weight 10
+	}
+	{
+		// Multicam MICH-2002 (Hat Item)
+		Guid 68d6a19b9bf14d50ae327271f05c9acf
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid 0e158c9ece5f47ea8f4f50b6245e37cb
+		Weight 10
+	}
+	{
+		// Multicam MICH-2002 (Hat Item)
+		Guid a6e82444ba62498fbc4ca21da4d1889b
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid a86cabfdf3fb4f60a57bed391592e2eb
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid 9c33aa4133954b5c9c473fd6119b95e6
+		Weight 10
+	}
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid f47aa653332c46f9875c978bc0851758
+		Weight 10
+	}
+	{
+		// Multicam MICH-2002 (Hat Item)
+		Guid 953ec81cbca34a5f8c6559dcc38873bd
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid 845648beffe64fc2b20b7c291f353aca
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid bb473b2d690b41a4b7807919f2d5eec1
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid 533dff56cb724ac89368a73edfdc39d5
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid 37681f286b4a4c999805abacbccc9623
+		Weight 10
+	}
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid 35d77d5a53ad46af839e33cf3a4d3641
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid d2ea5646824e4813af31f281dce5fa10
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid df62036debcf420a99db152227603610
+		Weight 10
+	}
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid a5b557a4ec104c5782297152067bfb9a
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid e937aa49709045e0a53568ba51d59cc1
+		Weight 10
+	}
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid 508d1245e87d414085256bf5a6f16e9a
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid bb27935538b049378cb47e214b924911
+		Weight 10
+	}
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid 7f07c74f7b9841348fe1e0bc8b6fe30a
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid 24319e804fc64899b3a4779dae9a60a2
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid abc2c7cfafbb417cae9e355790481882
+		Weight 10
+	}
+	{
+		// Black MICH-2002 (Hat Item)
+		Guid effaf58b5f314c259188371ffe165d89
+		Weight 10
+	}
+	{
+		// Gray MICH-2002 (Hat Item)
+		Guid 670cd36f83874d5381080a6c4376c84d
+		Weight 10
+	}
+	{
+		// Tan MICH-2002 (Hat Item)
+		Guid a48369adefd4432bba557b5998b5c93d
+		Weight 10
+	}
+	{
+		// Multicam MICH-2002 (Hat Item)
+		Guid e7e160b41c944c11a241be2c566d5834
+		Weight 10
+	}
+]

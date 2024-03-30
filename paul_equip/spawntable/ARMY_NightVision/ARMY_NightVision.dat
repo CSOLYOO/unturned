@@ -1,0 +1,47 @@
+GUID 68e3d12d1ddf4d51b5b698cbc8dbace8
+Type Spawn
+ID 64508
+
+Tables
+[
+	{
+		// Black L3Hansen GPNVG-18 Nightvision goggles (Glasses Item)
+		Guid 0c47850af6244e8bafa81c3de667561e
+		Weight 10
+	}
+	{
+		// Tan L3Hansen GPNVG-18 Nightvision goggles (Glasses Item)
+		Guid d36db972273343ba8070174762b24dea
+		Weight 10
+	}
+	{
+		// Black L3Hansen GPNVG-18 Nightvision goggles (Glasses Item)
+		Guid 02eac1bb3715474fbc2280e5a71a54dc
+		Weight 10
+	}
+	{
+		// Tan L3Hansen GPNVG-18 Nightvision goggles (Glasses Item)
+		Guid add967b7c01348438ce9e2f07e035505
+		Weight 10
+	}
+	{
+		// Black PVS-31 Nightvision goggles (Glasses Item)
+		Guid 587af023b18f4fcbb5e7524a949e750e
+		Weight 10
+	}
+	{
+		// Tan PVS-31 Nightvision goggles (Glasses Item)
+		Guid d459612cb99447ad89a0c5804ea71eaa
+		Weight 10
+	}
+	{
+		// Black PVS-31 Nightvision goggles (Glasses Item)
+		Guid 5142641011694bfd82040e93bb197fb8
+		Weight 10
+	}
+	{
+		// Tan PVS-31 Nightvision goggles (Glasses Item)
+		Guid f4178d1c99794c7d9952c5ff0a50068b
+		Weight 10
+	}
+]

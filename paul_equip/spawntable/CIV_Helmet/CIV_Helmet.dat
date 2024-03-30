@@ -1,0 +1,22 @@
+GUID 9d43aac5157145568fcb0bd32b2a2950
+Type Spawn
+ID 64506
+
+Tables
+[
+	{
+		// UN SSH-68 (Hat Item)
+		Guid c0e1edd0df40448a877006aeace97efe
+		Weight 20
+	}
+	{
+		// UN MICH-2000 (Hat Item)
+		Guid 21693692384a4384a64a500acfa6c024
+		Weight 20
+	}
+	{
+		// SSH-68 (Hat Item)
+		Guid 144b5d156c204e729a5029990ab86ab0
+		Weight 10
+	}
+]

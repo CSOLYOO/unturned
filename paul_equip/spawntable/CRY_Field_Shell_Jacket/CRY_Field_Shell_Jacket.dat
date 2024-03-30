@@ -1,0 +1,127 @@
+GUID 7519530743cd4f4598b434e9703d58f7
+Type Spawn
+ID 64515
+
+Tables
+[
+	{
+		// Black CRY Field Shell Jacket (Shirt Item)
+		Guid b02e4c90618f4d9bb8383f83482cff0a
+		Weight 10
+	}
+	{
+		// Gray CRY Field Shell Jacket (Shirt Item)
+		Guid 9167b8961abb4abbaf2e421a03cc6d0e
+		Weight 10
+	}
+	{
+		// Black CRY Field Shell Jacket (Shirt Item)
+		Guid 0cd26011f6a04266a60259053c240bb7
+		Weight 10
+	}
+	{
+		// Multicam CRY Field Shell Jacket (Shirt Item)
+		Guid 8dc09e8abcbc463e975f53c65527216b
+		Weight 10
+	}
+	{
+		// Tan CRY Field Shell Jacket (Shirt Item)
+		Guid b964da6986e5447a966baf488fc1a889
+		Weight 10
+	}
+	{
+		// Gray CRY Field Shell Jacket (Shirt Item)
+		Guid 9e492e45ce30405687a3b746509c7699
+		Weight 10
+	}
+	{
+		// Black CRY Field Shell Jacket (Shirt Item)
+		Guid 6bf631b4307045daa64fb9c85b3a3f29
+		Weight 10
+	}
+	{
+		// Multicam CRY Field Shell Jacket (Shirt Item)
+		Guid cf0a8ddf88f547b4b5f6179d038e788f
+		Weight 10
+	}
+	{
+		// Tan CRY Field Shell Jacket (Shirt Item)
+		Guid 6f18e8dfad70451c910dab9f7d3cf1e4
+		Weight 10
+	}
+	{
+		// Gray CRY Field Shell Jacket (Shirt Item)
+		Guid c88d8836c96f43e582a449b2e2780c2a
+		Weight 10
+	}
+	{
+		// Black CRY Field Shell Jacket (Shirt Item)
+		Guid 68611be4186c4f3a8f0f82d3e50a2c1d
+		Weight 10
+	}
+	{
+		// Multicam CRY Field Shell Jacket (Shirt Item)
+		Guid f43b1b13778b47e3885ed53d49859c65
+		Weight 10
+	}
+	{
+		// Tan CRY Field Shell Jacket (Shirt Item)
+		Guid f34927bd67ac4650a489a65a95f81941
+		Weight 10
+	}
+	{
+		// Gray CRY Field Shell Jacket (Shirt Item)
+		Guid 6d5cbe0fa5e94b209979d5bf590eae78
+		Weight 10
+	}
+	{
+		// Black CRY Field Shell Jacket (Shirt Item)
+		Guid 4f3ebbed486a4abcb29cbfa8b8d442b4
+		Weight 10
+	}
+	{
+		// Multicam CRY Field Shell Jacket (Shirt Item)
+		Guid a20675d675c74722934da92e62c59de0
+		Weight 10
+	}
+	{
+		// Tan CRY Field Shell Jacket (Shirt Item)
+		Guid 9376cf41ed684c1dbb52d7d2c5defbe7
+		Weight 10
+	}
+	{
+		// Gray CRY Field Shell Jacket (Shirt Item)
+		Guid da34bd7fef744326b444c7ccc0febe0e
+		Weight 10
+	}
+	{
+		// Black CRY Field Shell Jacket (Shirt Item)
+		Guid 46a6b8830b8f4d8e83313d02113a7ece
+		Weight 10
+	}
+	{
+		// Multicam CRY Field Shell Jacket (Shirt Item)
+		Guid 19a150c192bf4ab7962b912d0a23caad
+		Weight 10
+	}
+	{
+		// Tan CRY Field Shell Jacket (Shirt Item)
+		Guid 98511d8822b5442dacacca80994f7e58
+		Weight 10
+	}
+	{
+		// Gray CRY Field Shell Jacket (Shirt Item)
+		Guid 60a6962d33554ca580e384b368254c86
+		Weight 10
+	}
+	{
+		// Tan CRY Field Shell Jacket (Shirt Item)
+		Guid 77d5e74f06d04c83b9c6bd63d137a1c6
+		Weight 10
+	}
+	{
+		// Multicam CRY Field Shell Jacket (Shirt Item)
+		Guid 7a4bfe805729486fbcf266829de0e257
+		Weight 10
+	}
+]

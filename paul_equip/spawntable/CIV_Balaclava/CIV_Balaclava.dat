@@ -1,0 +1,47 @@
+GUID 54d0d9ab7fb74ea48dc0b133f9f69a03
+Type Spawn
+ID 64510
+
+Tables
+[
+	{
+		// Black Balaclava (Mask Item)
+		Guid bddb1b7a6d6a4320bf65628c95e073bf
+		Weight 10
+	}
+	{
+		// Multicam Balaclava (Mask Item)
+		Guid 13cb89162e2548ec8c6c5f0bbac90918
+		Weight 10
+	}
+	{
+		// Black Skull Balaclava (Mask Item)
+		Guid 80689f5ee0f6476c976ab5eca7657e0e
+		Weight 10
+	}
+	{
+		// Tan Balaclava (Mask Item)
+		Guid 63592a3abdb54ab7945ef57c6c1ddfb7
+		Weight 10
+	}
+	{
+		// Black Balaclava (Mask Item)
+		Guid a0f2cb6968fc4c5aa82d6f9e31964639
+		Weight 10
+	}
+	{
+		// Multicam Balaclava (Mask Item)
+		Guid c038192ba18443eb81fbe92b69e313f5
+		Weight 10
+	}
+	{
+		// Tan Balaclava (Mask Item)
+		Guid 19aae8b804ae4f36a2f9743db4dfcacb
+		Weight 10
+	}
+	{
+		// M40 Gasmask (Mask Item)
+		Guid 1da765c73f4d448d9f484705fcb78f8c
+		Weight 5
+	}
+]

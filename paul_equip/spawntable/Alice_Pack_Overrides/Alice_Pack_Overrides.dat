@@ -1,0 +1,167 @@
+GUID 7737b7bb28fd4514aa717bd059391ad0
+Type Spawn
+ID 64514
+
+Tables
+[
+	{
+		// Black CRY Zip-On Panel Bag (Backpack Item)
+		Guid 5f1c8d9a95fb405ca0bd729df8b8773c
+		Weight 10
+	}
+	{
+		// Tan RUST 24 5.11 Assault Backpack (Backpack Item)
+		Guid cfcee1527e2e47ba90b17472c42c16b1
+		Weight 10
+	}
+	{
+		// Multicam RUST 24 5.11 Assault Backpack (Backpack Item)
+		Guid 092ee111b00d49e28eefb7e03eb6fbaf
+		Weight 10
+	}
+	{
+		// Gray RUST 24 5.11 Assault Backpack (Backpack Item)
+		Guid 8692c4963f6c4817a2d8d8984b6a87d7
+		Weight 10
+	}
+	{
+		// Black RUST 24 5.11 Assault Backpack (Backpack Item)
+		Guid 0d294f564904411abe1bd88c730d0dc3
+		Weight 10
+	}
+	{
+		// Tan RANTZ 2-day Assault Backpack (Backpack Item)
+		Guid ec1e79a461e54c95aff2d4e4bbccc516
+		Weight 10
+	}
+	{
+		// Multicam RANTZ 2-day Assault Backpack (Backpack Item)
+		Guid aef8877084574ad5a7ace2c6dcaa77dc
+		Weight 10
+	}
+	{
+		// Gray RANTZ 2-day Assault Backpack (Backpack Item)
+		Guid 4a5d123b2b3a4a7d98b71a43b22bb4be
+		Weight 10
+	}
+	{
+		// Black RANTZ 2-day Assault Backpack (Backpack Item)
+		Guid c6810eba0a0d41ee86c4702cbe1fd952
+		Weight 10
+	}
+	{
+		// Tan MIKEE Zip-On Panel Bag (Backpack Item)
+		Guid 181756af973545e0b4c71c32ff41b132
+		Weight 10
+	}
+	{
+		// Multicam MIKEE Zip-On Panel Bag (Backpack Item)
+		Guid b66f0d5dba9b41f0a6051b6dfd21f4b8
+		Weight 10
+	}
+	{
+		// Gray MIKEE Zip-On Panel Bag (Backpack Item)
+		Guid c28a8ea737b94680893da68741e076ef
+		Weight 10
+	}
+	{
+		// Black MIKEE Zip-On Panel Bag (Backpack Item)
+		Guid 98e83889038147248035855d4b98a013
+		Weight 10
+	}
+	{
+		// Tan PRC-117-G Panel Bag (Backpack Item)
+		Guid 29c7e2c68bd94e51a68d862f5b0aa718
+		Weight 10
+	}
+	{
+		// Multicam PRC-117-G Panel Bag (Backpack Item)
+		Guid 48de4d02c90844919c6a3f6f9e2fab92
+		Weight 10
+	}
+	{
+		// Gray PRC-117-G Panel Bag (Backpack Item)
+		Guid 71eed0dd79fd47cba48ad5f3ecade64b
+		Weight 10
+	}
+	{
+		// Black PRC-117-G Panel Bag (Backpack Item)
+		Guid 00487339358a4b4cb5ea223846ceab58
+		Weight 10
+	}
+	{
+		// Tan PRC-117-G Panel Bag (Backpack Item)
+		Guid 8cc07720076d4971924077d9364592e6
+		Weight 10
+	}
+	{
+		// Multicam PRC-117-G Panel Bag (Backpack Item)
+		Guid b503afedc4e44c809548330ee7cac028
+		Weight 10
+	}
+	{
+		// Gray PRC-117-G Panel Bag (Backpack Item)
+		Guid 0b00fa6d6e81443ea2c61429f6993c0c
+		Weight 10
+	}
+	{
+		// Black PRC-117-G Panel Bag (Backpack Item)
+		Guid c3bd7762c5324523960236526ff03553
+		Weight 10
+	}
+	{
+		// Dark Green US AlicePack (Backpack Item)
+		Guid d417cdf95faf432f9482ea65482aef55
+		Weight 10
+	}
+	{
+		// Dark Green AlicePack (Backpack Item)
+		Guid e9507b1a5e884b36bf9953af5ed60ca3
+		Weight 10
+	}
+	{
+		// Black AlicePack (Backpack Item)
+		Guid fe49086d57d94e45a8f7cd17331b3dce
+		Weight 10
+	}
+	{
+		// Multicam AlicePack (Backpack Item)
+		Guid 950394afe3ab42c394fe60253cab2cda
+		Weight 10
+	}
+	{
+		// Tan AlicePack (Backpack Item)
+		Guid 1151db0b91f44000b0c5591389fedf92
+		Weight 10
+	}
+	{
+		// Gray AlicePack (Backpack Item)
+		Guid edc74df1dbac4da0ad365c474195f312
+		Weight 10
+	}
+	{
+		// Tan CRY Zip-On Panel Bag (Backpack Item)
+		Guid 97e15ef77e95497ba6a6e0460120aac4
+		Weight 10
+	}
+	{
+		// Multicam CRY Zip-On Panel Bag (Backpack Item)
+		Guid 9369bf329a8c4cfe973ced13388a81fc
+		Weight 10
+	}
+	{
+		// Gray CRY Zip-On Panel Bag (Backpack Item)
+		Guid 96752961fd1a42c0adcabb17033be5a3
+		Weight 10
+	}
+	{
+		// Dark Green Munitions Bag 6SH11 (Backpack Item)
+		Guid 72efc07714674e68999b3d63d80e094a
+		Weight 10
+	}
+	{
+		// Tan Munitions Bag 6SH11 (Backpack Item)
+		Guid 6fb4e74ad5fc4d5582c595f3bb9b040b
+		Weight 10
+	}
+]
