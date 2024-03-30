@@ -9,10 +9,10 @@ Size_X 3
 Size_Y 2
 Size_Z 0.6
 
-Width 3
-Height 2
+Width 10
+Height 10
 
-Armor 0.95
+Armor 0.9
 
 Blueprints 2
 Blueprint_0_Type Apparel
