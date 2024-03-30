@@ -1,0 +1,25 @@
+GUID d417cdf95faf432f9482ea65482aef55
+
+Type Backpack
+Rarity Rare
+Useable Clothing
+ID 20336
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 8
+Height 9
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 20336
+Blueprint_0_Product 66
+Blueprint_0_Products 4
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32

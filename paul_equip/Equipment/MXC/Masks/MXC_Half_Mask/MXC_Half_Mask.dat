@@ -1,0 +1,26 @@
+GUID 9e192a9c48a44bc6a2b7ca84732419cf
+
+Type Mask
+Useable Clothing
+Rarity rare
+ID 21065
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Hair
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 21065
+Blueprint_0_Product 66
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 2
+Blueprint_1_Build 32

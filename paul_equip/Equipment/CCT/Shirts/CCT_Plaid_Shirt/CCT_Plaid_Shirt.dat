@@ -1,0 +1,22 @@
+GUID e3492d40fe794ea6bfd05c38dc57de09
+
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 21269
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 2
+Height 2
+
+Armor 0.95
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 21269
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32

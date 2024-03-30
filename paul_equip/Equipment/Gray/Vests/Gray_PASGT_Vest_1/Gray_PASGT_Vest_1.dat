@@ -1,0 +1,27 @@
+GUID 4fe69a9d50dc49378f0e1f9a274d46aa
+
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 20892
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 4
+Height 3
+
+Armor 0.80
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 20892
+Blueprint_0_Product 67
+Blueprint_0_Products 6
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Build 32

@@ -1,0 +1,58 @@
+GUID 9d56e9bd12bd4e64828aa0bab23dc3bd
+
+Type Shirt
+Rarity Rare
+Useable Clothing
+ID 21162
+
+Size_X 3
+Size_Y 2
+Size_Z 0.6
+
+Width 2
+Height 2
+
+Armor 0.95
+
+Blueprints 4
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 21162
+Blueprint_0_Product 66
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
+
+Blueprint_2_Type Apparel
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 21162
+Blueprint_2_Outputs 2
+Blueprint_2_Output_0_ID 21161
+Blueprint_2_Output_1_ID 20191
+Blueprint_2_Build 32
+
+Blueprint_3_Type Apparel
+Blueprint_3_Supply_0_ID 21162
+Blueprint_3_Product 20151
+Blueprint_3_Products 1
+Blueprint_3_Build 32
+
+Actions 2
+
+Action_0_Type Blueprint
+Action_0_Source 21162
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 2
+Action_0_Text - remove gloves
+Action_0_Tooltip - remove gloves from the shirt
+
+Action_1_Type Blueprint
+Action_1_Source 21162
+Action_1_Blueprints 1
+Action_1_Blueprint_0_Index 3
+Action_1_Text ▼ roll down sleeves
+Action_1_Tooltip ▼ roll shirt's sleeves down

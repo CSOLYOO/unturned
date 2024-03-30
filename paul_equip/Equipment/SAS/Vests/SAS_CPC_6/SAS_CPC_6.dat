@@ -1,0 +1,29 @@
+GUID 57450ba9212e4c4e8eb80e781a47e734
+
+Type Vest
+Rarity Rare
+Useable Clothing
+ID 21257
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 4
+Height 3
+
+Armor 0.7
+
+Earpiece
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 21257
+Blueprint_0_Product 67
+Blueprint_0_Products 6
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Build 32
