@@ -1,0 +1,47 @@
+GUID 82078f6f7c3e4f7d961d27f22799ff24
+Type Spawn
+ID 64520
+
+Tables
+[
+	{
+		// Gray USEC Baseball Cap (Hat Item)
+		Guid f890b6bebadb41f58fcc6dfeaceb347a
+		Weight 10
+	}
+	{
+		// Tan USEC Baseball Cap (Hat Item)
+		Guid 6d2e131b8e7b487e93dbfa55f7138d15
+		Weight 10
+	}
+	{
+		// Gray USEC Baseball Cap (Hat Item)
+		Guid 04c16ec1f3bd4c5aa2b6de17be016f78
+		Weight 10
+	}
+	{
+		// Tan USEC Baseball Cap (Hat Item)
+		Guid a1c8724cbd644037ac71283d25fc5efd
+		Weight 10
+	}
+	{
+		// Gray USEC Baseball Cap (Hat Item)
+		Guid 8bb5a4af76ec4a7eafb230c71dd5f6e5
+		Weight 10
+	}
+	{
+		// Tan USEC Baseball Cap (Hat Item)
+		Guid 064c1b4051b54f668cee4120728491c7
+		Weight 10
+	}
+	{
+		// Gray USEC Baseball Cap (Hat Item)
+		Guid 394e70963ea6490b97d83b516de6d527
+		Weight 10
+	}
+	{
+		// Tan USEC Baseball Cap (Hat Item)
+		Guid 71c8175899d044a292ec5fc919a67d34
+		Weight 10
+	}
+]

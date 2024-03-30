@@ -1,0 +1,37 @@
+GUID 1091ddf3ad524a5882232f7809634587
+Type Spawn
+ID 63542
+
+Tables
+[
+	{
+		// Alice_Pack_Overrides (Spawn)
+		Guid 7737b7bb28fd4514aa717bd059391ad0
+		Weight 100
+	}
+	{
+		// TTsko AlicePack (Backpack Item)
+		Guid ac602168414542ba92d9d67c9f21bf9c
+		Weight 100
+	}
+	{
+		// TTsko CDF AlicePack (Backpack Item)
+		Guid 3df1bf036beb423ebd4c19a66dcafcfa
+		Weight 100
+	}
+	{
+		// RUST 24 5.11 Assault Backpack (Backpack Item)
+		Guid e4d0ead4e91c40f69f35ddf32ce1e177
+		Weight 100
+	}
+	{
+		// M3 Ammo Bearer (Backpack Item)
+		Guid 36b71e285b694cc2b2dce65d2c89e6f5
+		Weight 100
+	}
+	{
+		// Dark Green RUST 24 5.11 Assault Backpack (Backpack Item)
+		Guid d1f2d039ea164ba1aada6c139c71fabe
+		Weight 100
+	}
+]

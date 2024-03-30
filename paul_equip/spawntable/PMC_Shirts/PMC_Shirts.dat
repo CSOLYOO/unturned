@@ -1,0 +1,27 @@
+GUID 970905e64aa043d2bfb6c4fbb0314e5d
+Type Spawn
+ID 64522
+
+Tables
+[
+	{
+		// Blue plaid shirt (Shirt Item)
+		Guid c64b158db94c407abcb8e39ba4c31c0b
+		Weight 10
+	}
+	{
+		// Blue plaid shirt (Shirt Item)
+		Guid ecd7557f99bc47f1ad8672c0aa00a44a
+		Weight 10
+	}
+	{
+		// BEAR CRY T-Shirt (Shirt Item)
+		Guid ef03f52beff74c4ba9ce59dff5c95329
+		Weight 10
+	}
+	{
+		// Adik jacket (Shirt Item)
+		Guid a3671f28c88643bab2a0f88d00272b21
+		Weight 10
+	}
+]

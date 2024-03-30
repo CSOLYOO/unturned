@@ -1,0 +1,17 @@
+GUID 26e10aa431d54049a39fe7c326df5d71
+Type Spawn
+ID 63536
+
+Tables
+[
+	{
+		// SpawnAsset (Spawn)
+		Guid a1b518bf0a5841a8b4a45fa043f2a22d
+		Weight 100
+	}
+	{
+		// SpawnAsset (Spawn)
+		Guid 3fca8f74a9534e4f90a3f7b19c8bd17a
+		Weight 100
+	}
+]

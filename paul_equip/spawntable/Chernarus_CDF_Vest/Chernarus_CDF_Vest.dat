@@ -1,0 +1,47 @@
+GUID 4e1590485651451e85802d2aec7bd331
+Type Spawn
+ID 64526
+
+Tables
+[
+	{
+		// Tan 6B5-16 Armored Vest (Vest Item)
+		Guid 0351733814084b9695bd8f86bce8dd8a
+		Weight 10
+	}
+	{
+		// Dark Green 6B5-16 Armored Vest (Vest Item)
+		Guid 4ef9d995178e4cb79b387e72bed8e9da
+		Weight 10
+	}
+	{
+		// Dark Green CDF 6B5-16 Armored Vest (Vest Item)
+		Guid 2c1d5875828f439288590857158521e1
+		Weight 10
+	}
+	{
+		// Dark Green GSM 6B5-16 Armored Vest (Vest Item)
+		Guid cbcd564566e24e11beda72e2ce97d526
+		Weight 10
+	}
+	{
+		// Dark Green ROC 6B5-16 Armored Vest (Vest Item)
+		Guid 9460fc5fa87a4ca5a003a653f78384b5
+		Weight 10
+	}
+	{
+		// Tan CDF 6B5-16 Armored Vest (Vest Item)
+		Guid 524faba6e1954a25a7c7d83f1ab322b8
+		Weight 10
+	}
+	{
+		// Tan GSM 6B5-16 Armored Vest (Vest Item)
+		Guid 827a3626e99747daa439f18cfe0c9c28
+		Weight 10
+	}
+	{
+		// Tan ROC 6B5-16 Armored Vest (Vest Item)
+		Guid 6e48ac7f3d73453e8dca840f56306628
+		Weight 10
+	}
+]

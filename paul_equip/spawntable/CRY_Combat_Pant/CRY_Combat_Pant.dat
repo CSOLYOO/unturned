@@ -1,0 +1,67 @@
+GUID 3fca8f74a9534e4f90a3f7b19c8bd17a
+Type Spawn
+ID 64518
+
+Tables
+[
+	{
+		// Black CRY Combat Pants (Pants Item)
+		Guid deebcbcb8b314ee9bf53871f8df16fdd
+		Weight 10
+	}
+	{
+		// Gray CRY Combat Pants (Pants Item)
+		Guid 856a26c65839459e8ecaa72c7bb9bc39
+		Weight 10
+	}
+	{
+		// Tan CRY Combat Pants (Pants Item)
+		Guid 3c840ea5925f46e5aa69598e3943ab4d
+		Weight 10
+	}
+	{
+		// Multicam CRY Combat Pants (Pants Item)
+		Guid 010dcfd379964fc28abfd39be296bf89
+		Weight 10
+	}
+	{
+		// Black CRY Combat Pants (Pants Item)
+		Guid e9c77808835c430cb139ceb183ccd0d8
+		Weight 10
+	}
+	{
+		// Gray CRY Combat Pants (Pants Item)
+		Guid 82e2ef5dc97244c1bbec9db231757acf
+		Weight 10
+	}
+	{
+		// Tan CRY Combat Pants (Pants Item)
+		Guid 6785770b153d451097e3f24378b434c6
+		Weight 10
+	}
+	{
+		// Multicam CRY Combat Pants (Pants Item)
+		Guid 3740457f77b34207a5c039814a6c45ea
+		Weight 10
+	}
+	{
+		// Black CRY Combat Pants (Pants Item)
+		Guid ba004f3b65e0465d809d9bf1c5d02180
+		Weight 10
+	}
+	{
+		// Gray CRY Combat Pants (Pants Item)
+		Guid 8992eb0ec1314c90bd141276fb1b6e68
+		Weight 10
+	}
+	{
+		// Tan CRY Combat Pants (Pants Item)
+		Guid 0d9bd75e0fc34a4d8b4ca951f9d3914b
+		Weight 10
+	}
+	{
+		// Multicam CRY Combat Pants (Pants Item)
+		Guid 4313a2f3df144234b76f204f0dd2c984
+		Weight 10
+	}
+]

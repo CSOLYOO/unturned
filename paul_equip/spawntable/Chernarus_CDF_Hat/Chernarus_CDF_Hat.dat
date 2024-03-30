@@ -1,0 +1,47 @@
+GUID 36e0cefd331341839043338911ad9e61
+Type Spawn
+ID 64525
+
+Tables
+[
+	{
+		// TTsko SSH-68 (Hat Item)
+		Guid 9883b9d0c06f4ae78b776a8e9d13cccf
+		Weight 10
+	}
+	{
+		// TTsko Boonie Cap (Hat Item)
+		Guid 1eb2ff6fcf31414988f400712bd4acff
+		Weight 10
+	}
+	{
+		// TTsko Boonie Cap (Hat Item)
+		Guid d8c30c7e4f58489087347844a8a40eaf
+		Weight 10
+	}
+	{
+		// Green CDF Beret (Hat Item)
+		Guid 1ae4cd73c31f4841aa16933380230665
+		Weight 10
+	}
+	{
+		// Black CDF Beret (Hat Item)
+		Guid d26f7d1dff864b138e727cb022666df0
+		Weight 10
+	}
+	{
+		// Red CDF Beret (Hat Item)
+		Guid 97ff0b1e42d447baa36890fd249ee9e8
+		Weight 10
+	}
+	{
+		// Blue CDF Beret (Hat Item)
+		Guid 5e64fb8e8fcd426d857110290dada3b8
+		Weight 10
+	}
+	{
+		// Tan CDF Beret (Hat Item)
+		Guid 986f6ed9b00a4181bb04ed63e42faf66
+		Weight 10
+	}
+]

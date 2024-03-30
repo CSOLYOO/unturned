@@ -1,0 +1,39 @@
+GUID a55f5a16f8fa402a9af563dcbec26b4c
+Type Spawn
+ID 63532
+
+Tables
+[
+	{
+		Guid 9d43aac5157145568fcb0bd32b2a2950
+		Weight 100
+	}	
+	{
+		Guid dae620a1f3264c0bbe8b9e003e61ebaa
+		Weight 100
+	}	
+	{
+		Guid f96fbb374bd54bae8cc60d243f0ffa3e
+		Weight 100
+	}
+	{
+		Guid 942d38f2a06042358379e49981d95a5f
+		Weight 100
+	}
+	{
+		Guid 563eb58933bf42f992a9541540e74b04
+		Weight 100
+	}
+	{
+		Guid 7bf1b2816715451d9614e8254722c85c
+		Weight 100
+	}		
+	{
+		Guid 82078f6f7c3e4f7d961d27f22799ff24
+		Weight 100
+	}
+	{
+		Guid a4fe00ee099e403396e66bb552b8d162
+		Weight 100
+	}							
+]

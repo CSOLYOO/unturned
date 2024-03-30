@@ -1,0 +1,27 @@
+GUID c9263d63230d4cc29f4a12462d3c1519
+Type Spawn
+ID 63534
+
+Tables
+[
+	{
+		// CRY_CPC (Spawn)
+		Guid 8f761d7ce4664f50bed135ea19b19dda
+		Weight 100
+	}
+	{
+		// CRY_JPC_2 (Spawn)
+		Guid 2fdab1472f844d9e9ad09b41728dd6d6
+		Weight 100
+	}
+	{
+		// CRY_SPC (Spawn)
+		Guid ce277ea6a0d14a96aebd610a00d158a9
+		Weight 100
+	}
+	{
+		// Tactical_Belt (Spawn)
+		Guid e1018b14747942ddb741d91f933cac7b
+		Weight 100
+	}
+]

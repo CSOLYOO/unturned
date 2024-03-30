@@ -1,0 +1,47 @@
+GUID a4fe00ee099e403396e66bb552b8d162
+Type Spawn
+ID 64521
+
+Tables
+[
+	{
+		// Gray BEAR Baseball Cap (Hat Item)
+		Guid d4378b87f32b44efb9fd539f6c8a45ee
+		Weight 10
+	}
+	{
+		// Tan BEAR Baseball Cap (Hat Item)
+		Guid dc862a11b89c479c8287b39d3f47c7b5
+		Weight 10
+	}
+	{
+		// Gray BEAR Baseball Cap (Hat Item)
+		Guid 685e8386a98a467797eee4401b8dca5e
+		Weight 10
+	}
+	{
+		// Tan BEAR Baseball Cap (Hat Item)
+		Guid 991833d3e44c41608ca43569cc63869b
+		Weight 10
+	}
+	{
+		// Gray BEAR Baseball Cap (Hat Item)
+		Guid 761be4b6c65b46718a018066bff79f48
+		Weight 10
+	}
+	{
+		// Tan BEAR Baseball Cap (Hat Item)
+		Guid 6df6363c4d084417883ff5b19627c6df
+		Weight 10
+	}
+	{
+		// Gray BEAR Baseball Cap (Hat Item)
+		Guid 46f34b327ae14411896b0d8e12d695ba
+		Weight 10
+	}
+	{
+		// Tan BEAR Baseball Cap (Hat Item)
+		Guid 38c66ca4d68249dc865b41053cb75a5f
+		Weight 10
+	}
+]

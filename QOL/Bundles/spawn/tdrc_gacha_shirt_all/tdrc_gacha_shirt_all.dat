@@ -1,0 +1,28 @@
+GUID dbf87f53baf34f3cb2c847d9d7c816fe
+Type Spawn
+ID 63538
+
+Tables
+[
+	{
+		// CRY_Field_Shell_Jacket (Spawn)
+		Guid 7519530743cd4f4598b434e9703d58f7
+		Weight 100
+	}
+	{
+		// CRY_Slim_Fit (Spawn)
+		Guid 4731f1199a85462a8842b9b2c64cf546
+		Weight 100
+	}
+	{
+		// CRY_Tshirt (Spawn)
+		Guid 5105806f721c47bfb7b58a2069688d7b
+		Weight 100
+	}
+	{
+		// PMC_Tshirt (Spawn)
+		Guid 970905e64aa043d2bfb6c4fbb0314e5d
+		Weight 100
+	}
+	
+]

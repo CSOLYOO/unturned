@@ -1,0 +1,52 @@
+GUID 7f3f1429be0f44c9af651b99f9807f32
+Type Spawn
+ID 64523
+
+Tables
+[
+	{
+		// MICH-2001 (ACH) (Hat Item)
+		Guid 3eb43393828f4f8e836fa3d3cd41b0d9
+		Weight 10
+	}
+	{
+		// MICH-2001 (ACH) (Hat Item)
+		Guid f9a5873deb754579af49104a69f7496e
+		Weight 10
+	}
+	{
+		// MICH-2001 (ACH) (Hat Item)
+		Guid e091701f28a742e0848b4e94d3717f20
+		Weight 10
+	}
+	{
+		// MICH-2002 (ACH) (Hat Item)
+		Guid 2c0b84adbfab4c7188e4c7f9752502c7
+		Weight 10
+	}
+	{
+		// MICH-2001 (ACH) (Hat Item)
+		Guid 7e95887f6dd441eead5cee101c02bcd8
+		Weight 10
+	}
+	{
+		// MICH-2002 (ACH) (Hat Item)
+		Guid 04fae70d86874010835c25423b8d333f
+		Weight 10
+	}
+	{
+		// MICH-2001 (ACH) (Hat Item)
+		Guid 82b535e93c874d5b94b2e886d48fad05
+		Weight 10
+	}
+	{
+		// MICH-2001 (ACH) (Hat Item)
+		Guid 2dc875e2463249d5a88baf4d24e70833
+		Weight 10
+	}
+	{
+		// MICH-2002 (ACH) (Hat Item)
+		Guid 0752ee93160143e5824eff82a1664f9a
+		Weight 10
+	}
+]

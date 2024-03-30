@@ -1,0 +1,47 @@
+GUID a1b518bf0a5841a8b4a45fa043f2a22d
+Type Spawn
+ID 64519
+
+Tables
+[
+	{
+		// Black CRY Raider Pants (Pants Item)
+		Guid e8a1e1d3fde544a4963cf56474ab44b4
+		Weight 10
+	}
+	{
+		// Gray CRY Raider Pants (Pants Item)
+		Guid c0521ab7eb8246d9bb04d2c75ef72b09
+		Weight 10
+	}
+	{
+		// Tan CRY Raider Pants (Pants Item)
+		Guid 46ef5a0fed04469fa144c1fc4e19b75c
+		Weight 10
+	}
+	{
+		// Multicam CRY Raider Pants (Pants Item)
+		Guid 5a6e5ba0b92e4188a7e8cc4f1142e2bc
+		Weight 10
+	}
+	{
+		// Black CRY Raider Pants (Pants Item)
+		Guid 4f0c9fca4b6a486a8035dbeb5b8a4cac
+		Weight 10
+	}
+	{
+		// Gray CRY Raider Pants (Pants Item)
+		Guid c3b8eac9ce90453090d056f9bb109ae0
+		Weight 10
+	}
+	{
+		// Tan CRY Raider Pants (Pants Item)
+		Guid 9a997c93ba674de59174174f6ff75e5b
+		Weight 10
+	}
+	{
+		// Multicam CRY Raider Pants (Pants Item)
+		Guid 4623b1dcaff9436a902ff40ffde8b772
+		Weight 10
+	}
+]

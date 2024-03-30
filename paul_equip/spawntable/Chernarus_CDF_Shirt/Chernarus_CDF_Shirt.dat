@@ -1,0 +1,37 @@
+GUID 6b36aa8aaace482c990c59c46c80b18e
+Type Spawn
+ID 64527
+
+Tables
+[
+	{
+		// TTsko CDF Field Jacket (Shirt Item)
+		Guid 4d57d83a924848118cfde7078d61c6ac
+		Weight 10
+	}
+	{
+		// TTsko CDF Field Jacket (Shirt Item)
+		Guid 35cbbac6c9bb40238bc1dd52c4867c59
+		Weight 10
+	}
+	{
+		// TTsko CDF Field Jacket (Shirt Item)
+		Guid 5a8141ae87d141bea744d7775bdb8ec2
+		Weight 10
+	}
+	{
+		// TTsko CDF Field Jacket (Shirt Item)
+		Guid f5d73cd1ab274dd7843d05ded1eac991
+		Weight 10
+	}
+	{
+		// TTsko CDF Field Jacket (Shirt Item)
+		Guid 923dede09dca42a5a6794ccac9ec958f
+		Weight 10
+	}
+	{
+		// TTsko CDF Field Jacket (Shirt Item)
+		Guid 033e7b3a246e47cc9c6b43d32258cac8
+		Weight 10
+	}
+]

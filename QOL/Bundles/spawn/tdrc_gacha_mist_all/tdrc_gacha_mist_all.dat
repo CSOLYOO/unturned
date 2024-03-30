@@ -1,0 +1,22 @@
+GUID 2836ed7d68264bdaaf24f8591205a83e
+Type Spawn
+ID 63540
+
+Tables
+[
+	{
+		// CIV_Balaclava (Spawn)
+		Guid 54d0d9ab7fb74ea48dc0b133f9f69a03
+		Weight 100
+	}
+	{
+		// CIV_Warp (Spawn)
+		Guid 6dff41d8a97a4cb8b6a6b5cf8aae9221
+		Weight 100
+	}
+	{
+		// ARMY_Googles (Spawn)
+		Guid d6e3bb249b90424e9d19dc73bb3e3142
+		Weight 100
+	}
+]

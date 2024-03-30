@@ -1,0 +1,22 @@
+GUID 710e7489c3e44882ad71ddf39d0a470e
+Type Spawn
+ID 64524
+
+Tables
+[
+	{
+		// CRY CPC Armored Vest (Vest Item)
+		Guid 8e90b390575b4444a0f20e8b2290073b
+		Weight 10
+	}
+	{
+		// CRY CPC Armored Vest (Vest Item)
+		Guid 3bebc883e2eb4a858ed25758d4827092
+		Weight 10
+	}
+	{
+		// CRY JPC 2.0 Armored Vest (Vest Item)
+		Guid d830ca0c87084ed9bb01ffd06f6c19ca
+		Weight 10
+	}
+]
