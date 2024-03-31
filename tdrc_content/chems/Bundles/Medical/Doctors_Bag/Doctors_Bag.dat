@@ -1,0 +1,14 @@
+GUID d979dca2201c43c9b421e93db666015f
+Type Medical
+Useable Consumeable
+Rarity Epic
+ID 48008
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Aid
+Bleeding
+Broken
+Health 50

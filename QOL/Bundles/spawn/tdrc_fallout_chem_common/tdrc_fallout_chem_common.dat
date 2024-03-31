@@ -1,0 +1,35 @@
+GUID 05f83857234b4f57930c66d8e15dbdb6
+Type Spawn
+ID 63703
+
+Roots
+[
+	{
+		Guid a0315de834224cc2ae1ecbae57ae5b0b
+		Weight 20
+	}
+]
+
+Tables
+[
+	{
+		//治疗针
+		LegacyAssetId 48000
+		Weight 50
+	}
+	{
+		//霸力丸
+		LegacyAssetId 48004
+		Weight 30
+	}	
+	{
+		//敏达
+		LegacyAssetId 48006
+		Weight 30
+	}
+	{
+		//MED-X
+		LegacyAssetId 48005
+		Weight 20
+	}		
+]

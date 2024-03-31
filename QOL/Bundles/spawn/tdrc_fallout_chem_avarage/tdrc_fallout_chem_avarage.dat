@@ -1,0 +1,35 @@
+GUID 4b82e110f05846abbce379891a49176d
+Type Spawn
+ID 63704
+
+Roots
+[
+	{
+		Guid c7e04ce428f244dba65a968731da680b
+		Weight 20
+	}
+]
+
+Tables
+[
+	{
+		//消辐宁
+		LegacyAssetId 48002
+		Weight 50
+	}
+	{
+		//抗辐宁
+		LegacyAssetId 48003
+		Weight 50
+	}	
+	{
+		//赛柯
+		LegacyAssetId 48009
+		Weight 50
+	}
+	{
+		//葡萄敏达
+		LegacyAssetId 48007
+		Weight 50
+	}		
+]

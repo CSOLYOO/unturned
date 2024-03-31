@@ -1,0 +1,45 @@
+GUID aec516f5453d479e84db7929363a0eb9
+Type Spawn
+ID 63702
+
+Roots
+[
+	{
+		Guid 3b6d9c2243f74e0c87dd52c47086122a
+		Weight 50
+	}
+]
+
+Tables
+[
+	{
+		//月光
+		LegacyAssetId 56855
+		Weight 5
+	}	
+	{
+		//伏特加
+		LegacyAssetId 56850
+		Weight 15
+	}	
+	{
+		//Pineapple 
+		LegacyAssetId 56852
+		Weight 50
+	}	
+	{
+		//Max energy
+		LegacyAssetId 56851
+		Weight 50
+	}			
+	{
+		//GREEN TEA
+		LegacyAssetId 56853
+		Weight 50
+	}	
+	{
+		//WATER
+		LegacyAssetId 56867
+		Weight 50
+	}			
+]

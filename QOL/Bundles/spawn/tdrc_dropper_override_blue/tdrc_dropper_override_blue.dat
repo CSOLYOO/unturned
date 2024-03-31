@@ -1,0 +1,24 @@
+GUID 5f6c180a47554acaa2b5f2fb57725df0
+Type Spawn
+ID 63549
+
+Roots
+[
+	{
+		Guid 932e65642df445ad8769b04f7c83e0c3
+		IsOverride 1
+	}
+]
+
+Tables
+[
+	{
+		Guid 3fa28910c030448fb5f8f2cebc121d59
+		Weight 100
+	}
+	{
+		Guid 52eaa9d1caac44af92d362e012c227c5
+		Weight 100
+	}
+	
+]

@@ -1,0 +1,45 @@
+GUID cb28244679554cd8a3b006c6170562c1
+Type Spawn
+ID 63700
+
+Roots
+[
+	{
+		Guid 3fa28910c030448fb5f8f2cebc121d59
+		Weight 40
+	}
+]
+
+Tables
+[
+	{
+		//士力架
+		LegacyAssetId 56865
+		Weight 75
+	}	
+	{
+		//饼干
+		LegacyAssetId 56847
+		Weight 75
+	}	
+	{
+		//面包
+		LegacyAssetId 56868
+		Weight 100
+	}	
+	{
+		//蛋黄酱
+		LegacyAssetId 56849
+		Weight 30
+	}		
+	{
+		//MRE
+		LegacyAssetId 56862
+		Weight 1
+	}	
+	{
+		//MRE 2
+		LegacyAssetId 56863
+		Weight 1
+	}				
+]

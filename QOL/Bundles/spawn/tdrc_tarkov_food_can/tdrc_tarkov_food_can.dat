@@ -1,0 +1,35 @@
+GUID e31fee6a7b1d4c5ea9c25baeccb04d53
+Type Spawn
+ID 63701
+
+Roots
+[
+	{
+		Guid 52eaa9d1caac44af92d362e012c227c5
+		Weight 40
+	}
+]
+
+Tables
+[
+	{
+		//炼乳
+		LegacyAssetId 56842
+		Weight 50
+	}	
+	{
+		//牛肉罐头
+		LegacyAssetId 56843
+		Weight 70
+	}	
+	{
+		//牛肉
+		LegacyAssetId 56844
+		Weight 35
+	}	
+	{
+		//豌豆
+		LegacyAssetId 56845
+		Weight 90
+	}			
+]

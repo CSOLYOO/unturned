@@ -1,0 +1,40 @@
+GUID 1d975c9c33b547b0a3e2c5d853dd6580
+Type Spawn
+ID 63705
+
+Roots
+[
+	{
+		Guid 8542d20b99004aa09ef5f15b780183a2
+		Weight 40
+	}
+]
+
+Tables
+[
+	{
+		//超级治疗
+		LegacyAssetId 48001
+		Weight 50
+	}
+	{
+		//医疗包
+		LegacyAssetId 48008
+		Weight 20
+	}	
+	{
+		//X-CELL
+		LegacyAssetId 48009
+		Weight 20
+	}
+	{
+		//JET
+		LegacyAssetId 48011
+		Weight 30
+	}		
+	{
+		//Elixer of Life
+		LegacyAssetId 48012
+		Weight 5
+	}	
+]

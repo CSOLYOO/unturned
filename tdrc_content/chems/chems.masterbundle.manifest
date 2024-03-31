@@ -1,0 +1,130 @@
+ManifestFileVersion: 0
+CRC: 3769891835
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 88b65b90eca7d623b1d051140c06b209
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 61460682da3422b847ecca3dca567413
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Chems/Bundles/Medical/RadX/RadX.png
+- Assets/Chems/Bundles/Medical/SuperStimpak/SuperStimpak 1.png
+- Assets/Chems/Bundles/Medical/SuperStimpak/SuperStimpak.png
+- Assets/Chems/Bundles/Medical/Psycho/Material.mat
+- Assets/Chems/Bundles/Medical/RadAway/RadAway.png
+- Assets/Chems/Bundles/Medical/Jet/Jet.png
+- Assets/Chems/Bundles/Medical/Buffout/Material.mat
+- Assets/Chems/Bundles/Medical/MedX/Item.prefab
+- Assets/Chems/Bundles/Medical/Elixer_Of_Life/Material.mat
+- Assets/Chems/Bundles/Medical/MedX/MedX.obj
+- Assets/Chems/Bundles/Medical/X-Cell/Animations.prefab
+- Assets/Chems/Bundles/Medical/Doctors_Bag/Medkit.fbx
+- Assets/Chems/Bundles/Medical/Mentats/Mentats.png
+- Assets/Chems/Bundles/Medical/Mentats_Grape/Material.mat
+- Assets/Chems/Bundles/Medical/Doctors_Bag/Animations.prefab
+- Assets/Chems/Bundles/Medical/Doctors_Bag/Item.prefab
+- Assets/Chems/Bundles/Medical/SuperStimpak/Vaccine.fbx
+- Assets/Chems/Bundles/Medical/X-Cell/XCell.obj
+- Assets/Chems/Bundles/Medical/Stimpak/Material.mat
+- Assets/Chems/Bundles/Medical/Doctors_Bag/Use.mp3
+- Assets/Chems/Bundles/Medical/Jet/Animations.prefab
+- Assets/Chems/Bundles/Medical/MedX/Use.wav
+- Assets/Chems/Bundles/Medical/Stimpak/Vaccine.fbx
+- Assets/Chems/Bundles/Medical/Mentats_Grape/Vaccine.fbx
+- Assets/Chems/Bundles/Medical/RadX/Material.mat
+- Assets/Chems/Bundles/Medical/RadAway/Animations.prefab
+- Assets/Chems/Bundles/Medical/RadAway/RadAway.obj
+- Assets/Chems/Bundles/Medical/Psycho/Item.prefab
+- Assets/Chems/Bundles/Medical/Buffout/Buffout.obj
+- Assets/Chems/Bundles/Medical/Mentats/Material.mat
+- Assets/Chems/Bundles/Medical/Psycho/Vaccine.fbx
+- Assets/Chems/Bundles/Medical/Buffout/Use.wav
+- Assets/Chems/Bundles/Medical/Mentats_Grape/Animations.prefab
+- Assets/Chems/Bundles/Medical/Jet/Item.prefab
+- Assets/Chems/Bundles/Medical/RadX/Pills.fbx
+- Assets/Chems/Bundles/Medical/Stimpak/Use.wav
+- Assets/Chems/Bundles/Medical/Buffout/Item.prefab
+- Assets/Chems/Bundles/Medical/Psycho/Psycho.obj
+- Assets/Chems/Bundles/Medical/RadX/RadX.obj
+- Assets/Chems/Bundles/Medical/RadAway/Item.prefab
+- Assets/Chems/Bundles/Medical/Elixer_Of_Life/ElixerOfLife.png
+- Assets/Chems/Bundles/Medical/X-Cell/Material.mat
+- Assets/Chems/Bundles/Medical/Elixer_Of_Life/Syrup.fbx
+- Assets/Chems/Bundles/Medical/RadX/Item.prefab
+- Assets/Chems/Bundles/Medical/Psycho/Animations.prefab
+- Assets/Chems/Bundles/Medical/Mentats/Animations.prefab
+- Assets/Chems/Bundles/Medical/RadAway/Vaccine.fbx
+- Assets/Chems/Bundles/Medical/Elixer_Of_Life/Use.wav
+- Assets/Chems/Bundles/Medical/SuperStimpak/SuperStimpak.obj
+- Assets/Chems/Bundles/Medical/MedX/Material.mat
+- Assets/Chems/Bundles/Medical/Buffout/Animations.prefab
+- Assets/Chems/Bundles/Medical/Mentats/Mentats.obj
+- Assets/Chems/Bundles/Medical/X-Cell/XCell.png
+- Assets/Chems/Bundles/Medical/X-Cell/Item.prefab
+- Assets/Chems/Bundles/Medical/Elixer_Of_Life/ElixerOfLife.obj
+- Assets/Chems/Bundles/Medical/Stimpak/Stimpak.obj
+- Assets/Chems/Bundles/Medical/Buffout/Buffout.png
+- Assets/Chems/Bundles/Medical/Mentats_Grape/GrapeMentats.png
+- Assets/Chems/Bundles/Medical/Stimpak/Animations.prefab
+- Assets/Chems/Bundles/Medical/Jet/Use.wav
+- Assets/Chems/Bundles/Medical/Mentats_Grape/Item.prefab
+- Assets/Chems/Bundles/Medical/Mentats/Use.wav
+- Assets/Chems/Bundles/Medical/Mentats_Grape/Use.wav
+- Assets/Chems/Bundles/Medical/Jet/Jet.obj
+- Assets/Chems/Bundles/Medical/Buffout/Pills.fbx
+- Assets/Chems/Bundles/Medical/Doctors_Bag/DoctorsBag.obj
+- Assets/Chems/Bundles/Medical/Elixer_Of_Life/Item.prefab
+- Assets/Chems/Bundles/Medical/SuperStimpak/Use.wav
+- Assets/Chems/Bundles/Medical/Stimpak/Item.prefab
+- Assets/Chems/Bundles/Medical/MedX/Vaccine.fbx
+- Assets/Chems/Bundles/Medical/Elixer_Of_Life/Animations.prefab
+- Assets/Chems/Bundles/Medical/MedX/MedX.png
+- Assets/Chems/Bundles/Medical/RadAway/Material.mat
+- Assets/Chems/Bundles/Medical/RadAway/Use.wav
+- Assets/Chems/Bundles/Medical/Mentats/Cronch.fbx
+- Assets/Chems/Bundles/Medical/Stimpak/Stimpak.png
+- Assets/Chems/Bundles/Medical/Psycho/Psycho.png
+- Assets/Chems/Bundles/Medical/SuperStimpak/Material.mat
+- Assets/Chems/Bundles/Medical/Stimpak/Stimpak 1.png
+- Assets/Chems/Bundles/Medical/MedX/Animations.prefab
+- Assets/Chems/Bundles/Medical/RadX/Use.wav
+- Assets/Chems/Bundles/Medical/Mentats_Grape/GrapeMentats.obj
+- Assets/Chems/Bundles/Medical/Psycho/Use.wav
+- Assets/Chems/Bundles/Medical/RadX/Animations.prefab
+- Assets/Chems/Bundles/Medical/Mentats/Item.prefab
+- Assets/Chems/Bundles/Medical/Doctors_Bag/Material.mat
+- Assets/Chems/Bundles/Medical/Doctors_Bag/DoctorsBag.png
+- Assets/Chems/Bundles/Medical/SuperStimpak/Item.prefab
+- Assets/Chems/Bundles/Medical/X-Cell/Use.wav
+- Assets/Chems/Bundles/Medical/SuperStimpak/Animations.prefab
+- Assets/Chems/Bundles/Medical/Jet/Material.mat
+Dependencies: []

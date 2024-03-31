@@ -1,0 +1,19 @@
+GUID a31e8d54542643e1bfdeaafe36734462
+Type Medical
+Useable Consumeable
+Rarity Epic
+ID 48010
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 20
+Stamina 20
+Food 20
+Water 20
+Disinfectant 20
+Oxygen 20
+Broken
+Bleeding
