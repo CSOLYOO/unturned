@@ -1,0 +1,36 @@
+GUID e405e64f10e042f7b138e795f196ff5e
+
+Type Storage
+Rarity Mythical
+Useable Barricade
+Build Storage
+ID 63547
+
+Size_X 4
+Size_Y 2
+Size_Z 0.7
+
+Locked
+
+Health 2000
+Range 3.8
+Radius 0.5
+Offset 1.01
+Armor_Tier High
+
+Storage_X 14
+Storage_Y 30
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 49101
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 28
+
+Explosion 28
+
+Exclude_From_Master_Bundle

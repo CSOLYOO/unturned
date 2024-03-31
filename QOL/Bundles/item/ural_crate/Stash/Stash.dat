@@ -1,0 +1,35 @@
+GUID c0e2353517aa43cdb7c0abbf5b12d1ef
+
+Type Storage
+Rarity Legendary
+Useable Barricade
+Build Storage
+ID 63545
+
+Size_X 3
+Size_Y 2
+Size_Z 0.8
+
+Locked
+
+Health 300
+Range 4
+Radius 0.5
+Offset 0.756
+Armor_Tier High
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 49101
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Tool 76
+Blueprint_0_Level 2
+Blueprint_0_Skill Craft
+Blueprint_0_Build 28
+
+Storage_X 14
+Storage_Y 30
+
+Explosion 28
+Exclude_From_Master_Bundle
