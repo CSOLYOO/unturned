@@ -3,7 +3,7 @@ GUID e1805c07d39b45f4b961367949fa48f7
 Type Supply
 ID 63509
 
-Blueprints 38
+Blueprints 61
 
 //收购畜牲
 Blueprint_0_Type Tool
@@ -446,6 +446,272 @@ Blueprint_37_Products 1
 Blueprint_37_Level 1
 Blueprint_37_Skill Craft
 Blueprint_37_Build 27
+
+//blood bag
+Blueprint_38_Type Tool
+Blueprint_38_Supplies 1
+Blueprint_38_Supply_0_ID 395
+Blueprint_38_Supply_0_Amount 1
+Blueprint_38_Tool 63523
+Blueprint_38_Product 1052
+Blueprint_38_Products 1
+Blueprint_38_Level 1
+Blueprint_38_Skill Craft
+Blueprint_38_Build 27
+
+//胶带
+Blueprint_39_Type Tool
+Blueprint_39_Supplies 1
+Blueprint_39_Supply_0_ID 49109
+Blueprint_39_Supply_0_Amount 2
+Blueprint_39_Tool 63523
+Blueprint_39_Product 1054
+Blueprint_39_Products 1
+Blueprint_39_Level 1
+Blueprint_39_Skill Craft
+Blueprint_39_Build 27
+
+//胶水
+Blueprint_40_Type Tool
+Blueprint_40_Supplies 1
+Blueprint_40_Supply_0_ID 49113
+Blueprint_40_Supply_0_Amount 2
+Blueprint_40_Tool 63523
+Blueprint_40_Product 1054
+Blueprint_40_Products 1
+Blueprint_40_Level 1
+Blueprint_40_Skill Craft
+Blueprint_40_Build 27
+
+//羊毛
+Blueprint_41_Type Tool
+Blueprint_41_Supplies 1
+Blueprint_41_Supply_0_ID 41118
+Blueprint_41_Supply_0_Amount 10
+Blueprint_41_Tool 63523
+Blueprint_41_Product 1053
+Blueprint_41_Products 2
+Blueprint_41_Level 1
+Blueprint_41_Skill Craft
+Blueprint_41_Build 27
+
+//Hammer Jack
+Blueprint_42_Type Tool
+Blueprint_42_Supplies 1
+Blueprint_42_Supply_0_ID 1475
+Blueprint_42_Supply_0_Amount 1
+Blueprint_42_Tool 63523
+Blueprint_42_Product 1052
+Blueprint_42_Products 1
+Blueprint_42_Level 1
+Blueprint_42_Skill Craft
+Blueprint_42_Build 27
+
+//发电机
+Blueprint_43_Type Tool
+Blueprint_43_Supplies 1
+Blueprint_43_Supply_0_ID 458
+Blueprint_43_Supply_0_Amount 1
+Blueprint_43_Tool 63523
+Blueprint_43_Product 1054
+Blueprint_43_Products 1
+Blueprint_43_Level 1
+Blueprint_43_Skill Craft
+Blueprint_43_Build 27
+
+//探照灯
+Blueprint_44_Type Tool
+Blueprint_44_Supplies 1
+Blueprint_44_Supply_0_ID 459
+Blueprint_44_Supply_0_Amount 5
+Blueprint_44_Tool 63523
+Blueprint_44_Product 1052
+Blueprint_44_Products 1
+Blueprint_44_Level 1
+Blueprint_44_Skill Craft
+Blueprint_44_Build 27
+
+//C4
+Blueprint_45_Type Tool
+Blueprint_45_Supplies 1
+Blueprint_45_Supply_0_ID 1241
+Blueprint_45_Supply_0_Amount 1
+Blueprint_45_Tool 63523
+Blueprint_45_Product 1053
+Blueprint_45_Products 1
+Blueprint_45_Level 1
+Blueprint_45_Skill Craft
+Blueprint_45_Build 27
+
+Blueprint_46_Type Tool
+Blueprint_46_Supplies 1
+Blueprint_46_Supply_0_ID 1393  
+Blueprint_46_Supply_0_Amount 1
+Blueprint_46_Tool 63523
+Blueprint_46_Product 1053
+Blueprint_46_Products 1
+Blueprint_46_Level 1
+Blueprint_46_Skill Craft
+Blueprint_46_Build 27
+
+//水产
+Blueprint_47_Type Tool
+Blueprint_47_Supplies 1
+Blueprint_47_Supply_0_ID 43109
+Blueprint_47_Supply_0_Amount 4
+Blueprint_47_Tool 63523
+Blueprint_47_Product 1052
+Blueprint_47_Products 1
+Blueprint_47_Level 1
+Blueprint_47_Skill Craft
+Blueprint_47_Build 27
+
+Blueprint_48_Type Tool
+Blueprint_48_Supplies 1
+Blueprint_48_Supply_0_ID 1349
+Blueprint_48_Supply_0_Amount 4
+Blueprint_48_Tool 63523
+Blueprint_48_Product 1052
+Blueprint_48_Products 1
+Blueprint_48_Level 1
+Blueprint_48_Skill Craft
+Blueprint_48_Build 27
+
+Blueprint_49_Type Tool
+Blueprint_49_Supplies 1
+Blueprint_49_Supply_0_ID 43107
+Blueprint_49_Supply_0_Amount 4
+Blueprint_49_Tool 63523
+Blueprint_49_Product 1052
+Blueprint_49_Products 1
+Blueprint_49_Level 1
+Blueprint_49_Skill Craft
+Blueprint_49_Build 27
+
+Blueprint_50_Type Tool
+Blueprint_50_Supplies 1
+Blueprint_50_Supply_0_ID 43132
+Blueprint_50_Supply_0_Amount 4
+Blueprint_50_Tool 63523
+Blueprint_50_Product 1052
+Blueprint_50_Products 1
+Blueprint_50_Level 1
+Blueprint_50_Skill Craft
+Blueprint_50_Build 27
+
+Blueprint_51_Type Tool
+Blueprint_51_Supplies 1
+Blueprint_51_Supply_0_ID 1347
+Blueprint_51_Supply_0_Amount 4
+Blueprint_51_Tool 63523
+Blueprint_51_Product 1052
+Blueprint_51_Products 1
+Blueprint_51_Level 1
+Blueprint_51_Skill Craft
+Blueprint_51_Build 27
+
+Blueprint_52_Type Tool
+Blueprint_52_Supplies 1
+Blueprint_52_Supply_0_ID 43117
+Blueprint_52_Supply_0_Amount 4
+Blueprint_52_Tool 63523
+Blueprint_52_Product 1053
+Blueprint_52_Products 1
+Blueprint_52_Level 1
+Blueprint_52_Skill Craft
+Blueprint_52_Build 27
+
+Blueprint_53_Type Tool
+Blueprint_53_Supplies 1
+Blueprint_53_Supply_0_ID 43130
+Blueprint_53_Supply_0_Amount 4
+Blueprint_53_Tool 63523
+Blueprint_53_Product 1053
+Blueprint_53_Products 1
+Blueprint_53_Level 1
+Blueprint_53_Skill Craft
+Blueprint_53_Build 27
+
+Blueprint_54_Type Tool
+Blueprint_54_Supplies 1
+Blueprint_54_Supply_0_ID 504
+Blueprint_54_Supply_0_Amount 4
+Blueprint_54_Tool 63523
+Blueprint_54_Product 1053
+Blueprint_54_Products 1
+Blueprint_54_Level 1
+Blueprint_54_Skill Craft
+Blueprint_54_Build 27
+
+Blueprint_55_Type Tool
+Blueprint_55_Supplies 1
+Blueprint_55_Supply_0_ID 43105
+Blueprint_55_Supply_0_Amount 4
+Blueprint_55_Tool 63523
+Blueprint_55_Product 1053
+Blueprint_55_Products 1
+Blueprint_55_Level 1
+Blueprint_55_Skill Craft
+Blueprint_55_Build 27
+
+Blueprint_56_Type Tool
+Blueprint_56_Supplies 1
+Blueprint_56_Supply_0_ID 505
+Blueprint_56_Supply_0_Amount 4
+Blueprint_56_Tool 63523
+Blueprint_56_Product 1053
+Blueprint_56_Products 1
+Blueprint_56_Level 1
+Blueprint_56_Skill Craft
+Blueprint_56_Build 27
+
+Blueprint_57_Type Tool
+Blueprint_57_Supplies 1
+Blueprint_57_Supply_0_ID 43115
+Blueprint_57_Supply_0_Amount 1
+Blueprint_57_Tool 63523
+Blueprint_57_Product 1052
+Blueprint_57_Products 1
+Blueprint_57_Level 1
+Blueprint_57_Skill Craft
+Blueprint_57_Build 27
+
+Blueprint_58_Type Tool
+Blueprint_58_Supplies 1
+Blueprint_58_Supply_0_ID 1351
+Blueprint_58_Supply_0_Amount 1
+Blueprint_58_Tool 63523
+Blueprint_58_Product 1052
+Blueprint_58_Products 1
+Blueprint_58_Level 1
+Blueprint_58_Skill Craft
+Blueprint_58_Build 27
+
+Blueprint_59_Type Tool
+Blueprint_59_Supplies 1
+Blueprint_59_Supply_0_ID 1434
+Blueprint_59_Supply_0_Amount 1
+Blueprint_59_Tool 63523
+Blueprint_59_Product 1054
+Blueprint_59_Products 1
+Blueprint_59_Level 1
+Blueprint_59_Skill Craft
+Blueprint_59_Build 27
+
+//哈基米
+Blueprint_60_Type Tool
+Blueprint_60_Supplies 1
+Blueprint_60_Supply_0_ID 42188
+Blueprint_60_Supply_0_Amount 5
+Blueprint_60_Tool 63523
+Blueprint_60_Product 1054
+Blueprint_60_Products 1
+Blueprint_60_Level 1
+Blueprint_60_Skill Craft
+Blueprint_60_Build 27
+
+
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack

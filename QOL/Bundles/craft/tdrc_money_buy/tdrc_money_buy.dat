@@ -3,7 +3,7 @@ GUID 2d15c31232bf4c5ba5af8034f9026a04
 Type Supply
 ID 63510
 
-Blueprints 35
+Blueprints 36
 
 //军用弹鼓
 Blueprint_0_Type Gear
@@ -443,10 +443,10 @@ Blueprint_34_Build 27
 
 Blueprint_35_Type Gear
 Blueprint_35_Supplies 1
-Blueprint_35_Supply_0_ID 1055
+Blueprint_35_Supply_0_ID 1054
 Blueprint_35_Supply_0_Amount 1
 Blueprint_35_Tool 63522
-Blueprint_35_Product 99
+Blueprint_35_Product 1030
 Blueprint_35_Products 1
 Blueprint_35_Level 1
 Blueprint_35_Skill Craft

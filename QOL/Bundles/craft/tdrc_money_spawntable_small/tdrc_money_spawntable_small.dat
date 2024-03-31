@@ -13,19 +13,23 @@ Roots
 Tables
 [
 	{
-		LegacyAssetId 1056
-		Weight 80
+		LegacyAssetId 67
+		Weight 500
 	}
 	{
-		LegacyAssetId 1057
-		Weight 40
+		LegacyAssetId 285
+		Weight 200
 	}
 	{
-		LegacyAssetId 1051
+		LegacyAssetId 72
+		Weight 30
+	}
+	{
+		LegacyAssetId 65
 		Weight 20
-	}
+	}	
 	{
 		LegacyAssetId 1052
-		Weight 5
+		Weight 10
 	}
 ]

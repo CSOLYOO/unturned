@@ -1,0 +1,23 @@
+GUID 3963b632460d415bbd517a8205296df4
+Type Spawn
+ID 63548
+
+Roots
+[
+	{
+		Guid d887ade0a5654498bb91f4946185f2a2
+		IsOverride 1
+	}
+]
+
+Tables
+[
+	{
+		LegacyAssetId 80
+		Weight 75
+	}
+	{
+		LegacyAssetId 472
+		Weight 25
+	}
+]

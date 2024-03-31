@@ -3,7 +3,7 @@ GUID 55f7abd5a3834a64bb87ee265b20bd13
 Type Supply
 ID 63505
 
-Blueprints 12
+Blueprints 21
 
 //信号枪弹药反向合成
 
@@ -158,6 +158,154 @@ Blueprint_11_Tool 1030
 Blueprint_11_Level 2
 Blueprint_11_Skill Cook
 Blueprint_11_Build 27
+
+//水桶
+Blueprint_12_Type Supply
+Blueprint_12_Supplies 1
+Blueprint_12_Supply_0_ID 72
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Product 43111
+Blueprint_12_Products 10
+Blueprint_12_Tool 43102
+Blueprint_12_Level 2
+Blueprint_12_Skill Craft
+Blueprint_12_Build 27
+
+//培根罐头合成
+Blueprint_13_Type Supply
+Blueprint_13_Supplies 2
+Blueprint_13_Supply_0_ID 72
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Supply_1_ID 41176
+Blueprint_13_Supply_1_Amount 2
+Blueprint_13_Product 88
+Blueprint_13_Products 4
+Blueprint_13_Tool 1030
+Blueprint_13_Level 2
+Blueprint_13_Skill Cook
+Blueprint_13_Build 27
+
+//明胶 胶水合成
+Blueprint_14_Type Supply
+Blueprint_14_Supplies 1
+Blueprint_14_Supply_0_ID 41143
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Supply_1_ID 14
+Blueprint_14_Supply_1_Amount 1
+Blueprint_14_Supply_2_ID 1162
+Blueprint_14_Supply_2_Amount 1
+Blueprint_14_Product 70
+Blueprint_14_Products 5
+Blueprint_14_Tool 1030
+Blueprint_14_Level 2
+Blueprint_14_Skill Cook
+Blueprint_14_Build 27
+
+//继续罐头合成
+//意大利面
+Blueprint_14_Type Supply
+Blueprint_14_Supplies 3
+Blueprint_14_Supply_0_ID 72
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Supply_1_ID 42305
+Blueprint_14_Supply_1_Amount 3
+Blueprint_14_Supply_2_ID 340
+Blueprint_14_Supply_2_Amount 1
+Blueprint_14_Product 87
+Blueprint_14_Products 4
+Blueprint_14_Tool 1030
+Blueprint_14_Level 2
+Blueprint_14_Skill Cook
+Blueprint_14_Build 27
+
+//番茄汤
+Blueprint_15_Type Supply
+Blueprint_15_Supplies 3
+Blueprint_15_Supply_0_ID 72
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Supply_1_ID 340
+Blueprint_15_Supply_1_Amount 4
+Blueprint_15_Supply_2_ID 14
+Blueprint_15_Supply_2_Amount 1
+Blueprint_15_Product 77
+Blueprint_15_Products 4
+Blueprint_15_Tool 1030
+Blueprint_15_Level 2
+Blueprint_15_Skill Cook
+Blueprint_15_Build 27
+
+//鸡汤
+Blueprint_16_Type Supply
+Blueprint_16_Supplies 2
+Blueprint_16_Supply_0_ID 72
+Blueprint_16_Supply_0_Amount 1
+Blueprint_16_Supply_1_ID 41121
+Blueprint_16_Supply_1_Amount 1
+Blueprint_16_Supply_2_ID 41102
+Blueprint_16_Supply_2_Amount 1
+Blueprint_16_Product 78
+Blueprint_16_Products 4
+Blueprint_16_Tool 1030
+Blueprint_16_Level 2
+Blueprint_16_Skill Cook
+Blueprint_16_Build 27
+
+//牛肉
+Blueprint_17_Type Supply
+Blueprint_17_Supplies 2
+Blueprint_17_Supply_0_ID 72
+Blueprint_17_Supply_0_Amount 1
+Blueprint_17_Supply_1_ID 1121
+Blueprint_17_Supply_1_Amount 4
+Blueprint_17_Product 89
+Blueprint_17_Products 4
+Blueprint_17_Tool 1030
+Blueprint_17_Level 2
+Blueprint_17_Skill Cook
+Blueprint_17_Build 27
+
+//猪肉
+Blueprint_18_Type Supply
+Blueprint_18_Supplies 2
+Blueprint_18_Supply_0_ID 72
+Blueprint_18_Supply_0_Amount 1
+Blueprint_18_Supply_1_ID 1117
+Blueprint_18_Supply_1_Amount 4
+Blueprint_18_Product 469
+Blueprint_18_Products 4
+Blueprint_18_Tool 1030
+Blueprint_18_Level 2
+Blueprint_18_Skill Cook
+Blueprint_18_Build 27
+
+//沙丁鱼
+Blueprint_19_Type Supply
+Blueprint_19_Supplies 2
+Blueprint_19_Supply_0_ID 72
+Blueprint_19_Supply_0_Amount 1
+Blueprint_19_Supply_1_ID 43110
+Blueprint_19_Supply_1_Amount 4
+Blueprint_19_Product 90
+Blueprint_19_Products 4
+Blueprint_19_Tool 1030
+Blueprint_19_Level 2
+Blueprint_19_Skill Cook
+Blueprint_19_Build 27
+
+//袋装薯条
+Blueprint_20_Type Supply
+Blueprint_20_Supplies 2
+Blueprint_20_Supply_0_ID 66
+Blueprint_20_Supply_0_Amount 5
+Blueprint_20_Supply_1_ID 42130
+Blueprint_20_Supply_1_Amount 3
+Blueprint_20_Product 82
+Blueprint_20_Products 4
+Blueprint_20_Tool 1030
+Blueprint_20_Level 2
+Blueprint_20_Skill Cook
+Blueprint_20_Build 27
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack
