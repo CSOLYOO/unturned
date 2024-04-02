@@ -1,0 +1,192 @@
+ManifestFileVersion: 0
+CRC: 623393918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3e3be044dece75280867defa289be3a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8c9f6e54f2035e46b7fa8731bd1b07fa
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Camping mod/Gas Stove/Animations.prefab
+- Assets/Camping mod/Tent Blue/Animations.prefab
+- Assets/Camping mod/Cooler/Use.prefab
+- Assets/Camping mod/Roam Box Black/Clip.prefab
+- Assets/Camping mod/Lantern Black/camping2.fbx
+- Assets/Camping mod/Lantern Black 1/Barricade.prefab
+- Assets/Camping mod/Tackle Box/Nav.prefab
+- Assets/Camping mod/Lantern Black/Use.prefab
+- Assets/Camping mod/Tent White/Item.prefab
+- Assets/Camping mod/Tent Green/Item.prefab
+- Assets/Camping mod/Campfire/Clip.prefab
+- Assets/Camping mod/Tent Blue/Clip.prefab
+- Assets/Camping mod/Yeti Box Black/Use.prefab
+- Assets/Camping mod/Campfire Grill/Animations.prefab
+- Assets/Camping mod/Palettecouleur.mat
+- Assets/Camping mod/Lantern Black/Item.prefab
+- Assets/Camping mod/Roam Box Green/Nav.prefab
+- Assets/Camping mod/Roam Box Black/Barricade.prefab
+- Assets/Camping mod/Roam Box Green/Barricade.prefab
+- Assets/Camping mod/Campfire Grill/Use.prefab
+- Assets/Camping mod/Tackle Box/Clip.prefab
+- Assets/Camping mod/Lantern Black/Clip.prefab
+- Assets/Camping mod/Tent Red/Clip.prefab
+- Assets/Camping mod/Tent Yellow/Clip.prefab
+- Assets/Camping mod/Gas Stove/Campfire.prefab
+- Assets/Camping mod/Lantern Red/Barricade.prefab
+- Assets/Camping mod/Tent Blue/Item.prefab
+- Assets/Camping mod/Campfire Grill/Barricade.prefab
+- Assets/Camping mod/Campfire/Barricade.prefab
+- Assets/Camping mod/Yeti Box Black/Barricade.prefab
+- Assets/Camping mod/camping.fbx
+- Assets/Camping mod/Lantern Black 1/Clip.prefab
+- Assets/Camping mod/Roam Box Green/Item.prefab
+- Assets/Camping mod/Cooler/Animations.prefab
+- Assets/Camping mod/Tent Yellow/Animations.prefab
+- Assets/Camping mod/Tent Red/Item.prefab
+- Assets/Camping mod/Yeti Box Grey/Animations.prefab
+- Assets/Camping mod/Tent Blue/Use.prefab
+- Assets/Camping mod/Campfire Grill/Campfire.prefab
+- Assets/Camping mod/Lantern Red/Item.prefab
+- Assets/Camping mod/Lantern Black 1/Use.prefab
+- Assets/Camping mod/Lantern Red 1/Item.prefab
+- Assets/Camping mod/Roam Box Black/Animations.prefab
+- Assets/Camping mod/Tackle Box/Animations.prefab
+- Assets/Camping mod/Tool Box/Use.prefab
+- Assets/Camping mod/Lantern Black/Animations.prefab
+- Assets/Camping mod/Tent White/Use.prefab
+- Assets/Camping mod/Roam Box Black/Use.prefab
+- Assets/Camping mod/Tent White/Barricade.prefab
+- Assets/Camping mod/Lantern Red 1/Animations.prefab
+- Assets/Camping mod/Yeti Box Black/Clip.prefab
+- Assets/Camping mod/Tool Box/Clip.prefab
+- Assets/Camping mod/Tent Orange/Clip.prefab
+- Assets/Camping mod/Tool Box/Item.prefab
+- Assets/Camping mod/Tent Blue/Nav.prefab
+- Assets/Camping mod/Gas Stove/Use.prefab
+- Assets/Camping mod/Campfire/Use.prefab
+- Assets/Camping mod/Lantern Red 1/Use.prefab
+- Assets/Camping mod/Roam Box Green/Animations.prefab
+- Assets/Camping mod/Tent Blue/Barricade.prefab
+- Assets/Camping mod/Campfire/Item.prefab
+- Assets/Camping mod/Cooler/Clip.prefab
+- Assets/Camping mod/Lantern Red/Clip.prefab
+- Assets/Camping mod/Tent Purple/Clip.prefab
+- Assets/Camping mod/Tent Green/Nav.prefab
+- Assets/Camping mod/Tent Green/Use.prefab
+- Assets/Camping mod/Lantern Black 1/Nav.prefab
+- Assets/Camping mod/Lantern Red 1/Clip.prefab
+- Assets/Camping mod/Cooler/Nav.prefab
+- Assets/Camping mod/Tent Black/Clip.prefab
+- Assets/Camping mod/Palettecouleur.png
+- Assets/Camping mod/Roam Box Green/Clip.prefab
+- Assets/Camping mod/Yeti Box Grey/Nav.prefab
+- Assets/Camping mod/Roam Box Green/H4XZMzGo 1.png
+- Assets/Camping mod/Roam Box Black/Item.prefab
+- Assets/Camping mod/Tackle Box/Barricade.prefab
+- Assets/Camping mod/Tent Red/Use.prefab
+- Assets/Camping mod/Lantern Black 1/Animations.prefab
+- Assets/Camping mod/Tent White/Clip.prefab
+- Assets/Camping mod/Tackle Box/Use.prefab
+- Assets/Camping mod/Lantern Red/Use.prefab
+- Assets/Camping mod/Yeti Box Grey/Item.prefab
+- Assets/Camping mod/Tent Green/Animations.prefab
+- Assets/Camping mod/Lantern Black/Nav.prefab
+- Assets/Camping mod/Yeti Box Grey/Use.prefab
+- Assets/Camping mod/Tent Black/Use.prefab
+- Assets/Camping mod/Roam Box Black/Nav.prefab
+- Assets/Camping mod/Lantern Black 1/Item.prefab
+- Assets/Camping mod/Cooler/Item.prefab
+- Assets/Camping mod/Tent Yellow/Nav.prefab
+- Assets/Camping mod/Tent Purple/Use.prefab
+- Assets/Camping mod/Tent Red/Barricade.prefab
+- Assets/Camping mod/Tent Orange/Item.prefab
+- Assets/Camping mod/Tackle Box/Item.prefab
+- Assets/Camping mod/Lantern Red/Nav.prefab
+- Assets/Camping mod/Yeti Box Grey/Clip.prefab
+- Assets/Camping mod/Tent Orange/Animations.prefab
+- Assets/Camping mod/Tent Purple/Item.prefab
+- Assets/Camping mod/Tent Yellow/Barricade.prefab
+- Assets/Camping mod/Tent White/Nav.prefab
+- Assets/Camping mod/Tent Red/Nav.prefab
+- Assets/Camping mod/Tent Orange/Barricade.prefab
+- Assets/Camping mod/Tent Black/Animations.prefab
+- Assets/Camping mod/Campfire Grill/Item.prefab
+- Assets/Camping mod/Tent Black/Barricade.prefab
+- Assets/Camping mod/Tent Yellow/Item.prefab
+- Assets/Camping mod/Tent Red/Animations.prefab
+- Assets/Camping mod/Lantern Red/Animations.prefab
+- Assets/Camping mod/Tent Purple/Barricade.prefab
+- Assets/Camping mod/Yeti Box Black/Nav.prefab
+- Assets/Camping mod/Campfire Grill/Clip.prefab
+- Assets/Camping mod/Tool Box/Barricade.prefab
+- Assets/Camping mod/Tent Orange/Nav.prefab
+- Assets/Camping mod/Gas Stove/Barricade.prefab
+- Assets/Camping mod/Gas Stove/Item.prefab
+- Assets/Camping mod/Tent Black/Nav.prefab
+- Assets/Camping mod/camping1.fbx
+- Assets/Camping mod/Tent White/Animations.prefab
+- Assets/Camping mod/Lantern Black/Barricade.prefab
+- Assets/Camping mod/Roam Box Green/H4XZMzGo 1.mat
+- Assets/Camping mod/Roam Box Green/Use.prefab
+- Assets/Camping mod/Tent Green/Barricade.prefab
+- Assets/Camping mod/Yeti Box Black/Item.prefab
+- Assets/Camping mod/Tent Yellow/Use.prefab
+- Assets/Camping mod/Tool Box/Nav.prefab
+- Assets/Camping mod/Tent Green/Clip.prefab
+- Assets/Camping mod/Campfire/Animations.prefab
+- Assets/Camping mod/Gas Stove/Clip.prefab
+- Assets/Camping mod/Yeti Box Grey/Barricade.prefab
+- Assets/Camping mod/Tool Box/Animations.prefab
+- Assets/Camping mod/Tent Black/Item.prefab
+- Assets/Camping mod/Lantern Red 1/Nav.prefab
+- Assets/Camping mod/Lantern Black/Palettecouleur 1.mat
+- Assets/Camping mod/Yeti Box Black/Animations.prefab
+- Assets/Camping mod/Lantern Red 1/Barricade.prefab
+- Assets/Camping mod/Cooler/Barricade.prefab
+- Assets/Camping mod/Tent Purple/Animations.prefab
+- Assets/Camping mod/Tent Orange/Use.prefab
+- Assets/Camping mod/Tent Purple/Nav.prefab
+- Assets/Camping mod/Campfire/Campfire.prefab
+Dependencies: []

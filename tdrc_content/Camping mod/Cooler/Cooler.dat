@@ -1,0 +1,30 @@
+GUID 33fb88ff568149dea4899c38bb0acc77
+Type Storage
+Rarity Uncommon
+Useable Barricade
+Build Storage
+ID 64602
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 200
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 14
+Storage_Y 14
+Blueprints 1
+
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1283  
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+
+Explosion 19
+
+Should_Close_When_Outside_Range true
