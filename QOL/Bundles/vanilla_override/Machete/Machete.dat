@@ -1,21 +1,20 @@
-GUID fb09ababbe39422c95ae74dc7b8f0cf6
-
-
+GUID cbe683e0c03f44e98fcce2671c117879
 Type Melee
 Rarity Rare
 Useable Melee
 Slot Any
-ID 63906
-
+Bypass_ID_Limit
+ID 1035
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Items\Melee\Machete
 Size_X 1
-Size_Y 2
-Size_Z 0.55
-Size2_Z 0.4
+Size_Y 3
+Size_Z 0.7
+Size2_Z 0.5
 
-Range 2.0
-Strength 3.0
+Range 2.25
+Strength 1.5
 Weak 0.44
-Strong 0.5
 Stamina 15
 
 Player_Damage 34
@@ -28,7 +27,7 @@ Zombie_Damage 34
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 1.8
+Zombie_Skull_Multiplier 1.1
 
 Animal_Damage 34
 Animal_Leg_Multiplier 0.3
@@ -37,32 +36,21 @@ Animal_Skull_Multiplier 1.1
 
 Barricade_Damage 2
 Structure_Damage 2
-Vehicle_Damage 5
-Resource_Damage 5
-Object_Damage 10
+Vehicle_Damage 15
+Resource_Damage 40
+Object_Damage 15
 
 Durability 0.2
 
-Blueprints 3
+Blueprints 2
 Blueprint_0_Type Repair
 Blueprint_0_Supply_0_ID 67
-Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Amount 4
 Blueprint_0_Build 27
-
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 121
-Blueprint_1_Product 63906
-Blueprint_1_Products 1
+Blueprint_1_Supply_0_ID 1035
+Blueprint_1_Product 67
+Blueprint_1_Products 3
 Blueprint_1_Build 27
-
-Blueprint_2_Type Tool
-Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 63906
-Blueprint_2_Product 67
-Blueprint_2_Products 2
-Blueprint_2_Build 27
-
-
-
-Asset_Bundler_Version 2
+AttackAudioClip Sounds/MeleeAttack_02.mp3

@@ -1,68 +1,57 @@
-GUID fb09ababbe39422c95ae74dc7b8f0cf6
-
-
+GUID 171ade409eef4c0c8da7cfbddfaf9e94
 Type Melee
 Rarity Rare
 Useable Melee
 Slot Any
-ID 63906
-
+Bypass_ID_Limit
+ID 140
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Items\Melee\Knife_Butterfly
 Size_X 1
 Size_Y 2
 Size_Z 0.55
 Size2_Z 0.4
 
-Range 2.0
-Strength 3.0
-Weak 0.44
-Strong 0.5
-Stamina 15
+Range 1.75
+Strength 1.5
+Weak 0.37
+Strong 0.37
+Stamina 10
 
-Player_Damage 34
+Player_Damage 50
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 
-Zombie_Damage 34
+Zombie_Damage 50
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 1.8
+Zombie_Skull_Multiplier 1.1
 
-Animal_Damage 34
+Animal_Damage 50
 Animal_Leg_Multiplier 0.3
 Animal_Spine_Multiplier 0.6
 Animal_Skull_Multiplier 1.1
 
 Barricade_Damage 2
 Structure_Damage 2
-Vehicle_Damage 5
-Resource_Damage 5
-Object_Damage 10
+Vehicle_Damage 15
+Resource_Damage 25
+Object_Damage 15
 
-Durability 0.2
+Durability 0.175
 
-Blueprints 3
+Blueprints 2
 Blueprint_0_Type Repair
 Blueprint_0_Supply_0_ID 67
-Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
-
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 121
-Blueprint_1_Product 63906
-Blueprint_1_Products 1
+Blueprint_1_Supply_0_ID 140
+Blueprint_1_Product 67
+Blueprint_1_Products 2
 Blueprint_1_Build 27
-
-Blueprint_2_Type Tool
-Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 63906
-Blueprint_2_Product 67
-Blueprint_2_Products 2
-Blueprint_2_Build 27
-
-
-
-Asset_Bundler_Version 2
+AttackAudioClip Sounds/MeleeAttack_02.mp3

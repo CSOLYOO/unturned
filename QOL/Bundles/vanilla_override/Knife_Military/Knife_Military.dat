@@ -1,12 +1,12 @@
-GUID fb09ababbe39422c95ae74dc7b8f0cf6
-
-
+GUID 47097f72d56c4bfb83bb8947e66396d5
 Type Melee
 Rarity Rare
 Useable Melee
 Slot Any
-ID 63906
-
+Bypass_ID_Limit
+ID 121
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Items\Melee\Knife_Military
 Size_X 1
 Size_Y 2
 Size_Z 0.55
@@ -43,26 +43,15 @@ Object_Damage 10
 
 Durability 0.2
 
-Blueprints 3
+Blueprints 2
 Blueprint_0_Type Repair
 Blueprint_0_Supply_0_ID 67
-Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
-
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
 Blueprint_1_Supply_0_ID 121
-Blueprint_1_Product 63906
-Blueprint_1_Products 1
+Blueprint_1_Product 67
+Blueprint_1_Products 2
 Blueprint_1_Build 27
-
-Blueprint_2_Type Tool
-Blueprint_2_Supplies 1
-Blueprint_2_Supply_0_ID 63906
-Blueprint_2_Product 67
-Blueprint_2_Products 2
-Blueprint_2_Build 27
-
-
-
-Asset_Bundler_Version 2
+AttackAudioClip Sounds/MeleeAttack_02.mp3
