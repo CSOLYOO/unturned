@@ -1,0 +1,20 @@
+GUID 177d8e0653334c199b6dcd9340184df4
+Type Supply
+ID 14702
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 330
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14702
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 330
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27

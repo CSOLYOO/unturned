@@ -1,0 +1,20 @@
+GUID 2e79c531f46f42e3b651406e20c4af1e
+Type Supply
+ID 14738
+
+Size_X 2
+Size_Y 2
+Size_Z 0.8
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 57196
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 14738
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 57196
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
