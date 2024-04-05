@@ -6,7 +6,7 @@ Roots
 [
 	{
 		Guid c7e04ce428f244dba65a968731da680b
-		Weight 20
+		Weight 50
 	}
 ]
 
@@ -32,4 +32,39 @@ Tables
 		LegacyAssetId 48007
 		Weight 50
 	}		
+	{
+		//汽车急救包
+		LegacyAssetId 37065
+		Weight 50
+	}	
+	{
+		//IFAK
+		LegacyAssetId 37069
+		Weight 30
+	}	
+	{
+		//夹板
+		LegacyAssetId 37083
+		Weight 20
+	}	
+	{
+		//针
+		LegacyAssetId 37045
+		Weight 5
+	}	
+	{
+		//针
+		LegacyAssetId 37044
+		Weight 5
+	}	
+	{
+		//针
+		LegacyAssetId 37046
+		Weight 5
+	}	
+	{
+		//针
+		LegacyAssetId 37047
+		Weight 5
+	}				
 ]

@@ -13,14 +13,29 @@ Roots
 Tables
 [
 	{
+		//SALEWA
+		LegacyAssetId 37088
+		Weight 20
+	}	
+	{
 		//超级治疗
 		LegacyAssetId 48001
 		Weight 50
 	}
 	{
+		//金星
+		LegacyAssetId 37078
+		Weight 30
+	}	
+	{
 		//医疗包
 		LegacyAssetId 48008
 		Weight 20
+	}	
+	{
+		//熊包
+		LegacyAssetId 37184
+		Weight 10
 	}	
 	{
 		//X-CELL

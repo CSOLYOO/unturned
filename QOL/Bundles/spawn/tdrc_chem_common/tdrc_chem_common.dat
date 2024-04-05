@@ -6,7 +6,7 @@ Roots
 [
 	{
 		Guid a0315de834224cc2ae1ecbae57ae5b0b
-		Weight 20
+		Weight 50
 	}
 ]
 
@@ -31,5 +31,40 @@ Tables
 		//MED-X
 		LegacyAssetId 48005
 		Weight 20
+	}
+	{
+		//Aseptic Bandage
+		LegacyAssetId 37072
+		Weight 50
+	}
+	{	
+		//军队绷带
+		LegacyAssetId 37073
+		Weight 30
+	}	
+	{
+		//AI-2
+		LegacyAssetId 37075
+		Weight 15
 	}		
+	{
+		//止痛药
+		LegacyAssetId 37040
+		Weight 10
+	}
+	{
+		//止痛药
+		LegacyAssetId 37062
+		Weight 5
+	}	
+	{
+		//止痛药
+		LegacyAssetId 37070
+		Weight 10
+	}		
+	{
+		//夹板
+		LegacyAssetId 37071
+		Weight 10
+	}
 ]
