@@ -1,0 +1,25 @@
+GUID dd4b6e86d0ea4602a7f218333c65f079
+Type Medical
+Rarity Rare
+Useable Consumeable
+ID 26407
+
+Size_X 1
+Size_Y 1
+Size_Z 0.0082
+
+Disinfectant 5
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 26406
+Quest_Reward_0_Amount 1
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 26406
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 9
+
+Use_Auto_Icon_Measurements False

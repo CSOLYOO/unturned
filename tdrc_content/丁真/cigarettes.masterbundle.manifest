@@ -1,0 +1,106 @@
+ManifestFileVersion: 0
+CRC: 1730452985
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 85a1d6b06df2b2e327dc2f06663feaa8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 89538542d8945b0ccbd11bc722df1282
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/cigarettes/Items/Cigarettes/Turtles3/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Turtles1/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Caracal2/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Caracal1/Item.prefab
+- Assets/cigarettes/Items/Cigars/Makeshift/Item.prefab
+- Assets/cigarettes/Items/Masks/Cigar/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Caracal2/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel2/Animations.prefab
+- Assets/cigarettes/Items/Tobacco/Tobacco Plant/Item.prefab
+- Assets/cigarettes/Items/Masks/Cigar/Animations.prefab
+- Assets/cigarettes/Items/Cigars/TopG/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Turtles1/Item.prefab
+- Assets/cigarettes/Items/Tobacco/Tobacco Seed/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Turtles2/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Caracal3/Use.mp3
+- Assets/cigarettes/Items/Masks/Cigar/Mask.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel2/Use.mp3
+- Assets/cigarettes/Items/Cigars/Makeshift/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Caracal1/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Camel2/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel3/Use.mp3
+- Assets/cigarettes/Items/Masks/Lit Cigarette/Mask.prefab
+- Assets/cigarettes/Items/Tobacco/Tobacco Seed/Barricade.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel3/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Single Cigarette/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel1/Animations.prefab
+- Assets/cigarettes/Items/Masks/Lit Cigarette/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Turtles3/Use.mp3
+- Assets/cigarettes/Items/Cigars/TopG/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel1/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Caracal3/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel1/Item.prefab
+- Assets/cigarettes/Items/Masks/Cigarette/Animations.prefab
+- Assets/cigarettes/Items/Tobacco/Tobacco Seed/Animations.prefab
+- Assets/cigarettes/Items/Cigars/Makeshift/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Turtles2/Item.prefab
+- Assets/cigarettes/Items/Masks/Lit Cigar/Mask.prefab
+- Assets/cigarettes/Items/Cigarettes/Caracal2/Animations.prefab
+- Assets/cigarettes/Items/Tobacco/Tobacco Leaves/Item.prefab
+- Assets/cigarettes/Items/Cigars/TopG/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Single Cigarette/Use.mp3
+- Assets/cigarettes/Items/Cigarettes/Turtles2/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Caracal1/Animations.prefab
+- Assets/cigarettes/Items/Masks/Lit Cigarette/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Camel3/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Turtles3/Animations.prefab
+- Assets/cigarettes/Items/Masks/Lit Cigar/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Single Cigarette/Item.prefab
+- Assets/cigarettes/Items/Cigarettes/Turtles1/Animations.prefab
+- Assets/cigarettes/Items/Cigarettes/Caracal3/Animations.prefab
+- Assets/cigarettes/Items/Masks/Cigarette/Mask.prefab
+- Assets/cigarettes/Items/Masks/Lit Cigar/Item.prefab
+- Assets/cigarettes/Items/Masks/Cigarette/Item.prefab
+Dependencies: []

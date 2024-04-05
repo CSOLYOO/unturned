@@ -1,0 +1,28 @@
+GUID 11303a948af948fab7655c459f3b90a5
+Type Farm
+Rarity Epic
+Useable Barricade
+Build Farm
+ID 26412
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Health 1
+Range 4
+Radius 0.35
+Offset 0.39
+
+Growth 1500
+Grow 26413
+
+Explosion 43
+Vulnerable
+
+Unpickupable
+Unrepairable
+
+Asset_Bundle_Version 3
+
+Has_Clip_Prefab false

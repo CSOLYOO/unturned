@@ -1,0 +1,15 @@
+GUID 52ba62c9643d4281afdfedccd63f2d4c
+Type Spawn
+ID 26402
+
+Tables 2
+Table_0_Asset_ID 26410
+Table_0_Weight 1
+Table_1_Asset_ID 26411
+Table_1_Weight 9
+
+Roots 2
+Root_0_Spawn_ID 580
+Root_0_Weight 20
+Root_1_Spawn_ID 233
+Root_1_Weight 100
