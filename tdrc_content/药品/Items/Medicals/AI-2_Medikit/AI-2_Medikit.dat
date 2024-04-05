@@ -1,0 +1,17 @@
+GUID 1fbb8ce084e2447db4bf42776d0859b3
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37185
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Health 25
+
+Should_Delete_After_Use false
+
+Amount 3
+Count_Min 3
+Count_Max 3

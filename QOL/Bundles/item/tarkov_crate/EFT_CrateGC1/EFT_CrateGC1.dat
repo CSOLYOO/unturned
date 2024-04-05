@@ -1,0 +1,29 @@
+GUID 4b948d8987614b0c80445e71e9e9dc5b
+Type Storage
+Rarity Mythical
+Useable Barricade
+Build Storage
+ID 63557
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Health 10000
+Range 6
+Radius 0.5
+Offset 0.75
+
+Storage_X 14
+Storage_Y 60
+
+Locked
+
+Explosion 36
+
+Armor_Tier High
+Should_Close_When_Outside_Range true
+
+Exclude_From_Master_Bundle
+
+Asset_Bundler_Version 2

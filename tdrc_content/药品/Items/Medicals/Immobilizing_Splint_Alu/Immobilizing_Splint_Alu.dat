@@ -1,0 +1,17 @@
+GUID 5563d6d01bf54654b0da016dcdb9792a
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37193
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Broken
+
+Should_Delete_After_Use false
+
+Amount 5
+Count_Min 5
+Count_Max 5

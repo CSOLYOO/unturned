@@ -1,0 +1,21 @@
+GUID d12959b9e7444db1a585e2a08572ebbc
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37184
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Broken
+Bleeding
+Health 35
+
+Item_Reward_Spawn_ID 8459
+Min_Item_Rewards 1
+Max_Item_Rewards 1
+
+Amount 15
+Count_Min 15
+Count_Max 15

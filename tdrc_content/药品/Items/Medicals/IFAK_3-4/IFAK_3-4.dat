@@ -1,0 +1,20 @@
+GUID 9b236a03ff744e819e81d3d0182eb5d7
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37068
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Bleeding
+Health 35
+
+Item_Reward_Spawn_ID 8441
+Min_Item_Rewards 1
+Max_Item_Rewards 1
+
+Amount 3
+Count_Min 3
+Count_Max 3

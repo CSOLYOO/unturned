@@ -1,0 +1,18 @@
+GUID 9daae67ab08c422baae2136119188ed1
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37189
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 7
+
+Should_Delete_After_Use false
+
+Amount 5
+Count_Min 5
+Count_Max 5

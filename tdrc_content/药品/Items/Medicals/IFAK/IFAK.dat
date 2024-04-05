@@ -1,0 +1,18 @@
+GUID 304d9925dbef47f9a2384d21fa118184
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37192
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Bleeding
+Health 35
+
+Should_Delete_After_Use false
+
+Amount 4
+Count_Min 4
+Count_Max 4

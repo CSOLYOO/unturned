@@ -1,0 +1,19 @@
+GUID c3c66ebf53c1481287020e68a8e665fb
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37083
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Broken
+
+Item_Reward_Spawn_ID 8453
+Min_Item_Rewards 1
+Max_Item_Rewards 1
+
+Amount 5
+Count_Min 5
+Count_Max 5

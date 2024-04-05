@@ -1,0 +1,17 @@
+GUID cdffdc4ba6b54ef79a0c30c491264296
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37187
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Bleeding
+
+Should_Delete_After_Use false
+
+Amount 2
+Count_Min 2
+Count_Max 2

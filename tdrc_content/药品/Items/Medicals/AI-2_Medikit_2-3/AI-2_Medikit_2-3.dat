@@ -1,0 +1,19 @@
+GUID b60f18972d38422eaff1b11e2622b4ff
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37076
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Health 25
+
+Item_Reward_Spawn_ID 8445
+Min_Item_Rewards 1
+Max_Item_Rewards 1
+
+Amount 2
+Count_Min 2
+Count_Max 2

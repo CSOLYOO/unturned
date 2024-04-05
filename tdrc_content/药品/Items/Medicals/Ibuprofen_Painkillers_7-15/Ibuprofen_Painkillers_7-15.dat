@@ -1,0 +1,20 @@
+GUID 381c96aa9ea84356a50a6a81bc8ce6de
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37054
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 3
+
+Item_Reward_Spawn_ID 8431
+Min_Item_Rewards 1
+Max_Item_Rewards 1
+
+Amount 7
+Count_Min 7
+Count_Max 7

@@ -1,0 +1,18 @@
+GUID 64157bef54ce4958baf7ad776d68045a
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37186
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 3
+
+Should_Delete_After_Use false
+
+Amount 4
+Count_Min 4
+Count_Max 4

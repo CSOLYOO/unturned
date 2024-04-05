@@ -1,0 +1,20 @@
+GUID 7ab4810270a44dd4ae3cc9ac8564ff78
+Type Medical
+Rarity Uncommon
+Useable Consumeable
+ID 37058
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Aid
+Health 3
+
+Item_Reward_Spawn_ID 8427
+Min_Item_Rewards 1
+Max_Item_Rewards 1
+
+Amount 11
+Count_Min 11
+Count_Max 11
