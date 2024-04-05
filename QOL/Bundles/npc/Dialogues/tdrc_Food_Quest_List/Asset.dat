@@ -1,0 +1,354 @@
+﻿// Made in NPC Maker by BowieD
+GUID 0d996f4d2bce49c883c5dff4ac54610a
+Type Dialogue
+ID 61501
+Messages 1
+Message_0_Pages 1
+Responses 18
+
+//任务1
+Response_0_Dialogue 61502
+Response_0_Quest 61700
+Response_0_Conditions 3
+Response_0_Condition_0_Type Quest
+Response_0_Condition_0_ID 61700
+Response_0_Condition_0_Status None
+Response_0_Condition_0_Logic Equal
+Response_0_Condition_0_Ignore_NPC False
+
+Response_0_Condition_1_Type Flag_Short
+Response_0_Condition_1_ID 61698
+Response_0_Condition_1_Value 0
+Response_0_Condition_1_Allow_Unset 
+Response_0_Condition_1_Logic Equal
+
+Response_0_Condition_2_Type Flag_Bool
+Response_0_Condition_2_ID 61699
+Response_0_Condition_2_Value False
+Response_0_Condition_2_Allow_Unset 
+Response_0_Condition_2_Logic Equal
+
+Response_0_Rewards 1
+Response_0_Reward_0_Type Quest
+Response_0_Reward_0_ID 61700
+
+Response_1_Dialogue 61502
+Response_1_Quest 61700
+Response_1_Conditions 3
+Response_1_Condition_0_Type Quest
+Response_1_Condition_0_ID 61700
+Response_1_Condition_0_Status Completed
+Response_1_Condition_0_Logic Equal
+Response_1_Condition_0_Ignore_NPC False
+
+Response_1_Condition_1_Type Flag_Short
+Response_1_Condition_1_ID 61698
+Response_1_Condition_1_Value 0
+Response_1_Condition_1_Allow_Unset 
+Response_1_Condition_1_Logic Equal
+
+Response_1_Condition_2_Type Flag_Bool
+Response_1_Condition_2_ID 61699
+Response_1_Condition_2_Value False
+Response_1_Condition_2_Logic Equal
+
+Response_1_Rewards 1
+Response_1_Reward_0_Type Quest
+Response_1_Reward_0_ID 61700
+
+Response_2_Dialogue 61505
+Response_2_Quest 61700
+Response_2_Conditions 1
+Response_2_Condition_0_Type Quest
+Response_2_Condition_0_ID 61700
+Response_2_Condition_0_Status Ready
+Response_2_Condition_0_Logic Equal
+Response_2_Condition_0_Ignore_NPC False
+Response_2_Condition_0_Reset 
+
+//任务 2
+Response_3_Dialogue 61502
+Response_3_Quest 61701
+Response_3_Conditions 3
+Response_3_Condition_0_Type Quest
+Response_3_Condition_0_ID 61701
+Response_3_Condition_0_Status None
+Response_3_Condition_0_Logic Equal
+Response_3_Condition_0_Ignore_NPC False
+
+Response_3_Condition_1_Type Flag_Short
+Response_3_Condition_1_ID 61698
+Response_3_Condition_1_Value 1
+Response_3_Condition_1_Logic Equal
+
+Response_3_Condition_2_Type Flag_Bool
+Response_3_Condition_2_ID 61699
+Response_3_Condition_2_Value False
+Response_3_Condition_2_Logic Equal
+
+Response_3_Rewards 1
+Response_3_Reward_0_Type Quest
+Response_3_Reward_0_ID 61701
+
+Response_4_Dialogue 61502
+Response_4_Quest 61701
+Response_4_Conditions 3
+Response_4_Condition_0_Type Quest
+Response_4_Condition_0_ID 61701
+Response_4_Condition_0_Status None
+Response_4_Condition_0_Logic Equal
+Response_4_Condition_0_Ignore_NPC False
+
+Response_4_Condition_1_Type Flag_Short
+Response_4_Condition_1_ID 61698
+Response_4_Condition_1_Value 1
+Response_4_Condition_1_Logic Equal
+
+Response_4_Condition_2_Type Flag_Bool
+Response_4_Condition_2_ID 61699
+Response_4_Condition_2_Value False
+Response_4_Condition_2_Logic Equal
+
+Response_4_Rewards 1
+Response_4_Reward_0_Type Quest
+Response_4_Reward_0_ID 61701
+
+Response_5_Dialogue 61505
+Response_5_Quest 61701
+Response_5_Conditions 1
+Response_5_Condition_0_Type Quest
+Response_5_Condition_0_ID 61701
+Response_5_Condition_0_Status Ready
+Response_5_Condition_0_Logic Equal
+Response_5_Condition_0_Ignore_NPC False
+Response_5_Condition_0_Reset 
+
+//任务 3
+Response_6_Dialogue 61502
+Response_6_Quest 61702
+Response_6_Conditions 3
+Response_6_Condition_0_Type Quest
+Response_6_Condition_0_ID 61702
+Response_6_Condition_0_Status None
+Response_6_Condition_0_Logic Equal
+Response_6_Condition_0_Ignore_NPC False
+
+Response_6_Condition_1_Type Flag_Short
+Response_6_Condition_1_ID 61698
+Response_6_Condition_1_Value 2
+Response_6_Condition_1_Logic Equal
+
+Response_6_Condition_2_Type Flag_Bool
+Response_6_Condition_2_ID 61699
+Response_6_Condition_2_Value False
+Response_6_Condition_2_Logic Equal
+
+Response_6_Rewards 1
+Response_6_Reward_0_Type Quest
+Response_6_Reward_0_ID 61702
+
+Response_7_Dialogue 61502
+Response_7_Quest 61702
+Response_7_Conditions 3
+Response_7_Condition_0_Type Quest
+Response_7_Condition_0_ID 61702
+Response_7_Condition_0_Status None
+Response_7_Condition_0_Logic Equal
+Response_7_Condition_0_Ignore_NPC False
+
+Response_7_Condition_1_Type Flag_Short
+Response_7_Condition_1_ID 61698
+Response_7_Condition_1_Value 2
+Response_7_Condition_1_Logic Equal
+
+Response_7_Condition_2_Type Flag_Bool
+Response_7_Condition_2_ID 61699
+Response_7_Condition_2_Value False
+Response_7_Condition_2_Logic Equal
+
+Response_7_Rewards 1
+Response_7_Reward_0_Type Quest
+Response_7_Reward_0_ID 61702
+
+Response_8_Dialogue 61505
+Response_8_Quest 61702
+Response_8_Conditions 1
+Response_8_Condition_0_Type Quest
+Response_8_Condition_0_ID 61702
+Response_8_Condition_0_Status Ready
+Response_8_Condition_0_Logic Equal
+Response_8_Condition_0_Ignore_NPC False
+Response_8_Condition_0_Reset 
+
+//任务4
+
+Response_9_Dialogue 61502
+Response_9_Quest 61703
+Response_9_Conditions 3
+Response_9_Condition_0_Type Quest
+Response_9_Condition_0_ID 61703
+Response_9_Condition_0_Status None
+Response_9_Condition_0_Logic Equal
+Response_9_Condition_0_Ignore_NPC False
+
+Response_9_Condition_1_Type Flag_Short
+Response_9_Condition_1_ID 61698
+Response_9_Condition_1_Value 2
+Response_9_Condition_1_Logic Equal
+
+Response_9_Condition_2_Type Flag_Bool
+Response_9_Condition_2_ID 61699
+Response_9_Condition_2_Value False
+Response_9_Condition_2_Logic Equal
+
+Response_9_Rewards 1
+Response_9_Reward_0_Type Quest
+Response_9_Reward_0_ID 61703
+
+Response_10_Dialogue 61502
+Response_10_Quest 61703
+Response_10_Conditions 3
+Response_10_Condition_0_Type Quest
+Response_10_Condition_0_ID 61703
+Response_10_Condition_0_Status None
+Response_10_Condition_0_Logic Equal
+Response_10_Condition_0_Ignore_NPC False
+
+Response_10_Condition_1_Type Flag_Short
+Response_10_Condition_1_ID 61698
+Response_10_Condition_1_Value 2
+Response_10_Condition_1_Logic Equal
+
+Response_10_Condition_2_Type Flag_Bool
+Response_10_Condition_2_ID 61699
+Response_10_Condition_2_Value False
+Response_10_Condition_2_Logic Equal
+
+Response_10_Rewards 1
+Response_10_Reward_0_Type Quest
+Response_10_Reward_0_ID 61703
+
+Response_11_Dialogue 61505
+Response_11_Quest 61703
+Response_11_Conditions 1
+Response_11_Condition_0_Type Quest
+Response_11_Condition_0_ID 61703
+Response_11_Condition_0_Status Ready
+Response_11_Condition_0_Logic Equal
+Response_11_Condition_0_Ignore_NPC False
+Response_11_Condition_0_Reset 
+
+//任务 5
+
+Response_12_Dialogue 61502
+Response_12_Quest 61704
+Response_12_Conditions 3
+Response_12_Condition_0_Type Quest
+Response_12_Condition_0_ID 61704
+Response_12_Condition_0_Status None
+Response_12_Condition_0_Logic Equal
+Response_12_Condition_0_Ignore_NPC False
+
+Response_12_Condition_1_Type Flag_Short
+Response_12_Condition_1_ID 61698
+Response_12_Condition_1_Value 3
+Response_12_Condition_1_Logic Equal
+
+Response_12_Condition_2_Type Flag_Bool
+Response_12_Condition_2_ID 61699
+Response_12_Condition_2_Value False
+Response_12_Condition_2_Logic Equal
+
+Response_12_Rewards 1
+Response_12_Reward_0_Type Quest
+Response_12_Reward_0_ID 61704
+
+Response_13_Dialogue 61502
+Response_13_Quest 61704
+Response_13_Conditions 3
+Response_13_Condition_0_Type Quest
+Response_13_Condition_0_ID 61704
+Response_13_Condition_0_Status None
+Response_13_Condition_0_Logic Equal
+Response_13_Condition_0_Ignore_NPC False
+
+Response_13_Condition_1_Type Flag_Short
+Response_13_Condition_1_ID 61698
+Response_13_Condition_1_Value 3
+Response_13_Condition_1_Logic Equal
+
+Response_13_Condition_2_Type Flag_Bool
+Response_13_Condition_2_ID 61699
+Response_13_Condition_2_Value False
+Response_13_Condition_2_Logic Equal
+
+Response_13_Rewards 1
+Response_13_Reward_0_Type Quest
+Response_13_Reward_0_ID 61704
+
+Response_14_Dialogue 61505
+Response_14_Quest 61704
+Response_14_Conditions 1
+Response_14_Condition_0_Type Quest
+Response_14_Condition_0_ID 61704
+Response_14_Condition_0_Status Ready
+Response_14_Condition_0_Logic Equal
+Response_14_Condition_0_Ignore_NPC False
+Response_14_Condition_0_Reset 
+
+//任务 6
+Response_15_Dialogue 61502
+Response_15_Quest 61705
+Response_15_Conditions 3
+Response_15_Condition_0_Type Quest
+Response_15_Condition_0_ID 61705
+Response_15_Condition_0_Status None
+Response_15_Condition_0_Logic Equal
+Response_15_Condition_0_Ignore_NPC False
+
+Response_15_Condition_1_Type Flag_Short
+Response_15_Condition_1_ID 61698
+Response_15_Condition_1_Value 4
+Response_15_Condition_1_Logic Equal
+
+Response_15_Condition_2_Type Flag_Bool
+Response_15_Condition_2_ID 61699
+Response_15_Condition_2_Value False
+Response_15_Condition_2_Logic Equal
+
+Response_15_Rewards 1
+Response_15_Reward_0_Type Quest
+Response_15_Reward_0_ID 61705
+
+Response_16_Dialogue 61502
+Response_16_Quest 61705
+Response_16_Conditions 3
+Response_16_Condition_0_Type Quest
+Response_16_Condition_0_ID 61705
+Response_16_Condition_0_Status None
+Response_16_Condition_0_Logic Equal
+Response_16_Condition_0_Ignore_NPC False
+
+Response_16_Condition_1_Type Flag_Short
+Response_16_Condition_1_ID 61698
+Response_16_Condition_1_Value 4
+Response_16_Condition_1_Logic Equal
+
+Response_16_Condition_2_Type Flag_Bool
+Response_16_Condition_2_ID 61699
+Response_16_Condition_2_Value False
+Response_16_Condition_2_Logic Equal
+
+Response_16_Rewards 1
+Response_16_Reward_0_Type Quest
+Response_16_Reward_0_ID 61705
+
+Response_17_Dialogue 61505
+Response_17_Quest 61705
+Response_17_Conditions 1
+Response_17_Condition_0_Type Quest
+Response_17_Condition_0_ID 61705
+Response_17_Condition_0_Status Ready
+Response_17_Condition_0_Logic Equal
+Response_17_Condition_0_Ignore_NPC False
+Response_17_Condition_0_Reset 

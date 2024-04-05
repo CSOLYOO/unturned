@@ -1,0 +1,19 @@
+﻿// Made in NPC Maker by BowieD
+GUID c810c1bdbc7e45908789df89fe2c771f
+Type Vendor
+ID 61901
+Buying 6
+Buying_0_ID 31290
+Buying_0_Cost 50
+Buying_1_ID 48004
+Buying_1_Cost 8
+Buying_2_ID 48011
+Buying_2_Cost 15
+Buying_3_ID 48006
+Buying_3_Cost 8
+Buying_4_ID 48007
+Buying_4_Cost 15
+Buying_5_ID 48009
+Buying_5_Cost 10
+Disable_Sorting
+Currency 5150ca8f765d4a68bfe54912146da410
