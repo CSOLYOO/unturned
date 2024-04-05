@@ -6,39 +6,39 @@ Slot Any
 Bypass_ID_Limit
 ID 136
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Sledgehammer
+Bundle_Override_Path Items/Melee/Sledgehammer
 Size_X 2
 Size_Y 3
 Size_Z 0.6
 Size2_Z 0.5
 
-Range 2.25
+Range 3.0
 Strong 0.375
 Strength 1.5
-Stamina 20
+Stamina 40
 
-Player_Damage 34
+Player_Damage 100
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
-Player_Skull_Multiplier 1.1
+Player_Skull_Multiplier 1.2
 
-Zombie_Damage 34
-Zombie_Leg_Multiplier 0.3
-Zombie_Arm_Multiplier 0.3
-Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 1.1
+Zombie_Damage 100
+Zombie_Leg_Multiplier 1.0
+Zombie_Arm_Multiplier 1.0
+Zombie_Spine_Multiplier 1.0
+Zombie_Skull_Multiplier 1.2
 
-Animal_Damage 34
+Animal_Damage 100
 Animal_Leg_Multiplier 0.3
 Animal_Spine_Multiplier 0.6
-Animal_Skull_Multiplier 1.1
+Animal_Skull_Multiplier 2
 
-Barricade_Damage 25
-Structure_Damage 20
-Vehicle_Damage 40
-Resource_Damage 40
-Object_Damage 35
+Barricade_Damage 60
+Structure_Damage 60
+Vehicle_Damage 60
+Resource_Damage 60
+Object_Damage 100
 
 Durability 0.2
 

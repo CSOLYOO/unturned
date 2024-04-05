@@ -5,7 +5,7 @@ Slot Any
 Bypass_ID_Limit
 ID 120
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Knife_Kitchen
+Bundle_Override_Path Items/Melee/Knife_Kitchen
 Size_X 1
 Size_Y 2
 Size_Z 0.55

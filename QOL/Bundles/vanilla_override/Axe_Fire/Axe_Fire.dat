@@ -6,7 +6,7 @@ Bypass_ID_Limit
 ID 104
 
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Axe_Fire
+Bundle_Override_Path Items/Melee/Axe_Fire
 
 Size_X 2
 Size_Y 3

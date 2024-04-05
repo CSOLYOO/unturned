@@ -5,7 +5,7 @@ Slot Any
 Bypass_ID_Limit
 ID 1198
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Axe_Pick
+Bundle_Override_Path Items/Melee/Axe_Pick
 Size_X 2
 Size_Y 3
 Size_Z 0.65
@@ -25,7 +25,7 @@ Zombie_Damage 34
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 1.1
+Zombie_Skull_Multiplier 1.5
 
 Animal_Damage 34
 Animal_Leg_Multiplier 0.3

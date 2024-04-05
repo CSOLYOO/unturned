@@ -5,7 +5,7 @@ Slot Any
 Bypass_ID_Limit
 ID 1023
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Baton
+Bundle_Override_Path Items/Melee/Baton
 Size_X 3
 Size_Y 2
 Size_Z 0.4

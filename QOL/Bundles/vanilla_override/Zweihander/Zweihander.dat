@@ -6,7 +6,7 @@ Slot Any
 Bypass_ID_Limit
 ID 1503
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Zweihander
+Bundle_Override_Path Items/Melee/Zweihander
 Size_X 1
 Size_Y 4
 Size_Z 0.775

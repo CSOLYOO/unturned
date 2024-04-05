@@ -5,7 +5,7 @@ Slot Any
 Bypass_ID_Limit
 ID 1031
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Shovel
+Bundle_Override_Path Items/Melee/Shovel
 Size_X 2
 Size_Y 3
 Size_Z 0.675

@@ -6,7 +6,7 @@ Slot Any
 Bypass_ID_Limit
 ID 1693
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\XMAS_Snow_Shovel
+Bundle_Override_Path Items/Melee/XMAS_Snow_Shovel
 Size_X 2
 Size_Y 3
 Size_Z 0.675

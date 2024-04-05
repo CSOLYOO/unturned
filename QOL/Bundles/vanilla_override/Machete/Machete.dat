@@ -6,16 +6,16 @@ Slot Any
 Bypass_ID_Limit
 ID 1035
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Machete
+Bundle_Override_Path Items/Melee/Machete
 Size_X 1
 Size_Y 3
 Size_Z 0.7
 Size2_Z 0.5
 
-Range 2.25
-Strength 1.5
+Range 2.5
+Strength 2.5
 Weak 0.44
-Stamina 15
+Stamina 20
 
 Player_Damage 34
 Player_Leg_Multiplier 0.6
@@ -27,18 +27,18 @@ Zombie_Damage 34
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 1.1
+Zombie_Skull_Multiplier 1.8
 
 Animal_Damage 34
 Animal_Leg_Multiplier 0.3
 Animal_Spine_Multiplier 0.6
 Animal_Skull_Multiplier 1.1
 
-Barricade_Damage 2
-Structure_Damage 2
+Barricade_Damage 5
+Structure_Damage 5
 Vehicle_Damage 15
 Resource_Damage 40
-Object_Damage 15
+Object_Damage 20
 
 Durability 0.2
 

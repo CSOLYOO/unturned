@@ -5,7 +5,7 @@ Slot Any
 Bypass_ID_Limit
 ID 1032
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Crowbar
+Bundle_Override_Path Items/Melee/Crowbar
 Size_X 1
 Size_Y 2
 Size_Z 0.6

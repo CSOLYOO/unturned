@@ -6,33 +6,33 @@ Bypass_ID_Limit
 ID 16
 
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items\Melee\Axe_Camp
+Bundle_Override_Path Items/Melee/Axe_Camp
 
 Size_X 2
 Size_Y 3
 Size_Z 0.6
 Size2_Z 0.6
 
-Range 2
+Range 2.75
 Strength 1.5
 Stamina 25
 
-Player_Damage 34
+Player_Damage 20
 Player_Leg_Multiplier 0.6
 Player_Arm_Multiplier 0.6
 Player_Spine_Multiplier 0.8
 Player_Skull_Multiplier 1.1
 
-Zombie_Damage 34
+Zombie_Damage 35
 Zombie_Leg_Multiplier 0.3
 Zombie_Arm_Multiplier 0.3
 Zombie_Spine_Multiplier 0.6
-Zombie_Skull_Multiplier 1.1
+Zombie_Skull_Multiplier 2.0
 
-Animal_Damage 34
+Animal_Damage 20
 Animal_Leg_Multiplier 0.3
 Animal_Spine_Multiplier 0.6
-Animal_Skull_Multiplier 1.1
+Animal_Skull_Multiplier 1.5
 
 Barricade_Damage 15
 Structure_Damage 10
