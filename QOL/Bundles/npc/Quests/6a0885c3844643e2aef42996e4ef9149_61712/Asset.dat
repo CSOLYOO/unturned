@@ -13,7 +13,7 @@ Condition_1_ID 41105
 Condition_1_Amount 2
 Condition_1_Reset 
 
-Rewards 6
+Rewards 5
 Reward_0_Type Currency
 Reward_0_GUID 5150ca8f765d4a68bfe54912146da410
 Reward_0_Value 150
@@ -31,13 +31,9 @@ Reward_3_ID 48001
 Reward_3_Amount 3
 Reward_3_Auto_Equip False
 
-Reward_4_Type Flag_Bool
-Reward_4_ID 61699
-Reward_4_Value True
-
-Reward_5_Type Flag_Short_Random
-Reward_5_ID 61698
-Reward_5_Min_Value 0
-Reward_5_Max_Value 20
-Reward_5_Modification Assign
+Reward_4_Type Flag_Short_Random
+Reward_4_ID 61698
+Reward_4_Min_Value 0
+Reward_4_Max_Value 20
+Reward_4_Modification Assign
 

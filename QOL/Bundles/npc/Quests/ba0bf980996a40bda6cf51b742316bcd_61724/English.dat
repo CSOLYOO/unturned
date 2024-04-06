@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Name 消灭巨型僵尸
+Description 击杀一个大块头僵尸，好减少我们镇压区域的消耗和风险。
+Condition_0 击杀1只巨型僵尸

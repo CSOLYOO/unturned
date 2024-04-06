@@ -1,19 +1,19 @@
 ﻿// Made in NPC Maker by BowieD
-GUID b1b0f70a12a141e39bd115c5ea1ea7b8
+GUID 5c8a935641484ac29bdf3370401c8f33
 Type Quest
-ID 61703
+ID 61717
 Conditions 2
 Condition_0_Type Item
-Condition_0_ID 465
-Condition_0_Amount 10
+Condition_0_ID 1159
+Condition_0_Amount 5
 Condition_0_Reset 
 
 Condition_1_Type Item
-Condition_1_ID 80
-Condition_1_Amount 1
+Condition_1_ID 1162
+Condition_1_Amount 10
 Condition_1_Reset 
 
-Rewards 3
+Rewards 4
 Reward_0_Type Currency
 Reward_0_GUID 5150ca8f765d4a68bfe54912146da410
 Reward_0_Value 100
@@ -26,4 +26,9 @@ Reward_2_ID 61698
 Reward_2_Min_Value 0
 Reward_2_Max_Value 20
 Reward_2_Modification Assign
+
+Reward_3_Type Item_Random
+Reward_3_ID 17614
+Reward_3_Amount 0
+Reward_3_Auto_Equip False
 

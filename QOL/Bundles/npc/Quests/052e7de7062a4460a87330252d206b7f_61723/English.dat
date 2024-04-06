@@ -1,0 +1,4 @@
+﻿// Made in NPC Maker by BowieD
+Name 清理感染者
+Description 击杀那些已经无可救药的可怜转变者，停止他们对生者的威胁吧。
+Condition_0 击杀100只僵尸
