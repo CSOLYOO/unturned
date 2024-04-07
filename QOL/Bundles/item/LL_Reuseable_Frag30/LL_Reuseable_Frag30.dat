@@ -1,0 +1,50 @@
+GUID 811cff0c526a4cf0af2e99053c2621dd
+Type Magazine
+Rarity Legendary
+ID 64803
+
+Size_X 1
+Size_Y 2
+Size_Z 0.3
+
+Amount 30
+Count_Min 30
+Count_Max 30
+
+Calibers 1
+Caliber_0 6236
+
+Tracer 55
+Spread 1.15
+
+Range 3
+
+Player_Damage 5
+Zombie_Damage 10
+Animal_Damage 10
+Barricade_Damage 5
+Structure_Damage 5
+Vehicle_Damage 15
+Resource_Damage 50
+Object_Damage 15
+
+Explosion 53
+Explosive
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 64803
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 73
+Blueprint_1_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 16580
+Blueprint_1_Build 30
+
+Master_Bundle_Override lockednlazymaster.masterbundle
+Bundle_Override_Path Bundles/Magazines/MilitaryFrag_30
+

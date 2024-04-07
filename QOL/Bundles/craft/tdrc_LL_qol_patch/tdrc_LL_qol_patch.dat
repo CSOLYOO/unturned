@@ -3,7 +3,7 @@ GUID f11c5af07c3049d0b408140bd7371684
 Type Supply
 ID 63507
 
-Blueprints 27
+Blueprints 36
 
 Blueprint_0_Type Tool
 Blueprint_0_Supplies 1
@@ -303,6 +303,114 @@ Blueprint_26_Products 1
 Blueprint_26_Level 1
 Blueprint_26_Skill Craft
 Blueprint_26_Build 27
+
+//合成高爆弹匣
+
+Blueprint_27_Type Tool
+Blueprint_27_Supplies 3
+Blueprint_27_Supply_0_ID 16236
+Blueprint_27_Supply_0_Amount 2
+Blueprint_27_Supply_1_ID 73
+Blueprint_27_Supply_1_Amount 5
+Blueprint_27_Supply_2_ID 71
+Blueprint_27_Supply_2_Amount 5
+Blueprint_27_Tool 76
+Blueprint_27_Product 49101
+Blueprint_27_Products 1
+Blueprint_27_Level 2
+Blueprint_27_Skill Craft
+Blueprint_27_Build 27
+
+//收购小废物
+
+Blueprint_28_Type Tool
+Blueprint_28_Supplies 1
+Blueprint_28_Supply_0_ID 16183
+Blueprint_28_Supply_0_Amount 1
+Blueprint_28_Tool 63523
+Blueprint_28_Product 1051
+Blueprint_28_Products 1
+Blueprint_28_Level 1
+Blueprint_28_Skill Craft
+Blueprint_28_Build 27
+
+Blueprint_29_Type Tool
+Blueprint_29_Supplies 1
+Blueprint_29_Supply_0_ID 16435
+Blueprint_29_Supply_0_Amount 1
+Blueprint_29_Tool 63523
+Blueprint_29_Product 1051
+Blueprint_29_Products 1
+Blueprint_29_Level 1
+Blueprint_29_Skill Craft
+Blueprint_29_Build 27
+
+Blueprint_30_Type Tool
+Blueprint_30_Supplies 1
+Blueprint_30_Supply_0_ID 16429
+Blueprint_30_Supply_0_Amount 1
+Blueprint_30_Tool 63523
+Blueprint_30_Product 1051
+Blueprint_30_Products 1
+Blueprint_30_Level 1
+Blueprint_30_Skill Craft
+Blueprint_30_Build 27
+
+Blueprint_31_Type Tool
+Blueprint_31_Supplies 1
+Blueprint_31_Supply_0_ID 16433
+Blueprint_31_Supply_0_Amount 1
+Blueprint_31_Tool 63523
+Blueprint_31_Product 1051
+Blueprint_31_Products 1
+Blueprint_31_Level 1
+Blueprint_31_Skill Craft
+Blueprint_31_Build 27
+
+Blueprint_32_Type Tool
+Blueprint_32_Supplies 1
+Blueprint_32_Supply_0_ID 16443
+Blueprint_32_Supply_0_Amount 1
+Blueprint_32_Tool 63523
+Blueprint_32_Product 1052
+Blueprint_32_Products 1
+Blueprint_32_Level 1
+Blueprint_32_Skill Craft
+Blueprint_32_Build 27
+
+Blueprint_33_Type Tool
+Blueprint_33_Supplies 1
+Blueprint_33_Supply_0_ID 16332
+Blueprint_33_Supply_0_Amount 1
+Blueprint_33_Tool 63523
+Blueprint_33_Product 1052
+Blueprint_33_Products 1
+Blueprint_33_Level 1
+Blueprint_33_Skill Craft
+Blueprint_33_Build 27
+
+Blueprint_34_Type Tool
+Blueprint_34_Supplies 1
+Blueprint_34_Supply_0_ID 16478
+Blueprint_34_Supply_0_Amount 1
+Blueprint_34_Tool 63523
+Blueprint_34_Product 1052
+Blueprint_34_Products 1
+Blueprint_34_Level 1
+Blueprint_34_Skill Craft
+Blueprint_34_Build 27
+
+Blueprint_35_Type Tool
+Blueprint_35_Supplies 1
+Blueprint_35_Supply_0_ID 16319
+Blueprint_35_Supply_0_Amount 1
+Blueprint_35_Tool 63523
+Blueprint_35_Product 1051
+Blueprint_35_Products 1
+Blueprint_35_Level 1
+Blueprint_35_Skill Craft
+Blueprint_35_Build 27
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack

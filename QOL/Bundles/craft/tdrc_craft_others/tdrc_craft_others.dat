@@ -3,7 +3,7 @@ GUID 55f7abd5a3834a64bb87ee265b20bd13
 Type Supply
 ID 63505
 
-Blueprints 22
+Blueprints 24
 
 //信号枪弹药反向合成
 
@@ -306,6 +306,29 @@ Blueprint_21_Tool 1030
 Blueprint_21_Level 2
 Blueprint_21_Skill Cook
 Blueprint_21_Build 27
+
+//苏打水制作
+
+Blueprint_22_Type Supply
+Blueprint_22_Supplies 1
+Blueprint_22_Supply_0_ID 473
+Blueprint_22_Supply_0_Amount 1
+Blueprint_22_Supply_1_ID 72
+Blueprint_22_Supply_1_Amount 1
+Blueprint_22_Product 465
+Blueprint_22_Products 2
+Blueprint_22_Build 27
+
+Blueprint_23_Type Tool
+Blueprint_23_Supplies 1
+Blueprint_23_Supply_0_ID 472
+Blueprint_23_Supply_0_Amount 1
+Blueprint_23_Supply_1_ID 72
+Blueprint_23_Supply_1_Amount 1
+Blueprint_23_Product 80
+Blueprint_23_Products 2
+Blueprint_23_Build 27
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack

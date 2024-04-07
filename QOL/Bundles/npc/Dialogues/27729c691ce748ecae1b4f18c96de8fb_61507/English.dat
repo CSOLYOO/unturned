@@ -1,8 +1,0 @@
-﻿// Made in NPC Maker by BowieD
-Message_0_Page_0 想接手军队的事务？那么拿出你的诚意与勇气，我会给你一些指令，完成这些指令，我将会用军队的资源交付于你，来吧，让我看看你能否承担起重建废土秩序的重担。
-Response_0 (随机接取日常任务)
-Response_1 (随机接取日常任务)
-Response_2 (任务完成：清理感染者)
-Response_3 (随机接取日常任务)
-Response_4 (随机接取日常任务)
-Response_5 (任务完成：消灭巨型僵尸)
