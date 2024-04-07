@@ -1,0 +1,41 @@
+GUID f1cec3cc869a4363b34b29ea1d43102a
+Type Spawn
+ID 63708
+
+Roots 5
+Root_0_Spawn_ID 734
+Root_0_Weight 45
+Root_1_Spawn_ID 295
+Root_1_Weight 45
+Root_2_Spawn_ID 596
+Root_2_Weight 45
+Root_3_Spawn_ID 404
+Root_3_Weight 45
+Root_4_Spawn_ID 496
+Root_4_Weight 45
+
+
+//ZUK-13 50
+Tables
+[
+	{
+		LegacyAssetId 59017
+		Weight 10
+	}	
+	{
+		LegacyAssetId 59018
+		Weight 10
+	}	
+    {
+		LegacyAssetId 59019
+		Weight 10
+	}	
+	{
+		LegacyAssetId 59020
+		Weight 10
+	}		
+	{
+		LegacyAssetId 59021
+		Weight 10
+	}	
+]

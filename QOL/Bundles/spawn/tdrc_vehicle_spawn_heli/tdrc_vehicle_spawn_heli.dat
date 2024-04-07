@@ -1,0 +1,41 @@
+GUID 6538b71e0849479c9b870e7fad62e21f
+Type Spawn
+ID 63707
+
+Roots 5
+Root_0_Spawn_ID 317
+Root_0_Weight 100
+Root_1_Spawn_ID 425
+Root_1_Weight 100
+Root_2_Spawn_ID 506
+Root_2_Weight 100
+Root_3_Spawn_ID 594
+Root_3_Weight 100
+Root_4_Spawn_ID 732
+Root_4_Weight 100
+
+//apache 20
+//HH-6 20
+Tables
+[
+	{
+		LegacyAssetId 42515
+		Weight 5
+	}	
+	{
+		LegacyAssetId 42516
+		Weight 5
+	}	
+    {
+		LegacyAssetId 42517
+		Weight 5
+	}	
+	{
+		LegacyAssetId 42518
+		Weight 5
+	}		
+    {
+		LegacyAssetId 59026
+		Weight 20
+	}
+]

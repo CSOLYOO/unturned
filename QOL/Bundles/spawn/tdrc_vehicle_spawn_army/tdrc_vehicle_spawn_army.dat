@@ -1,0 +1,231 @@
+GUID ec15910a5c1246d99d8d8fdd01de0ca0
+Type Spawn
+ID 63706
+
+Roots
+[
+	{
+		Guid 8baad71d39c246d28cffd9c670fc6a36
+		Weight 100
+	}
+	{
+		Guid d17b5886d1f347edb83c97905f8f0f35
+		Weight 100
+	}
+    
+]
+
+//M1ABRAMS 80
+//HEMTT 60
+//BRADLEDY 30
+//MRAP 120
+//Leopard 60
+//MAZ-543 Scud-B 10
+//Washington National Guard 150
+//bm-8 Katyusha 10
+//M80 JEEP 100
+//ARID URAL 60
+//BRDM 40
+Tables
+[
+	{
+		LegacyAssetId 42500
+		Weight 10
+	}	
+	{
+		LegacyAssetId 42501
+		Weight 10
+	}	
+    {
+		LegacyAssetId 42502
+		Weight 10
+	}	
+	{
+		LegacyAssetId 42503
+		Weight 10
+	}		
+	{
+		LegacyAssetId 42504
+		Weight 10
+	}	
+	{
+		LegacyAssetId 42505
+		Weight 10
+	}
+	{
+		LegacyAssetId 42506
+		Weight 10
+	}
+	{
+		LegacyAssetId 42507
+		Weight 10
+	}    
+	{
+		LegacyAssetId 31701
+		Weight 30
+	}
+	//HEMTT A3 M985 Cargo Canvas
+	{
+		LegacyAssetId 42520
+		Weight 5
+	}
+	{
+		LegacyAssetId 42521
+		Weight 5
+	}
+	{
+		LegacyAssetId 42522
+		Weight 5
+	}
+	//HEMTT A3 M985 Cargo No Canvas
+	{
+		LegacyAssetId 42523
+		Weight 5
+	}
+	{
+		LegacyAssetId 42524
+		Weight 5
+	}
+	{
+		LegacyAssetId 42525
+		Weight 5
+	}
+	//HEMTT A3 M987 Tanker
+	{
+		LegacyAssetId 42526
+		Weight 5
+	}
+	{
+		LegacyAssetId 42527
+		Weight 5
+	}
+	{
+		LegacyAssetId 42528
+		Weight 5
+	}
+	//HEMTT A3 with CIWS
+	{
+		LegacyAssetId 42529
+		Weight 5
+	}
+	{
+		LegacyAssetId 42530
+		Weight 5
+	}
+	{
+		LegacyAssetId 42531
+		Weight 5
+	}    
+
+	// MRAP
+	{
+		LegacyAssetId 26180
+		Weight 40
+	}	
+	{
+		LegacyAssetId 26181
+		Weight 40
+	}	
+    {
+		LegacyAssetId 26182
+		Weight 40
+	}
+
+	//Leopard 2A4
+	{
+		LegacyAssetId 41500
+		Weight 5
+	}
+	{
+		LegacyAssetId 41501
+		Weight 5
+	}
+	{
+		LegacyAssetId 41502
+		Weight 5
+	}
+
+	//Leopard 2A5
+	{
+		LegacyAssetId 41503
+		Weight 5
+	}
+	{
+		LegacyAssetId 41504
+		Weight 5
+	}
+	{
+		LegacyAssetId 41505
+		Weight 5
+	}
+
+	//Leopard 2A6
+	{
+		LegacyAssetId 41506
+		Weight 5
+	}
+	{
+		LegacyAssetId 41507
+		Weight 5
+	}
+	{
+		LegacyAssetId 41508
+		Weight 5
+	}
+
+	//Leopard 2A7+
+	{
+		LegacyAssetId 41509
+		Weight 5
+	}
+	{
+		LegacyAssetId 41510
+		Weight 5
+	}
+	{
+		LegacyAssetId 41511
+		Weight 5
+	}
+	{
+		LegacyAssetId 59100
+		Weight 10
+	}
+	
+	{
+		LegacyAssetId 21126
+		Weight 50
+	}
+	{
+		LegacyAssetId 21127
+		Weight 50
+	}
+	{
+		LegacyAssetId 21128
+		Weight 50
+	}
+
+	{
+		LegacyAssetId 22731
+		Weight 2
+	}
+	{
+		LegacyAssetId 22732
+		Weight 2
+	}
+    {
+		LegacyAssetId 59025
+		Weight 100
+    }
+    {
+		LegacyAssetId 59016
+		Weight 60
+    }
+	{
+		LegacyAssetId 59004
+		Weight 20
+	}
+	{
+		LegacyAssetId 59024
+		Weight 20
+	}    
+]
