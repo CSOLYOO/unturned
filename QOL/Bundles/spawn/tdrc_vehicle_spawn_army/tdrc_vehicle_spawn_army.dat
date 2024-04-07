@@ -12,7 +12,10 @@ Roots
 		Guid d17b5886d1f347edb83c97905f8f0f35
 		Weight 100
 	}
-    
+	{
+		Guid 4f3f755434114e519ed9989a7d887792
+		Weight 500
+	}    
 ]
 
 //M1ABRAMS 80

@@ -16,6 +16,7 @@ Root_4_Weight 100
 
 //apache 20
 //HH-6 20
+//MI-8 20
 Tables
 [
 	{
@@ -38,4 +39,8 @@ Tables
 		LegacyAssetId 59026
 		Weight 20
 	}
+    {
+		LegacyAssetId 10214
+		Weight 20
+	}	
 ]

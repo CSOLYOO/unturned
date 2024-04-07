@@ -1,0 +1,822 @@
+ManifestFileVersion: 0
+CRC: 4203727789
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d872b6e1beef93754aa286f1a7698b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7cbdbfaedc838a51abfd24f7a9f71d62
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 75
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e854a062516b19e408d34000c8d2104c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9d3c3df49e59fcd4ea3dd3c42d431959, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e33f69f25dbb4a64395561c0ea3c68ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 851463f9b107a3146a0057e73b10cc15, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 169
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 1773428102
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/NewArid/Assets/MI8/MI8.fbx
+- Assets/NewArid/Assets/Arid2/BG/1.obj
+- Assets/NewArid/PS_ZIL/PS_ZIL_Air/Engine_BRDM.wav
+- Assets/NewArid/PS_APC/PS_APC_Launch/Horn.wav
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_Launcher/Shoot.wav
+- Assets/NewArid/Assets/APC/APC.fbx
+- Assets/NewArid/PS_12Gauge_Frag_8/Magazine.prefab
+- Assets/NewArid/PS_TK66/Horn.wav
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Launcher/Vehicle.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_1/Cast.mp3
+- Assets/NewArid/Assets/Arid2/M202.fbx
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gradic/Ignition.wav
+- Assets/NewArid/PS_APC/PS_APC_Cannon/lav25_engine_idle_ext_01.ogg
+- Assets/NewArid/Assets/APC/Materials/APC.mat
+- Assets/NewArid/Assets/Zil/Zil_Truck_0.png
+- Assets/NewArid/Assets/Arid2/Tank_Shell/T62Shell.png
+- Assets/NewArid/PS_12ga_Frag_Box_Big/Item.prefab
+- Assets/NewArid/Assets/Arid2/HMG_Box_0.png
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG_Launcher/Engine_Helo.wav
+- Assets/NewArid/Assets/LittleBird/Missile_Heli.fbx
+- Assets/NewArid/Assets/Arid2/Tank_Shell/T72Shell.png
+- Assets/NewArid/PS_APC/PS_APC_Gun_Launcher/whooooosh.wav
+- Assets/NewArid/PS_Brut_12/Reload.mp3
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Colt_L/Animations.prefab
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_HMG/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_Shell/Use.wav
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile_Barricade/Item.prefab
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Gun_MLRS/Item.prefab
+- Assets/NewArid/PS_RKG3/Item.prefab
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Colt_L/Hammer.mp3
+- Assets/NewArid/Assets/Jet/Jet_Assets/Jet.fbx
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile_Barricade/Use.wav"
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_0/Reload.ogg
+- Assets/NewArid/Assets/Arid2/Ammo_Belt_3.png
+- Assets/NewArid/PS_MI8/PS_Mi8_Sota_Mag/Magazine.prefab
+- Assets/NewArid/Assets/KG/Mesh/K249_Box_1.obj
+- Assets/NewArid/Assets/LAW/Materials/LAW_0.mat
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile_Barricade/Nav.prefab"
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher/ffar_proj_far_loop.ogg
+- Assets/NewArid/Assets/T62/Dshk_1.png
+- Assets/NewArid/Assets/APC/APC.png
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Air/Ignition.wav
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Colt_L_Laser/Item.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher_Small/ffar_proj_far_loop.ogg
+- Assets/NewArid/Assets/LAW/LAW_0.obj
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_0/Item.prefab
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Air/Vehicle.prefab
+- Assets/NewArid/PS_Police_Truck/Vehicle.prefab
+- Assets/NewArid/PS_M134/PS_M134/Equip.wav
+- Assets/NewArid/Assets/Police_Truck/Materials/Police_Truck_0.mat
+- Assets/NewArid/Assets/Arid2/Tank_Shell/IEDTexture.png
+- Assets/NewArid/PS_APC/PS_APC_Launch/Ignition.mp3
+- Assets/NewArid/Assets/Arid2/Ammo_Belt_2.png
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Projectile/Use.wav
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Head/2.obj
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_1/Animations.prefab
+- Assets/NewArid/PS_Muha/whooooosh.ogg
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_2/Animations.prefab
+- Assets/NewArid/PS_M134/PS_Skibidi_M134/Item.prefab
+- Assets/NewArid/Assets/MI8/PKM.png
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile/Magazine.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_Shell/Barricade.prefab
+- Assets/NewArid/PS_M134/PS_Skibidi_M134/Animations.prefab
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_HMG/Reload.mp3
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Missiles/Item.prefab
+- Assets/NewArid/Assets/T62/Materials/HMG_Box_1.mat
+- Assets/NewArid/PS_Abrams/PS_Abrams_Gun_2/Reload.ogg
+- Assets/NewArid/PS_Abrams/PS_Abrams_Gun/Reload.ogg
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile/Item.prefab"
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_AA/Shoot.mp3
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_Launcher/Reload.mp3
+- Assets/NewArid/PS_T72_Missiles/PS_T72_Shell/Barricade.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Projectile/Barricade.prefab
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile_Barricade/Use.wav"
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar/Hammer.mp3
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG_Launcher/Vehicle.prefab
+- Assets/NewArid/Assets/HEMTT/HEMTT.fbx
+- Assets/NewArid/Assets/Zil/Wreck_Lights.png
+- Assets/NewArid/PS_M202/Aim.mp3
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Tank/Horn.wav
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Materials/IEDTexture.mat
+- Assets/NewArid/PS_T62/PS_T62/Vehicle.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_4/Animations.prefab
+- Assets/NewArid/Assets/A2C/TK-66_Seat_0.obj
+- Assets/NewArid/Assets/Zil/Zil.fbx
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_Shell/Use.wav
+- Assets/NewArid/Assets/A2C/Materials/TK-66_Grill.mat
+- Assets/NewArid/PS_T62/PS_T62_Armored/Veh_Exit.mp3
+- Assets/NewArid/PS_12gaBox_Big/Clip.prefab
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_Shell/Item.prefab
+- Assets/NewArid/PS_12ga_Frag_Box_Big/Nav.prefab
+- Assets/NewArid/PS_Jet/PS_Jet_Rockets/Item.prefab
+- Assets/NewArid/Assets/Arid2/HMG_Box_2.png
+- Assets/NewArid/PS_APC/PS_APC_Cannon/Horn.wav
+- Assets/NewArid/Assets/Arid2/Zolash_1.png
+- Assets/NewArid/Assets/A2C/TK-66_Grill.png
+- Assets/NewArid/PS_M202/Animations.prefab
+- Assets/NewArid/Assets/KG/Mesh/K249_Box_0.obj
+- Assets/NewArid/Assets/Zil/ZIL_Truck_1 #39896.png
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_MLRS/Ignition.wav
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_0/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_0/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_1/Equip.ogg
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Colt_L/Shoot.mp3
+- Assets/NewArid/Assets/KG/Mesh/K2_0.obj
+- Assets/NewArid/Assets/T62/T62.png
+- Assets/NewArid/Assets/Zil/Materials/AA_Gun_0.mat
+- Assets/NewArid/PS_IED/Use.mp3
+- Assets/NewArid/Assets/KG/Mesh/%s_%u #199.obj
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile_Barricade/Animations.prefab
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_Launcher/Item.prefab
+- Assets/NewArid/Assets/Arid2/Materials/Box.mat
+- Assets/NewArid/Assets/T62/Materials/Dshk_0.mat
+- Assets/NewArid/PS_Grad_Missile/Nav.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_3/Cast.mp3
+- Assets/NewArid/PS_12Gauge_Red_8/Item.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_4/Tug.mp3
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Projectile/Barricade.prefab
+- Assets/NewArid/Assets/LAW/RPG_Missile_E.png
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_HMG/Item.prefab
+- Assets/NewArid/Assets/KG/Texture2D/Albedo_M249Box.png
+- Assets/NewArid/Assets/LAW/RPG_Missile.png
+- Assets/NewArid/PS_TK66/Engine_Additive.wav
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_2/Cast.mp3
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile_Barricade/Item.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_Gradik/Item.prefab
+- Assets/NewArid/PS_Grad_Missile/Animations.prefab
+- Assets/NewArid/Assets/Arid2/STG_Rust_0.obj
+- Assets/NewArid/PS_APC/PS_APC_Gun_HMG/Shoot.mp3
+- Assets/NewArid/PS_IED/Animations.prefab
+- Assets/NewArid/PS_T62/PS_T62_Armored/Ignition.mp3
+- Assets/NewArid/PS_T62/PS_T62_Gun_2/Item.prefab
+- Assets/NewArid/Assets/Arid2/Materials/M202.mat
+- Assets/NewArid/Assets/Arid2/Brut.png
+- Assets/NewArid/Assets/Arid2/Materials/Brut.mat
+- Assets/NewArid/Assets/LAW/Materials/RPG_Missile.mat
+- Assets/NewArid/Assets/KG/Mesh/K3_0.obj
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Colt_L_Laser/Tactical.prefab
+- Assets/NewArid/Assets/Arid2/Ammo_Belt_1.png
+- Assets/NewArid/PS_T72_Missiles/PS_T72_Shell/Item.prefab
+- Assets/NewArid/Assets/Arid2/RPG-7.png
+- Assets/NewArid/PS_MI8/PS_Mi8_Battle/Ignition.wav
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Projectile/Item.prefab"
+- Assets/NewArid/Assets/Arid2/BrenModel.fbx
+- Assets/NewArid/Assets/Zil/Missile_Launcher_0.png
+- Assets/NewArid/PS_12ga_Frag_Box_Big/Animations.prefab
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_AA/Reload.mp3
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Projectile/Barricade.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_AA/Reload.mp3
+- Assets/NewArid/PS_BRDM/PS_BRDM_Cannon/Vehicle.prefab
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Projectile/Nav.prefab"
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile_Barricade/Barricade.prefab
+- Assets/NewArid/Assets/MI8/Helicopter_0.png
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher_Small/Reload.mp3
+- Assets/NewArid/PS_Abrams/PS_Abrams_Gun/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile_Barricade/Nav.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_HMG/Item.prefab
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Launcher/Ignition.wav
+- Assets/NewArid/Assets/Arid2/RKG/1.obj
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher_2/whooooosh.wav
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_3/Reel.mp3
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher/ffar_proj_far_loop.ogg
+- Assets/NewArid/PS_M202/whooooosh.wav
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_MLRS_MIssiles/Item.prefab
+- Assets/NewArid/PS_12gaBox/Item.prefab
+- Assets/NewArid/PS_Abrams/PS_Abrams_Gun/Abrams_Wzb.mp3
+- Assets/NewArid/Assets/LAW/Muha.fbx
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_HMG/Shoot.wav
+- Assets/NewArid/PS_IED/Barricade.prefab
+- Assets/NewArid/Assets/Abrams/Model_1.fbx
+- Assets/NewArid/PS_TK66/Vehicle.prefab
+- Assets/NewArid/Assets/Arid2/ATGMRocket.fbx
+- Assets/NewArid/Assets/KG/Mesh/%s_%u.obj
+- Assets/NewArid/Assets/Arid2/HMG_Box_1.png
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Projectile/Use.wav
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_0/Tug.mp3
+- Assets/NewArid/Assets/Jet/Jet_Assets/Arid_Part/Fire.png
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_5/Tug.mp3
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Projectile/Item.prefab
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile/Magazine.prefab"
+- Assets/NewArid/Assets/KG/Texture2D/weapon_case_0.png-CAB_52d73c8c4cb9087dbedadd54981d8ee8--2161807518583185628.png
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile/Item.prefab"
+- Assets/NewArid/PS_APC/PS_APC_Gun_HMG/Reload.mp3
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Launcher/Engine_Medium.wav
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher_2/Reload.mp3
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_Launcher/Shoot.ogg
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile_Barricade/Barricade.prefab
+- Assets/NewArid/Assets/Arid2/XLD.png
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile_Barricade/Barricade.prefab
+- Assets/NewArid/Assets/Arid2/VAN93_Rust_1.obj
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_2/Item.prefab
+- Assets/NewArid/PS_ASh_Suppressor/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_0/Equip.ogg
+- Assets/NewArid/PS_RifleGrenade/Magazine.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gradic/Horn.wav
+- Assets/NewArid/Assets/MI8/Materials/Helicopter_0.mat
+- Assets/NewArid/Assets/Police_Truck/Police.fbx
+- Assets/NewArid/Assets/Jet/Jet_Assets/Materials/glass_out 3.mat
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher/Reload.mp3
+- Assets/NewArid/Assets/Jet/Jet_Assets/Arid_Part/Fire 2.png
+- Assets/NewArid/PS_Abrams/PS_Abrams/Engine_Abrams.ogg
+- Assets/NewArid/Assets/Arid2/M202 1.png
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Materials/T62Shell.mat
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_HMG/Shoot.wav
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_MLRS/Vehicle.prefab
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile_Barricade/Item.prefab"
+- Assets/NewArid/PS_T72_Missiles/PS_T72_Shell/Use.wav
+- Assets/NewArid/Assets/A2C/TK-66_1.obj
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Colt_L/Item.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_5/Reel.mp3
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_0/Animations.prefab
+- Assets/NewArid/Effects/12ga_Shell/Effect.prefab
+- Assets/NewArid/Assets/A2C/TK-66_Steering_Wheel_0.obj
+- Assets/NewArid/Assets/Toyota/Materials/Pickup_3.mat
+- Assets/NewArid/PS_APC/PS_APC_Launcher_Mag/Magazine.prefab
+- Assets/NewArid/Assets/A2C/TK-66_Wheel_0.obj
+- Assets/NewArid/PS_M134/PS_M134_Mag/Item.prefab
+- Assets/NewArid/Assets/Zil/Materials/ZIL_Truck_0 #45441.mat
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Box/Ignition.wav
+- Assets/NewArid/Assets/KG/Texture2D/Materials/magbox_0.png-CAB_52d73c8c4cb9087dbedadd54981d8ee8-781778925311311250.mat
+- Assets/NewArid/PS_ZIL/PS_Grad_Missiles/Item.prefab
+- Assets/NewArid/Assets/A2C/TK-66.png
+- Assets/NewArid/Assets/MI8/Materials/PKM.mat
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile_Barricade/Item.prefab
+- Assets/NewArid/Assets/Arid2/Brut 2.fbx
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Gun_MLRS/Reload.mp3
+- Assets/NewArid/Assets/T62/HMG_Box_1.png
+- Assets/NewArid/Assets/Zil/Materials/Zil_Truck_1.mat
+- Assets/NewArid/PS_Zolash_Grip/Grip.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_6/Animations.prefab
+- Assets/NewArid/PS_Brut_12/Shoot.wav
+- Assets/NewArid/Assets/Arid2/RKG/2.obj
+- Assets/NewArid/PS_RPG_TBG_7B/Item.prefab
+- Assets/NewArid/PS_BRDM/PS_BRDM_Cannon/Ignition.wav
+- Assets/NewArid/Assets/HEMTT/Materials/Construction_Supplies 1.mat
+- Assets/NewArid/Assets/Arid2/Materials/VAN93_Rust.mat
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_2/Reel.mp3
+- Assets/NewArid/Assets/Arid2/Materials/Ammo_Belt_1.mat
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Projectile/Barricade.prefab"
+- Assets/NewArid/PS_RPG_TBG_7B/Magazine.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Projectile/Item.prefab
+- Assets/NewArid/Assets/A2C/Materials/TK-66.mat
+- Assets/NewArid/PS_ZIL/PS_Grad_Missiles/Magazine.prefab
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Rocket/Nav.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_0/Shoot.ogg
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Projectile/Nav.prefab
+- Assets/NewArid/PS_M202_Mag/Item.prefab
+- Assets/NewArid/Assets/Arid2/AR20_Mag_Rust.png
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_0/Item.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG_Mag/Magazine.prefab
+- Assets/NewArid/PS_12gaBox_Big/Item.prefab
+- Assets/NewArid/Susu_Guns/PS_Arsenal_P416/Item.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_6/Reel.mp3
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile_Barricade/Use.wav
+- Assets/NewArid/PS_RPG_OG7B/Item.prefab
+- Assets/NewArid/PS_Abrams/PS_Abrams/Vehicle.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_1/Reload.ogg
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Rocket/Clip.prefab
+- Assets/NewArid/Assets/Arid2/XLD_Mag.png
+- Assets/NewArid/PS_Brut_12/Aim.mp3
+- Assets/NewArid/Assets/Toyota/Pickup_0.png
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_1/Item.prefab
+- Assets/NewArid/PS_MI8/PS_Mi8/Ignition.wav
+- Assets/NewArid/PS_T62/PS_T62_Gun_2/Reload.mp3
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_AA/Item.prefab
+- Assets/NewArid/Assets/LittleBird/LuttleBirdColider.fbx
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher/Item.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_1/Item.prefab
+- Assets/NewArid/Assets/KG/Mesh/K249_0.obj
+- Assets/NewArid/PS_T62/PS_T62_Armored/Vehicle.prefab
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile_Barricade/Use.wav
+- Assets/NewArid/Assets/Arid2/Materials/Ammo_Belt_2.mat
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Projectile/Nav.prefab
+- Assets/NewArid/PS_Grad_Missile/Clip.prefab
+- Assets/NewArid/PS_T72_Missiles/PS_T72_Shell/Nav.prefab
+- Assets/NewArid/Assets/T62/LIGHTS_Pristine.png
+- Assets/NewArid/Assets/LAW/LAW_0.png
+- Assets/NewArid/Assets/Jet/Jet_Assets/Arid_Part/Smoke.mat
+- Assets/NewArid/PS_12Gauge_Red_8/Magazine.prefab
+- Assets/NewArid/PS_T72_Missiles/PS_T72_Shell/Clip.prefab
+- Assets/NewArid/Assets/Arid2/Materials/Ammo_Belt_0.mat
+- Assets/NewArid/PS_Brut_12/Hammer.mp3
+- Assets/NewArid/PS_M134/PS_M134_Mag_HE/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile_Barricade/Animations.prefab
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile_Barricade/Animations.prefab"
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Projectile/Animations.prefab"
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_Shell/Nav.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG/Engine_Helo.wav
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box_Training/Item.prefab
+- Assets/NewArid/Assets/Zil/ZIL_Truck_0 #45441.png
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launh/Ignition.wav
+- Assets/NewArid/PS_STG_Rust/Item.prefab
+- Assets/NewArid/PS_12ga_Frag_Box_Big/Barricade.prefab
+- Assets/NewArid/Assets/Arid2/12gRBox.png
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Head/3.obj
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile/Magazine.prefab
+- Assets/NewArid/PS_T62/PS_T62/t62_engine_idle_ext_01.ogg
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Shell/1.obj
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_1/Shoot.ogg
+- Assets/NewArid/Assets/Arid2/Ammo_Belt_0.png
+- Assets/NewArid/Assets/Zil/Materials/Wreck_Lights.mat
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Shell/2.obj
+- Assets/NewArid/Assets/T62/Dshk_0.png
+- Assets/NewArid/PS_RPG_PG7_VR/Magazine.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile/Item.prefab
+- Assets/NewArid/Assets/Arid2/All_In_1.png
+- Assets/NewArid/PS_M134/PS_Skibidi_M134/Minigun.mp3
+- Assets/NewArid/Assets/KG/Mesh/K7_0.obj
+- Assets/NewArid/PS_APC/PS_APC_Launcher_Mag/Item.prefab
+- Assets/NewArid/Assets/Zil/Materials/Zil_Truck_0.mat
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_Gradik/grad_proj_fly_loop_far_01.ogg
+- Assets/NewArid/Assets/Jet/Jet_Assets/Arid_Part/Smoke_1.png
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_0/Reload.ogg
+- Assets/NewArid/Assets/APC/Model_0.fbx
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile_Barricade/Clip.prefab
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Projectile/Nav.prefab"
+- Assets/NewArid/PS_XLD/Reload.mp3
+- Assets/NewArid/PS_T62_Missiles/PS_T62_Shell/Nav.prefab
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Head/1.obj
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG/Ignition.wav
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Missiles.fbx
+- Assets/NewArid/PS_MI8/PS_Mi8/mi8_engine_idle_close_01.ogg
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher/Projectile.prefab
+- Assets/NewArid/Assets/A2C/TK-66_Steering_Wheel_1.obj
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Rocket/Use.wav
+- Assets/NewArid/PS_Little_Bird/PS_Hydra_70_Mag/Magazine.prefab
+- Assets/NewArid/PS_Muha/Projectile.prefab
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launh/Horn.wav
+- Assets/NewArid/PS_TK66/Ignition.wav
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_1/Shoot.ogg
+- Assets/NewArid/Assets/KG/Mesh/K2_1.obj
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Projectile/Barricade.prefab"
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Materials/T72Shell.mat
+- Assets/NewArid/PS_M202/Projectile.prefab
+- Assets/NewArid/PS_APC/PS_APC_Gun_HMG/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_0/Shoot.ogg
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile_Barricade/Barricade.prefab"
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_HMG/Reload.ogg
+- Assets/NewArid/Assets/Arid2/12g.mat
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile_Barricade/Item.prefab
+- Assets/NewArid/Assets/Arid2/202Model.fbx
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launh/Engine_BRDM.wav
+- Assets/NewArid/Susu_Guns/PS_Arsenal_P416/Hammer.mp3
+- Assets/NewArid/PS_12gaBox_Big/Barricade.prefab
+- Assets/NewArid/Assets/Zil/Materials/Missile_Launcher_0.mat
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Tank/Ignition.wav
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile_Barricade/Nav.prefab
+- Assets/NewArid/PS_Grad_Missile/Barricade.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_0/Reload.ogg
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Projectile/Animations.prefab
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Missiles/Magazine.prefab
+- Assets/NewArid/Susu_Guns/PS_Arsenal_P416/Reload.mp3
+- Assets/NewArid/Assets/T62/Materials/T62.mat
+- Assets/NewArid/PS_IED/Item.prefab
+- Assets/NewArid/PS_Abrams/PS_Abrams/Veh_Exit.mp3
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher_2/Projectile.prefab
+- Assets/NewArid/PS_RKG3/Animations.prefab
+- Assets/NewArid/Assets/Arid2/BrutModel.fbx
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher/Shoot.ogg
+- Assets/NewArid/PS_Muha/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Projectile/Item.prefab
+- Assets/NewArid/Assets/APC/Materials/Gas_Can.mat
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Air/Horn.wav
+- Assets/NewArid/Assets/T62/Materials/Dshk_1.mat
+- Assets/NewArid/Assets/A2C/LIGHTS_Pristine.png
+- Assets/NewArid/PS_M134/PS_M134_Mag_AP/Magazine.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG/Vehicle.prefab
+- Assets/NewArid/PS_Sov_Missile/Item.prefab
+- Assets/NewArid/Assets/KG/Mesh/K1_0.obj
+- Assets/NewArid/Assets/Jet/Jet_Assets/Jet_Glass.mat
+- Assets/NewArid/PS_M134/PS_M134_Mag/Magazine.prefab
+- Assets/NewArid/PS_M134/PS_M134/Shoot.wav
+- Assets/NewArid/Assets/BRDM/BRDM-2_0.png
+- Assets/NewArid/PS_Brut_12/Item.prefab
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Projectile/Item.prefab
+- Assets/NewArid/Assets/Toyota/Pickup_1.png
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Gun_MLRS/Shoot.ogg
+- Assets/NewArid/Assets/Arid2/Materials/STG_Rust.mat
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile_Barricade/Barricade.prefab"
+- Assets/NewArid/Assets/LAW/LAW_1.obj
+- Assets/NewArid/Assets/Arid2/Materials/HMG_Box_0.mat
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Missile/3.obj
+- Assets/NewArid/Assets/LAW/LAW_Rocket_Jet.obj
+- Assets/NewArid/PS_APC/PS_APC_Launch/lav25_engine_idle_ext_01.ogg
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Projectile/Nav.prefab
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile/Magazine.prefab"
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile_Barricade/Clip.prefab"
+- Assets/NewArid/PS_XLD/Item.prefab
+- Assets/NewArid/Assets/KG/Texture2D/magbox_0.png-CAB_52d73c8c4cb9087dbedadd54981d8ee8-781778925311311250.png
+- Assets/NewArid/PS_Little_Bird/PS_Hydra_70/Item.prefab
+- Assets/NewArid/Assets/Arid2/Materials/AR20_Mag_Rust.mat
+- Assets/NewArid/Assets/A2C/TK-66_0.obj
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Projectile/Item.prefab"
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Rocket/Animations.prefab
+- Assets/NewArid/PS_APC/PS_APC_Launch/Vehicle.prefab
+- Assets/NewArid/Assets/A2C/TK-66_Wheel_1.obj
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box_AP/Item.prefab
+- Assets/NewArid/PS_M134/PS_M134_Mag_AP/Item.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Launcher/Ignition.wav
+- Assets/NewArid/PS_TK66/Clip.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Air/Horn.wav
+- Assets/NewArid/Assets/APC/Model_1.fbx
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Projectile/Animations.prefab
+- Assets/NewArid/PS_Jet/PS_Jet/Vehicle.prefab
+- Assets/NewArid/Assets/Arid2/STG_Rust_1.obj
+- Assets/NewArid/PS_Jet/PS_Jet_Sota_Mag/Magazine.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_0/Animations.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_3/Animations.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_0/Animations.prefab
+- Assets/NewArid/PS_APC/PS_APC_Gun_Launcher/Reload.mp3
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_HMG/Reload.mp3
+- Assets/NewArid/Assets/Jet/Jet_Assets/Arid_Part/Fire.mat
+- Assets/NewArid/PS_ASh_Suppressor/Barrel.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_0/Reload.ogg
+- Assets/NewArid/PS_T62_Missiles/PS_T62_Shell/Animations.prefab
+- Assets/NewArid/Assets/Arid2/Materials/HMG_Box_3.mat
+- Assets/NewArid/PS_12ga_Frag_Box_Big/Clip.prefab
+- Assets/NewArid/PS_M134/PS_Skibidi_M134/Shoot.wav
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_1/Animations.prefab
+- Assets/NewArid/PS_AR_Suppressor/Item.prefab
+- Assets/NewArid/PS_APC/PS_APC_Cannon/Vehicle.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Hydra_70_Mag/Item.prefab
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_Launcher/grad_proj_fly_loop_far_01.ogg
+- Assets/NewArid/Assets/Arid2/Materials/BREN_0.mat
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_MLRS_MIssiles/Magazine.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Launcher/Engine_Helo.wav
+- Assets/NewArid/Assets/Zil/AA_Gun_0.png
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_Launcher/Reload.mp3
+- Assets/NewArid/PS_Zolash_Grip/Item.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_AA/Shoot.mp3
+- Assets/NewArid/PS_M134/PS_Skibidi_M134/Equip.wav
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_AA/Item.prefab
+- Assets/NewArid/Assets/Arid2/Materials/Zolash_Rust.mat
+- Assets/NewArid/PS_M134/PS_M134_Mag_Training/Magazine.prefab
+- Assets/NewArid/Assets/Arid2/Brut3.fbx
+- Assets/NewArid/Assets/Zil/Materials/ZIL_Truck_1 #39896.mat
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_1/Reload.ogg
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar_30/Magazine.prefab
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Box/Vehicle.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_2/Tug.mp3
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_0/Shoot.wav
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile_Barricade/Animations.prefab"
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile/Item.prefab
+- Assets/NewArid/PS_Muha/Shoot.ogg
+- Assets/NewArid/Assets/Jet/Jet_Assets/Rotor.png
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Projectile/Animations.prefab
+- Assets/NewArid/PS_AR_Suppressor/Barrel.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Projectile/Clip.prefab
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box_Training/Magazine.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Projectile/Nav.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_6/Item.prefab
+- Assets/NewArid/PS_XLD_Mag/Item.prefab
+- Assets/NewArid/Assets/Arid2/Materials/RPG-7.mat
+- Assets/NewArid/Assets/Police_Truck/Police_Truck_0.png
+- Assets/NewArid/PS_RKG3/Use.mp3
+- Assets/NewArid/Assets/Toyota/Pickup_3.png
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher/Reload.mp3
+- Assets/NewArid/PS_Muha/Animations.prefab
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile_Barricade/Use.wav
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Rocket/Barricade.prefab
+- Assets/NewArid/PS_BRDM/PS_BRDM_Cannon/Engine_BRDM.wav
+- Assets/NewArid/Assets/Arid2/M202Proj.fbx
+- Assets/NewArid/Assets/KG/Texture2D/Materials/Albedo_M249Box.mat
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_Gradik/Shoot.ogg
+- Assets/NewArid/PS_Abrams/PS_Abrams/Ignition.mp3
+- Assets/NewArid/Assets/Abrams/M1LOD.fbx
+- Assets/NewArid/PS_12gaBox_Big/Nav.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_1/Reel.mp3
+- Assets/NewArid/PS_Jet/PS_Jet_Sota_Mag/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_0/Hammer.ogg
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_0/Reel.mp3
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_0/Hammer.ogg
+- Assets/NewArid/PS_APC/PS_APC_Cannon/Ignition.mp3
+- Assets/NewArid/PS_ASh_Suppressor/Shoot.wav
+- Assets/NewArid/PS_AR_Suppressor/Shoot.wav
+- Assets/NewArid/Assets/T62/Materials/LIGHTS_Pristine.mat
+- Assets/NewArid/PS_APC/PS_APC_Launch/APC_Alert.ogg
+- Assets/NewArid/Assets/Jet/Jet_Assets/Arid_Part/Smoke_2.mat
+- Assets/NewArid/PS_M202/Reload.mp3
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Gun_Launcher/Projectile.prefab
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Gun_MLRS/grad_proj_fly_loop_far_01.ogg
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar/Shoot.wav
+- Assets/NewArid/Assets/Arid2/Zolash_Rust_0.obj
+- Assets/NewArid/Assets/Zil/Zil_Truck_1.png
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box_HE/Magazine.prefab
+- Assets/NewArid/PS_RifleGrenade/Item.prefab
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile/Item.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Air/Vehicle.prefab
+- Assets/NewArid/Assets/Arid2/Materials/Nemesis_Scope.mat
+- Assets/NewArid/Assets/A2C/Materials/White 1.mat
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_Launcher/Projectile.prefab
+- Assets/NewArid/Assets/Arid2/Materials/XLD_Mag.mat
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile_Barricade/Animations.prefab
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher_2/Shoot.wav
+- Assets/NewArid/PS_RPG_OG7B/Magazine.prefab
+- Assets/NewArid/PS_Jet/PS_Jet/Ignition.mp3
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_5/Animations.prefab
+- Assets/NewArid/Assets/A2C/Materials/LIGHTS_Pristine.mat
+- Assets/NewArid/PS_M134/PS_M134_Mag_HE/Magazine.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_6/Tug.mp3
+- Assets/NewArid/PS_Abrams/PS_Abrams_Gun_2/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_Shell/Clip.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Missile_Barricade/Clip.prefab
+- Assets/NewArid/PS_MI8/PS_Mi8/Vehicle.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_1/Tug.mp3
+- Assets/NewArid/Assets/Jet/Jet_Assets/Jet_1.png
+- Assets/NewArid/Assets/Jet/Jet_Assets/Materials/Rotor.mat
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Mag/Magazine.prefab
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile/Magazine.prefab
+- Assets/NewArid/PS_M134/PS_M134/Animations.prefab
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher/Projectile.prefab
+- Assets/NewArid/PS_M202_Scope/Sight.prefab
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Projectile/Clip.prefab
+- Assets/NewArid/Assets/Toyota/Missiles_1 #29848.png
+- Assets/NewArid/Assets/Arid2/Zolash_Rust.png
+- Assets/NewArid/PS_M134/PS_M134_Mag_Training/Item.prefab
+- Assets/NewArid/PS_MI8/PS_Mi8_Sota_Mag/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Projectile/Use.wav
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_0/Animations.prefab
+- Assets/NewArid/Assets/Toyota/Yota.fbx
+- Assets/NewArid/Assets/Abrams/Model_0.fbx
+- Assets/NewArid/Assets/Arid2/BREN_0.png
+- Assets/NewArid/PS_Brut_12/Animations.prefab
+- Assets/NewArid/Assets/Arid2/Other.fbx
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_1/Reload.ogg
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar/Reload.mp3
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_1/Hammer.ogg
+- Assets/NewArid/Assets/KG/Texture2D/Albedo.png
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher_Small/Item.prefab
+- Assets/NewArid/Assets/Arid2/Materials/All_In_1.mat
+- Assets/NewArid/PS_M202_Mag/Magazine.prefab
+- Assets/NewArid/PS_12gaBox_Big/Animations.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_1/Animations.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_1/Hammer.ogg
+- Assets/NewArid/PS_M202/Equip.mp3
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Projectile/Animations.prefab
+- Assets/NewArid/PS_XLD/Animations.prefab
+- Assets/NewArid/Assets/Arid2/Materials/12gRBox.mat
+- Assets/NewArid/Assets/APC/DepthMask.fbx
+- Assets/NewArid/Assets/Arid2/Nemesis_Scope.png
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_Launcher/Whooosh.ogg
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box_HE/Item.prefab
+- Assets/NewArid/Assets/HEMTT/Construction_Supplies 1.png
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher/Shoot.ogg
+- Assets/NewArid/PS_APC/PS_APC_Gun_Launcher/Projectile.prefab
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_MLRS/Engine_BRDM.wav
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher_2/Item.prefab
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Launcher/Vehicle.prefab
+- Assets/NewArid/Assets/Arid2/Materials/AK_Mag_Rust.mat
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Air/Engine_Medium.wav
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gradic/Vehicle.prefab
+- Assets/NewArid/PS_T62/PS_T62_Gun_2/Shoot.wav
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar/equip.mp3
+- Assets/NewArid/Assets/Toyota/Materials/Pickup_0.mat
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_5/Cast.mp3
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Materials/AbramsShell.mat
+- Assets/NewArid/Assets/Arid2/VAN93_Rust_0.obj
+- Assets/NewArid/PS_Jet/PS_Jet/Engine.ogg
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Missile_Barricade/Nav.prefab"
+- Assets/NewArid/PS_T62/PS_T62_Gun/Reload.ogg
+- Assets/NewArid/Assets/BRDM/BRDM.fbx
+- Assets/NewArid/PS_Muha/Equip.ogg
+- Assets/NewArid/PS_XLD/Equip.mp3
+- Assets/NewArid/PS_XLD/Hammer.mp3
+- Assets/NewArid/Assets/Abrams/M1.fbx
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Tank/Vehicle.prefab
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Missile/1.obj
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_Launcher/Item.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_Gradik/Reload.mp3
+- Assets/NewArid/PS_T62/PS_T62_Gun/Item.prefab
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Shell/3.obj
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gradic/Engine_BRDM.wav
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_Launcher/Item.prefab
+- Assets/NewArid/PS_Grad_Missile/Use.wav
+- Assets/NewArid/Assets/LAW/LAW_Rocket_Flight.obj
+- Assets/NewArid/PS_BRDM/PS_BRDM_Gun_Launcher/Reload.mp3
+- Assets/NewArid/PS_T72_Missiles/PS_T72_Shell/Animations.prefab
+- Assets/NewArid/PS_RPG_PG7_VR/Item.prefab
+- Assets/NewArid/Assets/A2C/White.png
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box/Item.prefab
+- Assets/NewArid/Assets/LittleBird/SovMissile.fbx
+- Assets/NewArid/Assets/LittleBird/LuttleBird.fbx
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_3/Tug.mp3
+- Assets/NewArid/PS_Zolash_Rust/Item.prefab
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar_30/Item.prefab
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_4/Reel.mp3
+- Assets/NewArid/Assets/Arid2/AK_Mag_Rust.png
+- Assets/NewArid/Assets/BRDM/Materials/BRDM-2_0.mat
+- Assets/NewArid/Assets/Jet/Jet_Assets/Arid_Part/Smoke_Dark.png
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Projectile/Animations.prefab"
+- Assets/NewArid/Assets/KG/Mesh/K1_1.obj
+- Assets/NewArid/Assets/Jet/Jet_Assets/Materials/Jet_1.mat
+- Assets/NewArid/PS_ZIL/PS_ZIL_Air/Ignition.wav
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile_Barricade/Clip.prefab
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Projectile/Clip.prefab
+- Assets/NewArid/Assets/Arid2/Materials/XLD.mat
+- Assets/NewArid/PS_VAN93_Rust/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile_Barricade/Barricade.prefab
+- Assets/NewArid/PS_MI8/PS_Mi8_Battle/mi8_engine_idle_close_01.ogg
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher_Small/Projectile.prefab
+- Assets/NewArid/PS_Police_Truck/Engine_Medium.wav
+- Assets/NewArid/PS_T72_Missiles/PS_T72_ZOF26_Missile_Barricade/Animations.prefab
+- Assets/NewArid/PS_T62/PS_T62_Gun/Abrams_Wzb.mp3
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile_Barricade/Nav.prefab
+- Assets/NewArid/Assets/Arid2/STG_Rust.png
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_6/Cast.mp3
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Colt_L/Reload.mp3
+- Assets/NewArid/PS_Brut_12/Equip.mp3
+- Assets/NewArid/Assets/Arid2/Tank_Shell/AbramsShell.png
+- Assets/NewArid/Assets/A2C/TK-66_Lights.obj
+- Assets/NewArid/Assets/Arid2/Tank_Shell/Missile/2.obj
+- Assets/NewArid/Assets/HEMTT/Tank_2.png
+- Assets/NewArid/PS_BRDM/PS_BRDM/Horn.wav
+- Assets/NewArid/Assets/Arid2/Materials/Ammo_Belt_3.mat
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_Launcher_Small/Shoot.ogg
+- Assets/NewArid/PS_XLD/Shoot.wav
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile_Barricade/Use.wav
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_1/Hammer.ogg
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_1/Animations.prefab
+- Assets/NewArid/Assets/Arid2/RKG/3.obj
+- Assets/NewArid/Assets/T62/T62.fbx
+- Assets/NewArid/PS_Grad_Missile/Item.prefab
+- Assets/NewArid/Assets/Arid2/VAN93_Rust.png
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Rocket/Item.prefab
+- Assets/NewArid/PS_APC/PS_APC_Gun_Launcher/Item.prefab
+- Assets/NewArid/PS_ZIL/PS_ZIL_Gun_Gradik/Projectile.prefab
+- Assets/NewArid/Assets/Arid2/Materials/Zolash_1.mat
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_Shell/Animations.prefab
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_F_Missile_Barricade/Nav.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_Shell/Item.prefab
+- Assets/NewArid/Assets/Toyota/Materials/Pickup_1.mat
+- Assets/NewArid/PS_M134/PS_M134/Reload.mp3
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile_Barricade/Clip.prefab
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launh/Vehicle.prefab
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_Launcher/Shoot.ogg
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZOF37_Missile/Magazine.prefab
+- Assets/NewArid/Assets/KG/Texture2D/Materials/Albedo.mat
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Gun_MLRS/Projectile.prefab
+- Assets/NewArid/PS_APC/PS_APC_Gun_Launcher/Shoot.wav
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_1/Item.prefab
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Box/Horn.wav
+- Assets/NewArid/Assets/HEMTT/Materials/Tank_2.mat
+- Assets/NewArid/PS_XLD_Mag/Magazine.prefab
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_Shell/Clip.prefab
+- Assets/NewArid/PS_M134/PS_Skibidi_M134/Reload.mp3
+- Assets/NewArid/PS_M134/PS_M134/Item.prefab
+- Assets/NewArid/Assets/Arid2/Materials/HMG_Box_1.mat
+- Assets/NewArid/PS_MI8/PS_Mi8_Battle/Vehicle.prefab
+- Assets/NewArid/Assets/Jet/Jet_Assets/Materials/Heli.mat
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_0/Item.prefab
+- Assets/NewArid/Assets/A2C/Materials/White.mat
+- Assets/NewArid/Assets/Arid2/Materials/HMG_Box_2.mat
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK3_1/Shoot.wav
+- Assets/NewArid/PS_Jet/PS_Jet_Gun_Launcher/Item.prefab
+- Assets/NewArid/PS_M202_Scope/Item.prefab
+- Assets/NewArid/Assets/Arid2/BG/3.obj
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_MLRS/Horn.wav
+- Assets/NewArid/PS_T62/PS_T62_Armored/t62_engine_idle_ext_01.ogg
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Projectile/Use.wav"
+- Assets/NewArid/PS_BRDM/PS_BRDM/Vehicle.prefab
+- Assets/NewArid/PS_Toyota_Ersatz/PS_Toyota_Launcher/Horn.wav
+- Assets/NewArid/PS_RKG3/Throwable.prefab
+- Assets/NewArid/Assets/KG/Mesh/K7_1.obj
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Box/Engine_BRDM.wav
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_0/Cast.mp3
+- Assets/NewArid/PS_TK66/Engine_Sports.wav
+- Assets/NewArid/PS_T62/PS_T62/Veh_Exit.mp3
+- Assets/NewArid/PS_T62/PS_T62/Ignition.mp3
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_0/Hammer.ogg
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_Gun_HMG/Shoot.wav
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box_AP/Magazine.prefab
+- Assets/NewArid/PS_APC/PS_APC_Cannon/APC_Alert.ogg
+- Assets/NewArid/PS_M202/Item.prefab
+- Assets/NewArid/PS_M202/Shoot.wav
+- Assets/NewArid/PS_XLD/Aim.mp3
+- Assets/NewArid/Assets/Arid2/M202_2.png
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG_Mag/Item.prefab
+- Assets/NewArid/Assets/Arid2/Heli.png
+- Assets/NewArid/PS_M134/PS_M134/Minigun.ogg
+- Assets/NewArid/Assets/Arid2/XLDModel.fbx
+- Assets/NewArid/PS_BRDM/PS_BRDM_Cannon/Horn.wav
+- Assets/NewArid/Assets/APC/Gas_Can.png
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Projectile/Use.wav
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_0/Animations.prefab
+- Assets/NewArid/PS_Abrams/PS_Abrams_Gun_2/Shoot.wav
+- Assets/NewArid/PS_12Gauge_Frag_8/Item.prefab
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Projectile/Barricade.prefab
+- Assets/NewArid/Assets/KG/Texture2D/Materials/weapon_case_0.png-CAB_52d73c8c4cb9087dbedadd54981d8ee8--2161807518583185628.mat
+- Assets/NewArid/PS_Little_Bird/PS_Little_Bird_HMG_Launcher/Ignition.wav
+- Assets/NewArid/Assets/Arid2/Box.png
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_3/Item.prefab
+- Assets/NewArid/Assets/Arid2/M202.png
+- Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_Shell/Barricade.prefab
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile_Barricade/Item.prefab"
+- Assets/NewArid/Assets/Arid2/BG/2.obj
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_Launcher/Projectile.prefab
+- Assets/NewArid/PS_BRDM/PS_BRDM/Ignition.wav
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_5/Item.prefab
+- Assets/NewArid/PS_Jet/PS_Jet_Rockets/Magazine.prefab
+- Assets/NewArid/PS_T62/PS_T62_Gun/Shoot.ogg
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Missile_Barricade/Clip.prefab"
+- Assets/NewArid/Assets/Toyota/Pickup_2.png
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Projectile/Use.wav"
+- Assets/NewArid/PS_Police_Truck/Horn.wav
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_4/Cast.mp3
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_1/Animations.prefab
+- Assets/NewArid/Susu_Guns/PS_Arsenal_P416/Animations.prefab
+- Assets/NewArid/PS_MI8/PS_Mi8_Gun_Launcher/ffar_proj_far_loop.ogg
+- "Assets/NewArid/PS_T72_Missiles/PS_T72_Z\u041CBM7_Projectile/Clip.prefab"
+- Assets/NewArid/PS_APC/PS_APC_HMG_Box/Magazine.prefab
+- Assets/NewArid/Assets/Arid2/HMG_Box_3.png
+- Assets/NewArid/PS_BRDM/PS_BRDM_Launcher_Mag/Item.prefab
+- "Assets/NewArid/PS_Abrams_Misiles/PS_Abrams_\u041C829_Projectile/Clip.prefab"
+- Assets/NewArid/Assets/Toyota/Materials/Pickup_2.mat
+- Assets/NewArid/PS_Abrams/PS_Abrams_Gun/Shoot.ogg
+- Assets/NewArid/PS_HEMTT/PS_HEMTT_Tank/Engine_BRDM.wav
+- Assets/NewArid/Assets/A2C/Materials/White 2.mat
+- Assets/NewArid/PS_T62_Missiles/PS_T62_ZBM21_Projectile/Clip.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK1A_1/Reload.ogg
+- Assets/NewArid/PS_Rods/PS_Rod_Tier_4/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK2_1/Item.prefab
+- Assets/NewArid/PS_Korean_Guns/PS_K_SK7_1/Item.prefab
+- Assets/NewArid/Susu_Guns/PS_Arsenal_P416/Shoot.mp3
+- Assets/NewArid/Assets/Arid2/Zolash_Rust_1.obj
+- Assets/NewArid/Assets/Toyota/Materials/Missiles_1 #29848.mat
+- Assets/NewArid/Susu_Guns/PS_Arsenal_Bozar/Animations.prefab
+- Assets/NewArid/PS_Police_Truck/Ignition.wav
+- Assets/NewArid/PS_BRDM/PS_BRDM/Engine_BRDM.wav
+Dependencies: []

@@ -1,0 +1,80 @@
+GUID 2cc7c2d2b31a436886b9d7d8bcd0ec44
+Type Vehicle
+
+Has_Clip_Prefab False
+
+Rarity Legendary
+ID 10215
+
+Override_Center_Of_Mass True
+Center_Of_Mass_x 0.0
+Center_Of_Mass_y 0.0
+Center_Of_Mass_z -5.0
+
+Speed_Min -29
+Speed_Max 24
+
+Steer_Min 37
+Steer_Max 29
+Exit 4
+
+Brake 64
+
+Fuel_Min 3000
+Fuel_Max 4000
+Fuel 12000
+
+Health_Min 1000
+Health_Max 1500
+Health 4000
+
+LockMouse
+Engine Helicopter
+Traction
+
+Cam_Follow_Distance 28
+
+Trunk_Storage_X 10
+Trunk_Storage_Y 20
+
+Explosion 19021
+
+Drops_Table_ID 59015
+Drops_Min 8
+Drops_Max 12
+Tires_Invulnerable
+
+Pitch_Drive 0.01
+
+Fuel_Burn_Rate 11
+
+Valid_Speed_Horizontal 300
+
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+
+Turrets 3
+
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 10729
+Turret_0_Yaw_Min -360
+Turret_0_Yaw_Max 360
+Turret_0_Pitch_Min 60
+Turret_0_Pitch_Max 105
+
+Turret_1_Seat_Index 2
+Turret_1_Item_ID 10728
+Turret_1_Yaw_Min -45
+Turret_1_Yaw_Max 45
+Turret_1_Pitch_Min 50
+Turret_1_Pitch_Max 110
+
+Turret_2_Seat_Index 3
+Turret_2_Item_ID 10728
+Turret_2_Yaw_Min -45
+Turret_2_Yaw_Max 45
+Turret_2_Pitch_Min 50
+Turret_2_Pitch_Max 110
