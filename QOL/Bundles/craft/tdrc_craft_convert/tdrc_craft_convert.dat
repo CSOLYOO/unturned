@@ -3,7 +3,7 @@ GUID 9358d476646643f98934c09fe8185f97
 Type Supply
 ID 63506
 
-Blueprints 1
+Blueprints 9
 
 //大宗金属板合成
 
@@ -17,6 +17,95 @@ Blueprint_0_Products 1
 Blueprint_0_Level 1
 Blueprint_0_Skill Craft
 Blueprint_0_Build 27
+
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 334
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Tool 76
+Blueprint_1_Product 20272
+Blueprint_1_Products 1
+Blueprint_1_Level 1
+Blueprint_1_Skill Craft
+Blueprint_1_Build 27
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 334
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Tool 76
+Blueprint_2_Product 20098
+Blueprint_2_Products 1
+Blueprint_2_Level 1
+Blueprint_2_Skill Craft
+Blueprint_2_Build 27
+
+Blueprint_3_Type Gear
+Blueprint_3_Supplies 1
+Blueprint_3_Supply_0_ID 334
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Tool 76
+Blueprint_3_Product 20273
+Blueprint_3_Products 1
+Blueprint_3_Level 1
+Blueprint_3_Skill Craft
+Blueprint_3_Build 27
+
+Blueprint_4_Type Gear
+Blueprint_4_Supplies 1
+Blueprint_4_Supply_0_ID 334
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Tool 76
+Blueprint_4_Product 20100
+Blueprint_4_Products 1
+Blueprint_4_Level 1
+Blueprint_4_Skill Craft
+Blueprint_4_Build 27
+
+Blueprint_5_Type Gear
+Blueprint_5_Supplies 1
+Blueprint_5_Supply_0_ID 334
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Tool 76
+Blueprint_5_Product 20274
+Blueprint_5_Products 1
+Blueprint_5_Level 1
+Blueprint_5_Skill Craft
+Blueprint_5_Build 27
+
+Blueprint_6_Type Gear
+Blueprint_6_Supplies 1
+Blueprint_6_Supply_0_ID 334
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Tool 76
+Blueprint_6_Product 20063
+Blueprint_6_Products 1
+Blueprint_6_Level 1
+Blueprint_6_Skill Craft
+Blueprint_6_Build 27
+
+Blueprint_7_Type Gear
+Blueprint_7_Supplies 1
+Blueprint_7_Supply_0_ID 334
+Blueprint_7_Supply_0_Amount 1
+Blueprint_7_Tool 76
+Blueprint_7_Product 20275
+Blueprint_7_Products 1
+Blueprint_7_Level 1
+Blueprint_7_Skill Craft
+Blueprint_7_Build 27
+
+Blueprint_8_Type Gear
+Blueprint_8_Supplies 1
+Blueprint_8_Supply_0_ID 334
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Tool 76
+Blueprint_8_Product 20101
+Blueprint_8_Products 1
+Blueprint_8_Level 1
+Blueprint_8_Skill Craft
+Blueprint_8_Build 27
+
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Backpacks/Alicepack

@@ -7,7 +7,7 @@ Size_X 2
 Size_Y 2
 Size_Z 0.45
 
-Blueprints 2
+Blueprints 75
 Blueprint_0_Type Supply
 Blueprint_0_Supplies 5
 Blueprint_0_Supply_0_ID 1055
@@ -45,3 +45,734 @@ Action_0_Text 获取随机奖池物品
 
 Master_Bundle_Override core.masterbundle
 Bundle_Override_Path /Items/Barricades/Wardrobe_Metal
+
+Blueprint_2_Type Gear
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 63535
+Blueprint_2_Supply_0_Amount 1
+Blueprint_2_Supply_1_ID 1055
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Products 1
+Blueprint_2_Product 20276
+Blueprint_2_Tool 63522
+Blueprint_2_Build 27
+
+Blueprint_3_Type Gear
+Blueprint_3_Supplies 2
+Blueprint_3_Supply_0_ID 63535
+Blueprint_3_Supply_0_Amount 1
+Blueprint_3_Supply_1_ID 1055
+Blueprint_3_Supply_1_Amount 1
+Blueprint_3_Product 20277
+Blueprint_3_Tool 63522
+Blueprint_3_Build 27
+
+Blueprint_4_Type Gear
+Blueprint_4_Supplies 2
+Blueprint_4_Supply_0_ID 63535
+Blueprint_4_Supply_0_Amount 1
+Blueprint_4_Supply_1_ID 1055
+Blueprint_4_Supply_1_Amount 1
+Blueprint_4_Product 20278
+Blueprint_4_Tool 63522
+Blueprint_4_Build 27
+
+Blueprint_5_Type Gear
+Blueprint_5_Supplies 2
+Blueprint_5_Supply_0_ID 63535
+Blueprint_5_Supply_0_Amount 1
+Blueprint_5_Supply_1_ID 1055
+Blueprint_5_Supply_1_Amount 1
+Blueprint_5_Product 20279
+Blueprint_5_Tool 63522
+Blueprint_5_Build 27
+
+Blueprint_6_Type Gear
+Blueprint_6_Supplies 2
+Blueprint_6_Supply_0_ID 63535
+Blueprint_6_Supply_0_Amount 1
+Blueprint_6_Supply_1_ID 1055
+Blueprint_6_Supply_1_Amount 1
+Blueprint_6_Product 20910
+Blueprint_6_Tool 63522
+Blueprint_6_Build 27
+
+Blueprint_7_Type Gear
+Blueprint_7_Supplies 2
+Blueprint_7_Supply_0_ID 63535
+Blueprint_7_Supply_0_Amount 1
+Blueprint_7_Supply_1_ID 1055
+Blueprint_7_Supply_1_Amount 1
+Blueprint_7_Product 20911
+Blueprint_7_Tool 63522
+Blueprint_7_Build 27
+
+Blueprint_8_Type Gear
+Blueprint_8_Supplies 2
+Blueprint_8_Supply_0_ID 63535
+Blueprint_8_Supply_0_Amount 1
+Blueprint_8_Supply_1_ID 1055
+Blueprint_8_Supply_1_Amount 1
+Blueprint_8_Product 20280
+Blueprint_8_Tool 63522
+Blueprint_8_Build 27
+
+Blueprint_9_Type Gear
+Blueprint_9_Supplies 2
+Blueprint_9_Supply_0_ID 63535
+Blueprint_9_Supply_0_Amount 1
+Blueprint_9_Supply_1_ID 1055
+Blueprint_9_Supply_1_Amount 1
+Blueprint_9_Product 20281
+Blueprint_9_Tool 63522
+Blueprint_9_Build 27
+
+Blueprint_10_Type Gear
+Blueprint_10_Supplies 2
+Blueprint_10_Supply_0_ID 63535
+Blueprint_10_Supply_0_Amount 1
+Blueprint_10_Supply_1_ID 1055
+Blueprint_10_Supply_1_Amount 1
+Blueprint_10_Product 21092
+Blueprint_10_Tool 63522
+Blueprint_10_Build 27
+
+Blueprint_11_Type Gear
+Blueprint_11_Supplies 2
+Blueprint_11_Supply_0_ID 63535
+Blueprint_11_Supply_0_Amount 1
+Blueprint_11_Supply_1_ID 1055
+Blueprint_11_Supply_1_Amount 1
+Blueprint_11_Product 21093
+Blueprint_11_Tool 63522
+Blueprint_11_Build 27
+
+Blueprint_12_Type Gear
+Blueprint_12_Supplies 2
+Blueprint_12_Supply_0_ID 63535
+Blueprint_12_Supply_0_Amount 1
+Blueprint_12_Supply_1_ID 1055
+Blueprint_12_Supply_1_Amount 1
+Blueprint_12_Product 21094
+Blueprint_12_Tool 63522
+Blueprint_12_Build 27
+
+Blueprint_13_Type Gear
+Blueprint_13_Supplies 2
+Blueprint_13_Supply_0_ID 63535
+Blueprint_13_Supply_0_Amount 1
+Blueprint_13_Supply_1_ID 1055
+Blueprint_13_Supply_1_Amount 1
+Blueprint_13_Product 20314
+Blueprint_13_Tool 63522
+Blueprint_13_Build 27
+
+Blueprint_14_Type Gear
+Blueprint_14_Supplies 2
+Blueprint_14_Supply_0_ID 63535
+Blueprint_14_Supply_0_Amount 1
+Blueprint_14_Supply_1_ID 1055
+Blueprint_14_Supply_1_Amount 1
+Blueprint_14_Product 20806
+Blueprint_14_Tool 63522
+Blueprint_14_Build 27
+
+Blueprint_15_Type Gear
+Blueprint_15_Supplies 2
+Blueprint_15_Supply_0_ID 63535
+Blueprint_15_Supply_0_Amount 1
+Blueprint_15_Supply_1_ID 1055
+Blueprint_15_Supply_1_Amount 1
+Blueprint_15_Product 20807
+Blueprint_15_Tool 63522
+Blueprint_15_Build 27
+
+Blueprint_16_Type Gear
+Blueprint_16_Supplies 2
+Blueprint_16_Supply_0_ID 63535
+Blueprint_16_Supply_0_Amount 1
+Blueprint_16_Supply_1_ID 1055
+Blueprint_16_Supply_1_Amount 1
+Blueprint_16_Product 20808
+Blueprint_16_Tool 63522
+Blueprint_16_Build 27
+
+Blueprint_17_Type Gear
+Blueprint_17_Supplies 2
+Blueprint_17_Supply_0_ID 63535
+Blueprint_17_Supply_0_Amount 1
+Blueprint_17_Supply_1_ID 1055
+Blueprint_17_Supply_1_Amount 1
+Blueprint_17_Product 20809
+Blueprint_17_Tool 63522
+Blueprint_17_Build 27
+
+Blueprint_18_Type Gear
+Blueprint_18_Supplies 2
+Blueprint_18_Supply_0_ID 63535
+Blueprint_18_Supply_0_Amount 1
+Blueprint_18_Supply_1_ID 1055
+Blueprint_18_Supply_1_Amount 1
+Blueprint_18_Product 20810
+Blueprint_18_Tool 63522
+Blueprint_18_Build 27
+
+Blueprint_19_Type Gear
+Blueprint_19_Supplies 2
+Blueprint_19_Supply_0_ID 63535
+Blueprint_19_Supply_0_Amount 1
+Blueprint_19_Supply_1_ID 1055
+Blueprint_19_Supply_1_Amount 1
+Blueprint_19_Product 20811
+Blueprint_19_Tool 63522
+Blueprint_19_Build 27
+
+Blueprint_20_Type Gear
+Blueprint_20_Supplies 2
+Blueprint_20_Supply_0_ID 63535
+Blueprint_20_Supply_0_Amount 1
+Blueprint_20_Supply_1_ID 1055
+Blueprint_20_Supply_1_Amount 1
+Blueprint_20_Product 20812
+Blueprint_20_Tool 63522
+Blueprint_20_Build 27
+
+Blueprint_21_Type Gear
+Blueprint_21_Supplies 2
+Blueprint_21_Supply_0_ID 63535
+Blueprint_21_Supply_0_Amount 1
+Blueprint_21_Supply_1_ID 1055
+Blueprint_21_Supply_1_Amount 1
+Blueprint_21_Product 20813
+Blueprint_21_Tool 63522
+Blueprint_21_Build 27
+
+Blueprint_22_Type Gear
+Blueprint_22_Supplies 2
+Blueprint_22_Supply_0_ID 63535
+Blueprint_22_Supply_0_Amount 1
+Blueprint_22_Supply_1_ID 1055
+Blueprint_22_Supply_1_Amount 1
+Blueprint_22_Product 20814
+Blueprint_22_Tool 63522
+Blueprint_22_Build 27
+
+Blueprint_23_Type Gear
+Blueprint_23_Supplies 2
+Blueprint_23_Supply_0_ID 63535
+Blueprint_23_Supply_0_Amount 1
+Blueprint_23_Supply_1_ID 1055
+Blueprint_23_Supply_1_Amount 1
+Blueprint_23_Product 20815
+Blueprint_23_Tool 63522
+Blueprint_23_Build 27
+
+Blueprint_24_Type Gear
+Blueprint_24_Supplies 2
+Blueprint_24_Supply_0_ID 63535
+Blueprint_24_Supply_0_Amount 1
+Blueprint_24_Supply_1_ID 1055
+Blueprint_24_Supply_1_Amount 1
+Blueprint_24_Product 20816
+Blueprint_24_Tool 63522
+Blueprint_24_Build 27
+
+Blueprint_25_Type Gear
+Blueprint_25_Supplies 2
+Blueprint_25_Supply_0_ID 63535
+Blueprint_25_Supply_0_Amount 1
+Blueprint_25_Supply_1_ID 1055
+Blueprint_25_Supply_1_Amount 1
+Blueprint_25_Product 20817
+Blueprint_25_Tool 63522
+Blueprint_25_Build 27
+
+Blueprint_26_Type Gear
+Blueprint_26_Supplies 2
+Blueprint_26_Supply_0_ID 63535
+Blueprint_26_Supply_0_Amount 1
+Blueprint_26_Supply_1_ID 1055
+Blueprint_26_Supply_1_Amount 1
+Blueprint_26_Product 20308
+Blueprint_26_Tool 63522
+Blueprint_26_Build 27
+
+Blueprint_27_Type Gear
+Blueprint_27_Supplies 2
+Blueprint_27_Supply_0_ID 63535
+Blueprint_27_Supply_0_Amount 1
+Blueprint_27_Supply_1_ID 1055
+Blueprint_27_Supply_1_Amount 1
+Blueprint_27_Product 20217
+Blueprint_27_Tool 63522
+Blueprint_27_Build 27
+
+Blueprint_28_Type Gear
+Blueprint_28_Supplies 2
+Blueprint_28_Supply_0_ID 63535
+Blueprint_28_Supply_0_Amount 1
+Blueprint_28_Supply_1_ID 1055
+Blueprint_28_Supply_1_Amount 1
+Blueprint_28_Product 20218
+Blueprint_28_Tool 63522
+Blueprint_28_Build 27
+
+Blueprint_29_Type Gear
+Blueprint_29_Supplies 2
+Blueprint_29_Supply_0_ID 63535
+Blueprint_29_Supply_0_Amount 1
+Blueprint_29_Supply_1_ID 1055
+Blueprint_29_Supply_1_Amount 1
+Blueprint_29_Product 20219
+Blueprint_29_Tool 63522
+Blueprint_29_Build 27
+
+Blueprint_30_Type Gear
+Blueprint_30_Supplies 2
+Blueprint_30_Supply_0_ID 63535
+Blueprint_30_Supply_0_Amount 1
+Blueprint_30_Supply_1_ID 1055
+Blueprint_30_Supply_1_Amount 1
+Blueprint_30_Product 20220
+Blueprint_30_Tool 63522
+Blueprint_30_Build 27
+
+Blueprint_31_Type Gear
+Blueprint_31_Supplies 2
+Blueprint_31_Supply_0_ID 63535
+Blueprint_31_Supply_0_Amount 1
+Blueprint_31_Supply_1_ID 1055
+Blueprint_31_Supply_1_Amount 1
+Blueprint_31_Product 20920
+Blueprint_31_Tool 63522
+Blueprint_31_Build 27
+
+Blueprint_32_Type Gear
+Blueprint_32_Supplies 2
+Blueprint_32_Supply_0_ID 63535
+Blueprint_32_Supply_0_Amount 1
+Blueprint_32_Supply_1_ID 1055
+Blueprint_32_Supply_1_Amount 1
+Blueprint_32_Product 20921
+Blueprint_32_Tool 63522
+Blueprint_32_Build 27
+
+Blueprint_33_Type Gear
+Blueprint_33_Supplies 2
+Blueprint_33_Supply_0_ID 63535
+Blueprint_33_Supply_0_Amount 1
+Blueprint_33_Supply_1_ID 1055
+Blueprint_33_Supply_1_Amount 1
+Blueprint_33_Product 20221
+Blueprint_33_Tool 63522
+Blueprint_33_Build 27
+
+Blueprint_34_Type Gear
+Blueprint_34_Supplies 2
+Blueprint_34_Supply_0_ID 63535
+Blueprint_34_Supply_0_Amount 1
+Blueprint_34_Supply_1_ID 1055
+Blueprint_34_Supply_1_Amount 1
+Blueprint_34_Product 20222
+Blueprint_34_Tool 63522
+Blueprint_34_Build 27
+
+Blueprint_35_Type Gear
+Blueprint_35_Supplies 2
+Blueprint_35_Supply_0_ID 63535
+Blueprint_35_Supply_0_Amount 1
+Blueprint_35_Supply_1_ID 1055
+Blueprint_35_Supply_1_Amount 1
+Blueprint_35_Product 20888
+Blueprint_35_Tool 63522
+Blueprint_35_Build 27
+
+Blueprint_36_Type Gear
+Blueprint_36_Supplies 2
+Blueprint_36_Supply_0_ID 63535
+Blueprint_36_Supply_0_Amount 1
+Blueprint_36_Supply_1_ID 1055
+Blueprint_36_Supply_1_Amount 1
+Blueprint_36_Product 20165
+Blueprint_36_Tool 63522
+Blueprint_36_Build 27
+
+Blueprint_37_Type Gear
+Blueprint_37_Supplies 2
+Blueprint_37_Supply_0_ID 63535
+Blueprint_37_Supply_0_Amount 1
+Blueprint_37_Supply_1_ID 1055
+Blueprint_37_Supply_1_Amount 1
+Blueprint_37_Product 20115
+Blueprint_37_Tool 63522
+Blueprint_37_Build 27
+
+Blueprint_38_Type Gear
+Blueprint_38_Supplies 2
+Blueprint_38_Supply_0_ID 63535
+Blueprint_38_Supply_0_Amount 1
+Blueprint_38_Supply_1_ID 1055
+Blueprint_38_Supply_1_Amount 1
+Blueprint_38_Product 20116
+Blueprint_38_Tool 63522
+Blueprint_38_Build 27
+
+Blueprint_39_Type Gear
+Blueprint_39_Supplies 2
+Blueprint_39_Supply_0_ID 63535
+Blueprint_39_Supply_0_Amount 1
+Blueprint_39_Supply_1_ID 1055
+Blueprint_39_Supply_1_Amount 1
+Blueprint_39_Product 20117
+Blueprint_39_Tool 63522
+Blueprint_39_Build 27
+
+Blueprint_40_Type Gear
+Blueprint_40_Supplies 2
+Blueprint_40_Supply_0_ID 63535
+Blueprint_40_Supply_0_Amount 1
+Blueprint_40_Supply_1_ID 1055
+Blueprint_40_Supply_1_Amount 1
+Blueprint_40_Product 20118
+Blueprint_40_Tool 63522
+Blueprint_40_Build 27
+
+Blueprint_41_Type Gear
+Blueprint_41_Supplies 2
+Blueprint_41_Supply_0_ID 63535
+Blueprint_41_Supply_0_Amount 1
+Blueprint_41_Supply_1_ID 1055
+Blueprint_41_Supply_1_Amount 1
+Blueprint_41_Product 20119
+Blueprint_41_Tool 63522
+Blueprint_41_Build 27
+
+Blueprint_42_Type Gear
+Blueprint_42_Supplies 2
+Blueprint_42_Supply_0_ID 63535
+Blueprint_42_Supply_0_Amount 1
+Blueprint_42_Supply_1_ID 1055
+Blueprint_42_Supply_1_Amount 1
+Blueprint_42_Product 20120
+Blueprint_42_Tool 63522
+Blueprint_42_Build 27
+
+Blueprint_43_Type Gear
+Blueprint_43_Supplies 2
+Blueprint_43_Supply_0_ID 63535
+Blueprint_43_Supply_0_Amount 1
+Blueprint_43_Supply_1_ID 1055
+Blueprint_43_Supply_1_Amount 1
+Blueprint_43_Product 21063
+Blueprint_43_Tool 63522
+Blueprint_43_Build 27
+
+Blueprint_44_Type Gear
+Blueprint_44_Supplies 2
+Blueprint_44_Supply_0_ID 63535
+Blueprint_44_Supply_0_Amount 1
+Blueprint_44_Supply_1_ID 1055
+Blueprint_44_Supply_1_Amount 1
+Blueprint_44_Product 20378
+Blueprint_44_Tool 63522
+Blueprint_44_Build 27
+
+Blueprint_45_Type Gear
+Blueprint_45_Supplies 2
+Blueprint_45_Supply_0_ID 63535
+Blueprint_45_Supply_0_Amount 1
+Blueprint_45_Supply_1_ID 1055
+Blueprint_45_Supply_1_Amount 1
+Blueprint_45_Product 20564
+Blueprint_45_Tool 63522
+Blueprint_45_Build 27
+
+Blueprint_46_Type Gear
+Blueprint_46_Supplies 2
+Blueprint_46_Supply_0_ID 63535
+Blueprint_46_Supply_0_Amount 1
+Blueprint_46_Supply_1_ID 1055
+Blueprint_46_Supply_1_Amount 1
+Blueprint_46_Product 52009
+Blueprint_46_Tool 63522
+Blueprint_46_Build 27
+
+Blueprint_47_Type Gear
+Blueprint_47_Supplies 2
+Blueprint_47_Supply_0_ID 63535
+Blueprint_47_Supply_0_Amount 1
+Blueprint_47_Supply_1_ID 1055
+Blueprint_47_Supply_1_Amount 1
+Blueprint_47_Product 20946
+Blueprint_47_Tool 63522
+Blueprint_47_Build 27
+
+Blueprint_48_Type Gear
+Blueprint_48_Supplies 2
+Blueprint_48_Supply_0_ID 63535
+Blueprint_48_Supply_0_Amount 1
+Blueprint_48_Supply_1_ID 1055
+Blueprint_48_Supply_1_Amount 1
+Blueprint_48_Product 20609
+Blueprint_48_Tool 63522
+Blueprint_48_Build 27
+
+Blueprint_49_Type Gear
+Blueprint_49_Supplies 2
+Blueprint_49_Supply_0_ID 63535
+Blueprint_49_Supply_0_Amount 1
+Blueprint_49_Supply_1_ID 1055
+Blueprint_49_Supply_1_Amount 1
+Blueprint_49_Product 20947
+Blueprint_49_Tool 63522
+Blueprint_49_Build 27
+
+Blueprint_50_Type Gear
+Blueprint_50_Supplies 2
+Blueprint_50_Supply_0_ID 63535
+Blueprint_50_Supply_0_Amount 1
+Blueprint_50_Supply_1_ID 1055
+Blueprint_50_Supply_1_Amount 1
+Blueprint_50_Product 20628
+Blueprint_50_Tool 63522
+Blueprint_50_Build 27
+
+Blueprint_51_Type Gear
+Blueprint_51_Supplies 2
+Blueprint_51_Supply_0_ID 63535
+Blueprint_51_Supply_0_Amount 1
+Blueprint_51_Supply_1_ID 1055
+Blueprint_51_Supply_1_Amount 1
+Blueprint_51_Product 20948
+Blueprint_51_Tool 63522
+Blueprint_51_Build 27
+
+Blueprint_52_Type Gear
+Blueprint_52_Supplies 2
+Blueprint_52_Supply_0_ID 63535
+Blueprint_52_Supply_0_Amount 1
+Blueprint_52_Supply_1_ID 1055
+Blueprint_52_Supply_1_Amount 1
+Blueprint_52_Product 20647
+Blueprint_52_Tool 63522
+Blueprint_52_Build 27
+
+Blueprint_53_Type Gear
+Blueprint_53_Supplies 2
+Blueprint_53_Supply_0_ID 63535
+Blueprint_53_Supply_0_Amount 1
+Blueprint_53_Supply_1_ID 1055
+Blueprint_53_Supply_1_Amount 1
+Blueprint_53_Product 20949
+Blueprint_53_Tool 63522
+Blueprint_53_Build 27
+
+Blueprint_54_Type Gear
+Blueprint_54_Supplies 2
+Blueprint_54_Supply_0_ID 63535
+Blueprint_54_Supply_0_Amount 1
+Blueprint_54_Supply_1_ID 1055
+Blueprint_54_Supply_1_Amount 1
+Blueprint_54_Product 20666
+Blueprint_54_Tool 63522
+Blueprint_54_Build 27
+
+Blueprint_55_Type Gear
+Blueprint_55_Supplies 2
+Blueprint_55_Supply_0_ID 63535
+Blueprint_55_Supply_0_Amount 1
+Blueprint_55_Supply_1_ID 1055
+Blueprint_55_Supply_1_Amount 1
+Blueprint_55_Product 21284
+Blueprint_55_Tool 63522
+Blueprint_55_Build 27
+
+Blueprint_56_Type Gear
+Blueprint_56_Supplies 2
+Blueprint_56_Supply_0_ID 63535
+Blueprint_56_Supply_0_Amount 1
+Blueprint_56_Supply_1_ID 1055
+Blueprint_56_Supply_1_Amount 1
+Blueprint_56_Product 21285
+Blueprint_56_Tool 63522
+Blueprint_56_Build 27
+
+Blueprint_57_Type Gear
+Blueprint_57_Supplies 2
+Blueprint_57_Supply_0_ID 63535
+Blueprint_57_Supply_0_Amount 1
+Blueprint_57_Supply_1_ID 1055
+Blueprint_57_Supply_1_Amount 1
+Blueprint_57_Product 21278
+Blueprint_57_Tool 63522
+Blueprint_57_Build 27
+
+Blueprint_58_Type Gear
+Blueprint_58_Supplies 2
+Blueprint_58_Supply_0_ID 63535
+Blueprint_58_Supply_0_Amount 1
+Blueprint_58_Supply_1_ID 1055
+Blueprint_58_Supply_1_Amount 1
+Blueprint_58_Product 20561
+Blueprint_58_Tool 63522
+Blueprint_58_Build 27
+
+Blueprint_59_Type Gear
+Blueprint_59_Supplies 2
+Blueprint_59_Supply_0_ID 63535
+Blueprint_59_Supply_0_Amount 1
+Blueprint_59_Supply_1_ID 1055
+Blueprint_59_Supply_1_Amount 1
+Blueprint_59_Product 20582
+Blueprint_59_Tool 63522
+Blueprint_59_Build 27
+
+Blueprint_60_Type Gear
+Blueprint_60_Supplies 2
+Blueprint_60_Supply_0_ID 63535
+Blueprint_60_Supply_0_Amount 1
+Blueprint_60_Supply_1_ID 1055
+Blueprint_60_Supply_1_Amount 1
+Blueprint_60_Product 20392
+Blueprint_60_Tool 63522
+Blueprint_60_Build 27
+
+Blueprint_61_Type Gear
+Blueprint_61_Supplies 2
+Blueprint_61_Supply_0_ID 63535
+Blueprint_61_Supply_0_Amount 1
+Blueprint_61_Supply_1_ID 1055
+Blueprint_61_Supply_1_Amount 1
+Blueprint_61_Product 20397
+Blueprint_61_Tool 63522
+Blueprint_61_Build 27
+
+Blueprint_62_Type Gear
+Blueprint_62_Supplies 2
+Blueprint_62_Supply_0_ID 63535
+Blueprint_62_Supply_0_Amount 1
+Blueprint_62_Supply_1_ID 1055
+Blueprint_62_Supply_1_Amount 1
+Blueprint_62_Product 20405
+Blueprint_62_Tool 63522
+Blueprint_62_Build 27
+
+Blueprint_63_Type Gear
+Blueprint_63_Supplies 2
+Blueprint_63_Supply_0_ID 63535
+Blueprint_63_Supply_0_Amount 1
+Blueprint_63_Supply_1_ID 1055
+Blueprint_63_Supply_1_Amount 1
+Blueprint_63_Product 20460
+Blueprint_63_Tool 63522
+Blueprint_63_Build 27
+
+Blueprint_64_Type Gear
+Blueprint_64_Supplies 2
+Blueprint_64_Supply_0_ID 63535
+Blueprint_64_Supply_0_Amount 1
+Blueprint_64_Supply_1_ID 1055
+Blueprint_64_Supply_1_Amount 1
+Blueprint_64_Product 20189
+Blueprint_64_Tool 63522
+Blueprint_64_Build 27
+
+Blueprint_65_Type Gear
+Blueprint_65_Supplies 2
+Blueprint_65_Supply_0_ID 63535
+Blueprint_65_Supply_0_Amount 1
+Blueprint_65_Supply_1_ID 1055
+Blueprint_65_Supply_1_Amount 1
+Blueprint_65_Product 20064
+Blueprint_65_Tool 63522
+Blueprint_65_Build 27
+
+Blueprint_66_Type Gear
+Blueprint_66_Supplies 2
+Blueprint_66_Supply_0_ID 63535
+Blueprint_66_Supply_0_Amount 1
+Blueprint_66_Supply_1_ID 1055
+Blueprint_66_Supply_1_Amount 1
+Blueprint_66_Product 20065
+Blueprint_66_Tool 63522
+Blueprint_66_Build 27
+
+Blueprint_67_Type Gear
+Blueprint_67_Supplies 2
+Blueprint_67_Supply_0_ID 63535
+Blueprint_67_Supply_0_Amount 1
+Blueprint_67_Supply_1_ID 1055
+Blueprint_67_Supply_1_Amount 1
+Blueprint_67_Product 20066
+Blueprint_67_Tool 63522
+Blueprint_67_Build 27
+
+Blueprint_68_Type Gear
+Blueprint_68_Supplies 2
+Blueprint_68_Supply_0_ID 63535
+Blueprint_68_Supply_0_Amount 1
+Blueprint_68_Supply_1_ID 1055
+Blueprint_68_Supply_1_Amount 1
+Blueprint_68_Product 20067
+Blueprint_68_Tool 63522
+Blueprint_68_Build 27
+
+Blueprint_69_Type Gear
+Blueprint_69_Supplies 2
+Blueprint_69_Supply_0_ID 63535
+Blueprint_69_Supply_0_Amount 1
+Blueprint_69_Supply_1_ID 1055
+Blueprint_69_Supply_1_Amount 1
+Blueprint_69_Product 20898
+Blueprint_69_Tool 63522
+Blueprint_69_Build 27
+
+Blueprint_70_Type Gear
+Blueprint_70_Supplies 2
+Blueprint_70_Supply_0_ID 63535
+Blueprint_70_Supply_0_Amount 1
+Blueprint_70_Supply_1_ID 1055
+Blueprint_70_Supply_1_Amount 1
+Blueprint_70_Product 20899
+Blueprint_70_Tool 63522
+Blueprint_70_Build 27
+
+Blueprint_71_Type Gear
+Blueprint_71_Supplies 2
+Blueprint_71_Supply_0_ID 63535
+Blueprint_71_Supply_0_Amount 1
+Blueprint_71_Supply_1_ID 1055
+Blueprint_71_Supply_1_Amount 1
+Blueprint_71_Product 20068
+Blueprint_71_Tool 63522
+Blueprint_71_Build 27
+
+Blueprint_72_Type Gear
+Blueprint_72_Supplies 2
+Blueprint_72_Supply_0_ID 63535
+Blueprint_72_Supply_0_Amount 1
+Blueprint_72_Supply_1_ID 1055
+Blueprint_72_Supply_1_Amount 1
+Blueprint_72_Product 20069
+Blueprint_72_Tool 63522
+Blueprint_72_Build 27
+
+Blueprint_73_Type Gear
+Blueprint_73_Supplies 2
+Blueprint_73_Supply_0_ID 63535
+Blueprint_73_Supply_0_Amount 1
+Blueprint_73_Supply_1_ID 1055
+Blueprint_73_Supply_1_Amount 1
+Blueprint_73_Product 20546
+Blueprint_73_Tool 63522
+Blueprint_73_Build 27
+
+Blueprint_74_Type Gear
+Blueprint_74_Supplies 2
+Blueprint_74_Supply_0_ID 63535
+Blueprint_74_Supply_0_Amount 1
+Blueprint_74_Supply_1_ID 1055
+Blueprint_74_Supply_1_Amount 1
+Blueprint_74_Product 21241
+Blueprint_74_Tool 63522
+Blueprint_74_Build 27
