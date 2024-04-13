@@ -1,0 +1,49 @@
+GUID 5534ee7515474ef68ae6fe140652c962
+Type Barricade
+Rarity Epic
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Barricade
+ID 10166
+
+Size_X 1
+Size_Y 1
+Size_Z 0.45
+
+Health 100
+Range 4 
+Radius 0.18
+Offset 0.2
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Bypass_Pickup_Ownership True
+
+Blueprints 2
+Blueprint_0_Type Gear
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 10
+Blueprint_0_Build 27
+Blueprint_1_Type Gear
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 10166
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 68
+Blueprint_1_Output_0_Amount 10
+Blueprint_1_Build 27
+
+Actions 1
+
+Action_0_Type Blueprint
+Action_0_Blueprints 1
+Action_0_Blueprint_0_Index 1
+Action_0_Text Unstack
+Action_0_Tooltip Uncompactify.
