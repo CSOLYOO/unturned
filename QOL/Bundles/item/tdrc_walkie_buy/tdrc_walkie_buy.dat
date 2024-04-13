@@ -15,5 +15,5 @@ Blueprint_0_Product 63522
 Blueprint_0_Products 1
 Blueprint_0_Build 27
 
-Master_Bundle_Override core.masterbundle
-Bundle_Override_Path /Items/Tools/Walkie_Talkie
+Master_Bundle_Override arid.masterbundle
+Bundle_Override_Path /Items/Supplies/PS_Walkie-Talkie

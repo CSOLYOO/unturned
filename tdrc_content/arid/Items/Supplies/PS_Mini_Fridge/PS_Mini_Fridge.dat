@@ -1,0 +1,40 @@
+GUID a311392239fb4db5bf8f93355572685b
+Type Storage
+Rarity Epic
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage
+ID 59607
+
+Size_X 2
+Size_Y 2
+Size_Z 0.52
+
+Health 600
+Range 4
+Radius 0.32
+Offset 0.355
+
+Storage_X 10
+Storage_Y 10
+
+Explosion 36
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 49101
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Salvage_Duration_Multiplier 0.3
+
+Bypass_Pickup_Ownership True
