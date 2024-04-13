@@ -1,0 +1,32 @@
+GUID b317fa1e80be4f90b14695c0aeae1ae4
+Type Barricade
+Rarity Legendary
+Useable Barricade
+Build Barricade
+ID 59583
+
+Size_X 2
+Size_Y 1
+Size_Z 0.276
+
+SalvageItem b317fa1e80be4f90b14695c0aeae1ae4
+Min_Items_Dropped_On_Destroy 1
+Max_Items_Dropped_On_Destroy 1
+Item_Dropped_On_Destroy 8a7ea55bee54445bae94b13441ca5bf7
+
+Has_Clip_Prefab False
+
+Health 50
+Range 4
+Radius 0.1
+Offset 0.14
+
+Explosion 36
+
+Vulnerable
+
+Salvage_Duration_Multiplier 0.1
+
+PlacementAudioClip Sounds/MiscPlacement.mp3
+
+Bypass_Pickup_Ownership True

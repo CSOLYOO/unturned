@@ -1,0 +1,15 @@
+GUID d42bac6983324d3897521388c9485e5c
+Type Effect
+ID 59062
+
+Relevant_Distance 500
+
+Lifetime 20
+Lifetime_Spread 0
+
+Splatter 4
+Splatters 64
+Splatter_Liquid
+Splatter_Temperature Burning
+Splatter_Lifetime 18
+Splatter_Lifetime_Spread 1

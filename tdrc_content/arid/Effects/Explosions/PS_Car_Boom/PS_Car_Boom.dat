@@ -1,0 +1,10 @@
+GUID 38db64818de14abd917fac42efb7dc10
+Type Effect
+ID 59021
+
+Blast 137
+
+Relevant_Distance 600
+
+CameraShake_Radius 32
+CameraShake_MagnitudeDegrees 50

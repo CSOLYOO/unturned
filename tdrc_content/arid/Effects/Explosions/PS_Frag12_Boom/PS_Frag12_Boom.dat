@@ -1,0 +1,8 @@
+GUID 724b904149134d88936fa4f3e49974d2
+Type Effect
+ID 59065
+
+Relevant_Distance 1500
+
+CameraShake_Radius 5
+CameraShake_MagnitudeDegrees 20

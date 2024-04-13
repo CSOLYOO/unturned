@@ -1,0 +1,12 @@
+GUID 86d41f7faa0449cdbae876adb8588692
+Type Effect
+ID 59092
+
+Blast 137
+
+Lifetime 10
+
+Relevant_Distance 3000
+
+CameraShake_Radius 32
+CameraShake_MagnitudeDegrees 50

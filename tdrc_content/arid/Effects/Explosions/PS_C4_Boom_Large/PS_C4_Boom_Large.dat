@@ -1,0 +1,10 @@
+GUID 0000660fbc184a19af47a58afc816824
+Type Effect
+ID 59047
+
+Blast 137
+
+Relevant_Distance 4000
+
+CameraShake_Radius 64
+CameraShake_MagnitudeDegrees 160

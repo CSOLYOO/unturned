@@ -1,0 +1,8 @@
+GUID 9ebc41582daa457e806b9df36318a9e3
+Type Effect
+ID 59078
+
+CameraShake_Radius 15
+CameraShake_MagnitudeDegrees 25
+
+Spawn_On_Dedicated_Server

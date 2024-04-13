@@ -1,0 +1,6 @@
+GUID 720905dbb709466fb1c79d6a89027bfc
+Type Effect
+ID 59077
+
+CameraShake_Radius 5
+CameraShake_MagnitudeDegrees 15

@@ -1,0 +1,9 @@
+GUID 8e57c82619df41798efa69336196447a
+Type Effect
+ID 59096
+
+Lifetime 0.1
+
+Relevant_Distance 3000
+
+Spawn_On_Dedicated_Server
