@@ -1,0 +1,27 @@
+GUID 652cdef4ccd045f683c649a334f9df59
+Type Magazine
+Rarity Legendary
+ID 59391
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Amount 6
+Count_Min 0
+Count_Max 6
+
+Calibers 1
+Caliber_0 59391
+
+Tracer 59040
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 16391
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59391
+Blueprint_1_Build 30
