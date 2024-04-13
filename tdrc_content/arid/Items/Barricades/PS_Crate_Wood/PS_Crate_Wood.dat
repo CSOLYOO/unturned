@@ -1,0 +1,54 @@
+GUID 70d9107fa40b47cd95e2e1e10b6bb461
+Type Storage
+Rarity Common
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage
+ID 59220
+
+Size_X 2
+Size_Y 2
+Size_Z 0.56
+
+Health 200
+Range 4
+Radius 0.6
+Offset 0.75
+
+Storage_X 10
+Storage_Y 10
+
+Explosion 19
+
+Blueprints 3
+Blueprint_0_Type Furniture
+Blueprint_0_Supply_0_ID 61
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 71
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+Blueprint_1_Type Furniture
+Blueprint_1_Supply_0_ID 62
+Blueprint_1_Supply_0_Amount 6
+Blueprint_1_Supply_1_ID 71
+Blueprint_1_Supply_1_Amount 1
+Blueprint_1_Tool 76
+Blueprint_1_Build 27
+Blueprint_2_Type Furniture
+Blueprint_2_Supply_0_ID 63
+Blueprint_2_Supply_0_Amount 6
+Blueprint_2_Supply_1_ID 71
+Blueprint_2_Supply_1_Amount 1
+Blueprint_2_Tool 76
+Blueprint_2_Build 27
+
+Should_Close_When_Outside_Range True
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+PlacementPreviewPrefab Items/Barricades/PS_Crate_Wood/Placement.prefab

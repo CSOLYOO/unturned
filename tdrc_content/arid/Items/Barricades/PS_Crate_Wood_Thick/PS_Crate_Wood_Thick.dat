@@ -1,0 +1,41 @@
+GUID 529b6154bc8b41d2af2d9110a2306254
+Type Storage
+Rarity Epic
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage
+ID 59811
+
+Size_X 3
+Size_Y 3
+Size_Z 0.57
+
+Health 400
+Range 8
+Radius 1.2
+Offset 1.25
+
+Storage_X 14
+Storage_Y 30
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59220
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 71
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.5
+
+PlacementPreviewPrefab Items/Barricades/PS_Crate_Plastic_Thick/Placement.prefab

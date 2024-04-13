@@ -1,0 +1,60 @@
+GUID 81c77cef89e5408d9fa59dd786cfea38
+Type Storage
+Rarity Uncommon
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage_Wall
+ID 59820
+
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 100
+Range 4
+Offset 0.11
+
+Storage_X 6
+Storage_Y 6
+Display
+
+Vulnerable
+
+Explosion 19
+
+Blueprints 3
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 61
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Supply_1_ID 67
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+
+Blueprint_1_Type Furniture
+Blueprint_1_Supplies 2
+Blueprint_1_Supply_0_ID 62
+Blueprint_1_Supply_0_Amount 5
+Blueprint_1_Supply_1_ID 67
+Blueprint_1_Supply_1_Amount 5
+Blueprint_1_Tool 76
+Blueprint_1_Build 27
+
+Blueprint_2_Type Furniture
+Blueprint_2_Supplies 2
+Blueprint_2_Supply_0_ID 63
+Blueprint_2_Supply_0_Amount 5
+Blueprint_2_Supply_1_ID 67
+Blueprint_2_Supply_1_Amount 5
+Blueprint_2_Tool 76
+Blueprint_2_Build 27
+
+Should_Close_When_Outside_Range true
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.25

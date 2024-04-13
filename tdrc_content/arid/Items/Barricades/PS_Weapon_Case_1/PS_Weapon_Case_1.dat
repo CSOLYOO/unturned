@@ -1,0 +1,42 @@
+GUID e3febc2e7227404f8c9fefd94065dbeb
+Type Storage
+Rarity Rare
+Useable Barricade
+
+Has_Clip_Prefab False
+
+Build Storage
+ID 60011
+
+Size_X 2
+Size_Y 1
+Size_Z 0.45
+
+Health 200
+Range 4
+Radius 0.14
+Offset 0.17
+
+Storage_X 10
+Storage_Y 10
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 49101
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 76
+Blueprint_0_Build 27
+
+Explosion 19
+
+
+Should_Close_When_Outside_Range True
+
+PlacementAudioClip Sounds/WoodenPlacement.mp3
+
+Salvage_Duration_Multiplier 0.2
+
+Bypass_Pickup_Ownership True
+
+PlacementPreviewPrefab Items/Barricades/PS_Weapon_Case_0/Placement.prefab
