@@ -8,10 +8,7 @@ Has_Clip_Prefab False
 Build Storage
 ID 59374
 
-SalvageItem 43a0f79b73b143ef9fcffa1b92b119ff
-Min_Items_Dropped_On_Destroy 1
-Max_Items_Dropped_On_Destroy 1
-Item_Dropped_On_Destroy 5f9b0144004e454295e70ed2ee9bd076
+
 
 Size_X 3
 Size_Y 2
