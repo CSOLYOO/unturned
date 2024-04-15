@@ -1,0 +1,24 @@
+GUID 3697845b16fa4bbfb568117fbcf8c57c
+Type Medical
+Rarity Rare
+Useable Consumeable
+Bypass_ID_Limit
+ID 388
+
+Size_X 1
+Size_Y 1
+Size_Z 0.295
+
+Aid
+Virus 5
+Broken
+Health 15
+Energy 100
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59670
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Syringe Received
+Quest_Reward_1_Duration 1
