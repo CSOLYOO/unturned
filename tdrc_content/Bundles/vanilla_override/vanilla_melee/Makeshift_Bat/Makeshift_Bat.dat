@@ -5,7 +5,7 @@ Slot Any
 Bypass_ID_Limit
 ID 487
 Master_Bundle_Override core.masterbundle
-Bundle_Override_Path Items/Melee/487
+Bundle_Override_Path Items/Melee/Makeshift_Bat
 Size_X 2
 Size_Y 3
 Size_Z 0.6
