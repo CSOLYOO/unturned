@@ -1,0 +1,30 @@
+GUID 803ff72cc45e4c7bbcd892187d2cfe27
+Type Water
+Useable Consumeable
+ID 94
+
+Size_X 1
+Size_Y 1
+Size_Z 0.4
+
+Health 10
+Water 55
+
+Blueprints 1
+Blueprint_0_Type Repair
+Blueprint_0_Supply_0_ID 392
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+ConsumeAudioClip Sounds/DrinkSwallow.mp3
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path Items/Water/Bottled_Coconut
+Bypass_ID_Limit
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59635
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Bottle Received
+Quest_Reward_1_Duration 1

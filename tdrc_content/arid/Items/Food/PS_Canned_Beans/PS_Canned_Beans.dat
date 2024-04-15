@@ -1,0 +1,15 @@
+GUID 78fefdd23def4ab6ac8301adfcc3b2d4
+Type Food
+Rarity Uncommon
+Useable Consumeable
+ID 13
+Bypass_ID_Limit
+
+Size_X 1
+Size_Y 1
+Size_Z 0.3
+
+Health 10
+Food 55
+
+Quality_Min 90

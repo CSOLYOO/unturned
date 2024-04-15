@@ -11,3 +11,11 @@ Size_Z 0.4
 Aid
 Health 10
 Disinfectant 10
+
+Quest_Rewards 2
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59670
+Quest_Reward_0_Amount 1
+Quest_Reward_1_Type Hint
+Quest_Reward_1_Text Empty Syringe Received
+Quest_Reward_1_Duration 1
