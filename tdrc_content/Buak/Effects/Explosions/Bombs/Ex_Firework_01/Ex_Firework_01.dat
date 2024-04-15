@@ -1,0 +1,7 @@
+GUID 587c08a03ca84ae19cd2c9160c5177b4
+Type Effect
+ID 25482
+
+
+CameraShake_Radius 5
+CameraShake_MagnitudeDegrees 5

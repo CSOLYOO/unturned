@@ -1,0 +1,6 @@
+GUID 52c1fa94af554c8b977efec9b9234c34
+Type Effect
+ID 25569
+
+Spawn_On_Dedicated_Server
+Relevant_Distance 5000
